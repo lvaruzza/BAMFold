@@ -18,7 +18,7 @@ public class BAMEdgeReader {
 		public void callback(SAMRecord aln);
 	}
 	
-	private static Logger log = LoggerFactory.getLogger(BAMGraphBuilderNeo4j.class);
+	private static Logger log = LoggerFactory.getLogger(BAMEdgeReader.class);
 
 	private File input;
 	private DescriptiveStatistics insertStats = new DescriptiveStatistics();
