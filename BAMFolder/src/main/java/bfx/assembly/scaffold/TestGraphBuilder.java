@@ -3,6 +3,8 @@ package bfx.assembly.scaffold;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+import com.tinkerpop.blueprints.Direction;
+import com.tinkerpop.blueprints.Edge;
 import com.tinkerpop.blueprints.Graph;
 import com.tinkerpop.blueprints.Vertex;
 import com.tinkerpop.blueprints.util.io.graphml.GraphMLWriter;
@@ -29,12 +31,15 @@ public class TestGraphBuilder {
 		reader.read(builder);
 		
 		Graph graph = builder.getGraph();
+		//saveGraph(graph);
 		
 		System.out.println("Vetices:");
 		for(Vertex v: graph.getVertices()) {
 			System.out.println(v);
+			for(Edge e: v.getEdges(Direction.OUT, "F")) {
+				System.out.println(String.format("\t%s %d",e,e.getProperty("count")));
+			}
 		}
-		//saveGraph(graph);
 	}
 
 }

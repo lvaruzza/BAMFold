@@ -11,6 +11,7 @@ import com.tinkerpop.blueprints.impls.tg.TinkerGraph;
 public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 	private KeyIndexableGraph graph;
 	private long edgeCount = 0;
+	private long invalidOrientationPair=0;
 	
 	public BluePrintsGraphBuilder() {
 		graph = new TinkerGraph();
@@ -18,7 +19,7 @@ public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 		
 	}
 	
-	private Edge addEdge(Vertex a,Vertex b,String label) {
+	private Edge addEdgeCount(Vertex a,Vertex b,String label) {
 		String edgeLabel = a.getId().toString()+b.getId().toString();
 		Edge edge = graph.getEdge(edgeLabel);
 		if (edge == null) {
@@ -28,6 +29,13 @@ public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 			int c=edge.getProperty("count");
 			edge.setProperty("count", c+1);
 		}
+		edgeCount++;
+		return edge;
+	}
+
+	private Edge addEdgeMulti(Vertex a,Vertex b,String label) {
+		String edgeLabel = a.getId().toString()+b.getId().toString();
+		Edge edge=graph.addEdge(edgeCount, a,b,label);
 		edgeCount++;
 		return edge;
 	}
@@ -52,10 +60,12 @@ public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 		// TODO: Make this configurable in future
 		if ((leftIsReverse ^ rightIsReverse) == false) {
 			if (leftIsReverse && rightIsReverse ) {
-				addEdge(right,left,"R");
+				addEdgeMulti(right,left,"R");
 			} else {
-				addEdge(left,right,"F");
+				addEdgeMulti(left,right,"F");
 			} 
+		} else {
+			invalidOrientationPair++;
 		}
 	}
 
@@ -64,4 +74,7 @@ public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 	}
 
 
+	public void printStat() {
+		System.out.println(String.format("Invalid Orientation Pairs %d",invalidOrientationPair));
+	}
 }
