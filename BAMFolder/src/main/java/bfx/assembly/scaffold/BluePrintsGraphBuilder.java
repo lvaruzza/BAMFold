@@ -18,6 +18,20 @@ public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 		
 	}
 	
+	private Edge addEdge(Vertex a,Vertex b,String label) {
+		String edgeLabel = a.getId().toString()+b.getId().toString();
+		Edge edge = graph.getEdge(edgeLabel);
+		if (edge == null) {
+			edge=graph.addEdge(edgeLabel, a,b,label);
+			edge.setProperty("count", 1);
+		} else {
+			int c=edge.getProperty("count");
+			edge.setProperty("count", c+1);
+		}
+		edgeCount++;
+		return edge;
+	}
+	
 	@Override
 	public void callback(SAMRecord aln) {
 		Vertex left = graph.getVertex(aln.getReferenceName());
@@ -31,20 +45,18 @@ public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 		if (right == null) {
 			right = graph.addVertex(aln.getMateReferenceName());
 		}
-		Edge edge;
+		boolean leftIsReverse = ((flags & 0x10) == 1);
+		boolean rightIsReverse = ((flags & 0x20) == 1);
 		
-		if (((flags & 0x10) == 1)       /* left is reverse */
-				&& ((flags & 0x20) ==1) /* right is reverse*/) {
-			edge=graph.addEdge(edgeCount, right,left,"R");
-			System.out.println(String.format("R %s %s",right.getId(),left.getId()));
-			edge.setProperty("right_start", aln.getAlignmentStart());
-			edge.setProperty("right_start", aln.getAlignmentStart());
-		} else {
-			edge=graph.addEdge(edgeCount, left,right,"F");			
-			System.out.println(String.format("F %s %s",left.getId(),right.getId()));
-			
+		// Only process edges with --> --> or <-- <-- orientations 
+		// TODO: Make this configurable in future
+		if ((leftIsReverse ^ rightIsReverse) == false) {
+			if (leftIsReverse && rightIsReverse ) {
+				addEdge(right,left,"R");
+			} else {
+				addEdge(left,right,"F");
+			} 
 		}
-		edgeCount++;
 	}
 
 	public Graph getGraph() {

@@ -1,13 +1,24 @@
 package bfx.assembly.scaffold;
 
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+import com.tinkerpop.blueprints.Graph;
+import com.tinkerpop.blueprints.Vertex;
 import com.tinkerpop.blueprints.util.io.graphml.GraphMLWriter;
 
 public class TestGraphBuilder {
 
+	@SuppressWarnings("unused")
+	private static void saveGraph(Graph graph) throws IOException {		
+		GraphMLWriter writer = new GraphMLWriter(graph);
+		FileOutputStream out = new FileOutputStream("scaffold.graphml");
+		//writer.setNormalize(true);
+		writer.outputGraph(out);
+		out.close();
+		
+	}
+	
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -17,12 +28,13 @@ public class TestGraphBuilder {
 		BluePrintsGraphBuilder builder = new BluePrintsGraphBuilder();
 		reader.read(builder);
 		
-		GraphMLWriter writer = new GraphMLWriter(builder.getGraph());
-		FileOutputStream out = new FileOutputStream("scaffold.graphml");
-		//writer.setNormalize(true);
-		writer.outputGraph(out);
-		out.close();
-
+		Graph graph = builder.getGraph();
+		
+		System.out.println("Vetices:");
+		for(Vertex v: graph.getVertices()) {
+			System.out.println(v);
+		}
+		//saveGraph(graph);
 	}
 
 }
