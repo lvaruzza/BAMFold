@@ -3,19 +3,20 @@ package bfx.assembly.scaffold;
 import java.io.File;
 import java.util.HashMap;
 import java.util.List;
-
-import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import java.util.Map;
 
 import net.sf.samtools.SAMFileHeader;
 import net.sf.samtools.SAMFileReader;
 import net.sf.samtools.SAMRecord;
 import net.sf.samtools.SAMSequenceRecord;
 
+import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 public class BAMEdgeReader {
 	public static interface EdgeConsumer {
-		public void callback(SAMRecord aln);
+		public void callback(SAMRecord aln,Map<String,Integer> seqs);
 	}
 	
 	private static Logger log = LoggerFactory.getLogger(BAMEdgeReader.class);
@@ -34,12 +35,19 @@ public class BAMEdgeReader {
 		insertStats.addValue(Math.abs(align.getInferredInsertSize()));
 	}
 
+	private Map<String,Integer> makeSeqMap(List<SAMSequenceRecord> seqs) {
+		Map<String,Integer> map = new HashMap<String,Integer>();
+		for(SAMSequenceRecord seq:seqs) {
+			map.put(seq.getSequenceName(), seq.getSequenceLength());
+		}
+		return map;
+	}
 	
 	void read(EdgeConsumer consumer) {
 		SAMFileReader reader = new SAMFileReader(input);
 		long edges=0;
 		SAMFileHeader header = reader.getFileHeader();
-		List<SAMSequenceRecord> seqs = header.getSequenceDictionary().getSequences();
+		Map<String,Integer> seqs = makeSeqMap(header.getSequenceDictionary().getSequences());
 
 		for (SAMRecord aln:reader) {
 			if(!aln.getDuplicateReadFlag() && !aln.getReadUnmappedFlag()) {
@@ -48,7 +56,7 @@ public class BAMEdgeReader {
 					//out.println(aln);
 					calculateInsertSize(aln);
 				} else {
-					consumer.callback(aln);
+					consumer.callback(aln,seqs);
 					edges++;
 				}
 			}

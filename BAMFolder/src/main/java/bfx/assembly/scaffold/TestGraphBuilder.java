@@ -31,13 +31,15 @@ public class TestGraphBuilder {
 		reader.read(builder);
 		
 		Graph graph = builder.getGraph();
-		//saveGraph(graph);
+		saveGraph(graph);
 		
 		System.out.println("Vetices:");
 		for(Vertex v: graph.getVertices()) {
 			System.out.println(v);
-			for(Edge e: v.getEdges(Direction.OUT, "F")) {
-				System.out.println(String.format("\t%s %d",e,e.getProperty("count")));
+			for(Edge e: v.getEdges(Direction.OUT, "F","R")) {
+				System.out.println(String.format("\t%s %d %d",e,
+						e.getProperty("start"),
+						e.getProperty("MQ")));
 			}
 		}
 	}
