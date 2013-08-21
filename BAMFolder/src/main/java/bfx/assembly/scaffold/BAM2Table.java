@@ -21,13 +21,15 @@ public class BAM2Table implements BAMEdgeReader.EdgeConsumer {
 
 	@Override
 	public void callback(SAMRecord aln, Map<String, Integer> seqs) {
-		int flags=aln.getFlags();
+		//int flags=aln.getFlags();
 		
-		boolean leftIsReverse = ((flags & 0x10) == 1);
-		boolean rightIsReverse = ((flags & 0x20) == 1);
+		boolean leftIsReverse =  aln.getReadNegativeStrandFlag();  //((flags & 0x10) == 1);
+		boolean rightIsReverse = aln.getMateNegativeStrandFlag(); //((flags & 0x20) == 1);
 
 
-		table.printRow(aln.getReferenceName(),
+		table.printRow(
+				aln.getReadName(),
+				aln.getReferenceName(),
 				aln.getMateReferenceName(),
 				aln.getAlignmentStart(),
 				aln.getMappingQuality(),

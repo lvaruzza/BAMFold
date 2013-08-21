@@ -50,7 +50,7 @@ public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 	public void callback(SAMRecord aln,Map<String,Integer> seqs) {
 		Vertex left = graph.getVertex(aln.getReferenceName());
 		Vertex right = graph.getVertex(aln.getMateReferenceName());
-		int flags=aln.getFlags();
+		
 		if (left == null) {
 			left = graph.addVertex(aln.getReferenceName());
 			left.setProperty("length", seqs.get(aln.getReferenceName()));
@@ -60,8 +60,8 @@ public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 			right = graph.addVertex(aln.getMateReferenceName());
 			left.setProperty("length", seqs.get(aln.getMateReferenceName()));
 		}
-		boolean leftIsReverse = ((flags & 0x10) == 1);
-		boolean rightIsReverse = ((flags & 0x20) == 1);
+		boolean leftIsReverse =  aln.getReadNegativeStrandFlag();  //((flags & 0x10) == 1);
+		boolean rightIsReverse = aln.getMateNegativeStrandFlag(); //((flags & 0x20) == 1);
 		
 		// Only process edges with --> --> or <-- <-- orientations 
 		// TODO: Make this configurable in future
