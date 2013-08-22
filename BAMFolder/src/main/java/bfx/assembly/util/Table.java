@@ -15,4 +15,8 @@ public class Table {
 	public void printRow(Object... things) {
 		out.println(joiner.join(things));
 	}
+
+	public void close() {
+		out.close();
+	}
 }

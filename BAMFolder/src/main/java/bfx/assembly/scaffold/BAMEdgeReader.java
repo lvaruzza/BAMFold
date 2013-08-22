@@ -16,7 +16,10 @@ import org.slf4j.LoggerFactory;
 
 public class BAMEdgeReader {
 	public static interface EdgeConsumer {
-		public void callback(SAMRecord aln,Map<String,Integer> seqs);
+		public void callback(SAMRecord aln);
+		public void setSequences(Map<String,Integer> seqs);
+		public void start();
+		public void finish();
 	}
 	
 	private static Logger log = LoggerFactory.getLogger(BAMEdgeReader.class);
@@ -48,7 +51,8 @@ public class BAMEdgeReader {
 		long edges=0;
 		SAMFileHeader header = reader.getFileHeader();
 		Map<String,Integer> seqs = makeSeqMap(header.getSequenceDictionary().getSequences());
-
+		consumer.setSequences(seqs);
+		consumer.start();
 		for (SAMRecord aln:reader) {
 			if(!aln.getDuplicateReadFlag() && !aln.getReadUnmappedFlag()) {
 				//out.println(it);
@@ -56,12 +60,13 @@ public class BAMEdgeReader {
 					//out.println(aln);
 					calculateInsertSize(aln);
 				} else {
-					consumer.callback(aln,seqs);
+					consumer.callback(aln);
 					edges++;
 				}
 			}
 		}
 		reader.close();
+		consumer.finish();
 		log.info("Finished Reading BAM");
 		double q1 = insertStats.getPercentile(25);
 		double q3 = insertStats.getPercentile(75);

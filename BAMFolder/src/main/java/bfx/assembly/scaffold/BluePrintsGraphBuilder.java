@@ -14,6 +14,7 @@ public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 	private KeyIndexableGraph graph;
 	private long edgeCount = 0;
 	private long invalidOrientationPair=0;
+	private Map<String, Integer> seqs;
 	
 	public BluePrintsGraphBuilder() {
 		graph = new TinkerGraph();
@@ -47,7 +48,7 @@ public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 	}
 	
 	@Override
-	public void callback(SAMRecord aln,Map<String,Integer> seqs) {
+	public void callback(SAMRecord aln) {
 		Vertex left = graph.getVertex(aln.getReferenceName());
 		Vertex right = graph.getVertex(aln.getMateReferenceName());
 		
@@ -83,5 +84,22 @@ public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 
 	public void printStat() {
 		System.out.println(String.format("Invalid Orientation Pairs %d",invalidOrientationPair));
+	}
+
+	@Override
+	public void setSequences(Map<String, Integer> seqs) {
+		this.seqs = seqs;
+	}
+
+	@Override
+	public void start() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void finish() {
+		// TODO Auto-generated method stub
+		
 	}
 }
