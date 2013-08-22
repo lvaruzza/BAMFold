@@ -10,6 +10,7 @@ import bfx.assembly.util.Table;
 
 public class BAM2Table implements BAMEdgeReader.EdgeConsumer {
 	private Table table;
+	private Map<String, Integer> seqs;
 	
 	BAM2Table(OutputStream out) {
 		table = new Table(out);
@@ -20,7 +21,7 @@ public class BAM2Table implements BAMEdgeReader.EdgeConsumer {
 	}
 
 	@Override
-	public void callback(SAMRecord aln, Map<String, Integer> seqs) {
+	public void callback(SAMRecord aln) {
 		//int flags=aln.getFlags();
 		
 		boolean leftIsReverse =  aln.getReadNegativeStrandFlag();  //((flags & 0x10) == 1);
@@ -36,5 +37,21 @@ public class BAM2Table implements BAMEdgeReader.EdgeConsumer {
 				leftIsReverse ? "R" : "F",
 				rightIsReverse ? "R" : "F");
 		
+	}
+
+	@Override
+	public void setSequences(Map<String, Integer> seqs) {
+		this.seqs = seqs;
+	}
+
+	@Override
+	public void start() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void finish() {
+		table.close();
 	}
 }
