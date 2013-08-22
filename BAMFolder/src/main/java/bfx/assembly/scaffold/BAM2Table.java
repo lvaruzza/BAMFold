@@ -37,5 +37,4 @@ public class BAM2Table implements BAMEdgeReader.EdgeConsumer {
 				rightIsReverse ? "R" : "F");
 		
 	}
-
 }

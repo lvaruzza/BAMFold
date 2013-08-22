@@ -50,7 +50,8 @@ public class BAMEdgeReader {
 		Map<String,Integer> seqs = makeSeqMap(header.getSequenceDictionary().getSequences());
 
 		for (SAMRecord aln:reader) {
-			if(!aln.getDuplicateReadFlag() && !aln.getReadUnmappedFlag()) {
+			if(!aln.getDuplicateReadFlag() && 
+			   !aln.getReadUnmappedFlag()) {
 				//out.println(it);
 				if (aln.getMateReferenceName().equals(aln.getReferenceName())) {
 					//out.println(aln);
