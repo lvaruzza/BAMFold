@@ -1,4 +1,4 @@
-package bfx.assembly.scaffold;
+package bfx.assembly.scaffold.bam;
 
 import java.io.File;
 import java.util.Iterator;
@@ -6,16 +6,16 @@ import java.util.Iterator;
 import net.sf.samtools.SAMFileReader;
 import net.sf.samtools.SAMRecord;
 
-public class BAMIEdgeIterable implements Iterable<SAMRecord> {
+public class BAMIterable implements Iterable<SAMRecord> {
 
 	private File input;
 	private SAMFileReader reader;
 	
-	public BAMIEdgeIterable(String filename) {
+	public BAMIterable(String filename) {
 		this(new File(filename));
 	}
 
-	public BAMIEdgeIterable(File input) {
+	public BAMIterable(File input) {
 		this.input = input;
 		reader = new SAMFileReader(input);
 	}

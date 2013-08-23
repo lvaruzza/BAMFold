@@ -1,16 +1,16 @@
-package bfx.assembly.scaffold;
+package bfx.assembly.scaffold.bam;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
+import java.io.IOException;
 import java.io.OutputStream;
 import java.util.Map;
 
 import net.sf.samtools.SAMRecord;
 import bfx.assembly.util.Table;
 
-public class BAM2Table implements BAMEdgeReader.EdgeConsumer {
+public class BAM2Table extends BAMReader.AlignConsumer {
 	private Table table;
-	private Map<String, Integer> seqs;
 	
 	BAM2Table(OutputStream out) {
 		table = new Table(out);
@@ -36,22 +36,27 @@ public class BAM2Table implements BAMEdgeReader.EdgeConsumer {
 				aln.getMappingQuality(),
 				leftIsReverse ? "R" : "F",
 				rightIsReverse ? "R" : "F");
-		
 	}
 
-	@Override
-	public void setSequences(Map<String, Integer> seqs) {
-		this.seqs = seqs;
-	}
 
 	@Override
 	public void start() {
-		// TODO Auto-generated method stub
-		
 	}
 
 	@Override
 	public void finish() {
 		table.close();
 	}
+	
+	
+	/**
+	 * @param args
+	 * @throws IOException 
+	 */
+	public static void main(String[] args) throws IOException {
+		BAMReader reader = new BAMReader("data/mates.bam");
+		BAM2Table builder = new BAM2Table("data/mates.tbl.txt");
+		reader.read(builder);
+	}
+
 }

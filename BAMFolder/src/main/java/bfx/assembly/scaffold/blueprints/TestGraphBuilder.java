@@ -1,7 +1,9 @@
-package bfx.assembly.scaffold;
+package bfx.assembly.scaffold.blueprints;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
+
+import bfx.assembly.scaffold.bam.BAMReader;
 
 import com.tinkerpop.blueprints.Direction;
 import com.tinkerpop.blueprints.Edge;
@@ -26,7 +28,7 @@ public class TestGraphBuilder {
 	 * @throws IOException 
 	 */
 	public static void main(String[] args) throws IOException {
-		BAMEdgeReader reader = new BAMEdgeReader("data/mates.bam");
+		BAMReader reader = new BAMReader("data/mates.bam");
 		BluePrintsGraphBuilder builder = new BluePrintsGraphBuilder();
 		reader.read(builder);
 		

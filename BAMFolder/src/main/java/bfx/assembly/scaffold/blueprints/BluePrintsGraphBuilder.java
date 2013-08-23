@@ -1,8 +1,10 @@
-package bfx.assembly.scaffold;
+package bfx.assembly.scaffold.blueprints;
 
 import java.util.Map;
 
 import net.sf.samtools.SAMRecord;
+
+import bfx.assembly.scaffold.bam.BAMReader;
 
 import com.tinkerpop.blueprints.Edge;
 import com.tinkerpop.blueprints.Graph;
@@ -10,11 +12,10 @@ import com.tinkerpop.blueprints.KeyIndexableGraph;
 import com.tinkerpop.blueprints.Vertex;
 import com.tinkerpop.blueprints.impls.tg.TinkerGraph;
 
-public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
+public class BluePrintsGraphBuilder extends BAMReader.AlignConsumer {
 	private KeyIndexableGraph graph;
 	private long edgeCount = 0;
 	private long invalidOrientationPair=0;
-	private Map<String, Integer> seqs;
 	
 	public BluePrintsGraphBuilder() {
 		graph = new TinkerGraph();
@@ -86,10 +87,6 @@ public class BluePrintsGraphBuilder implements BAMEdgeReader.EdgeConsumer {
 		System.out.println(String.format("Invalid Orientation Pairs %d",invalidOrientationPair));
 	}
 
-	@Override
-	public void setSequences(Map<String, Integer> seqs) {
-		this.seqs = seqs;
-	}
 
 	@Override
 	public void start() {

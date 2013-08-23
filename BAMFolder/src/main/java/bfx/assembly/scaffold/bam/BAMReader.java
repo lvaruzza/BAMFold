@@ -1,4 +1,4 @@
-package bfx.assembly.scaffold;
+package bfx.assembly.scaffold.bam;
 
 import java.io.File;
 import java.util.HashMap;
@@ -14,22 +14,28 @@ import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class BAMEdgeReader {
-	public static interface EdgeConsumer {
-		public void callback(SAMRecord aln);
-		public void setSequences(Map<String,Integer> seqs);
-		public void start();
-		public void finish();
+public class BAMReader {
+	public static abstract class AlignConsumer {
+		protected Map<String, Integer> seqs;
+
+		public abstract void callback(SAMRecord aln);
+		
+		public void setSequences(Map<String, Integer> seqs) {
+			this.seqs = seqs;
+		}
+		
+		public abstract void start();
+		public abstract void finish();
 	}
 	
-	private static Logger log = LoggerFactory.getLogger(BAMEdgeReader.class);
+	private static Logger log = LoggerFactory.getLogger(BAMReader.class);
 
 	private File input;
 	private DescriptiveStatistics insertStats = new DescriptiveStatistics();
 	private double inferedInsertMedian = 0;
 	private double inferedInsertIQD = 0;
 
-	public BAMEdgeReader(String filename) {
+	public BAMReader(String filename) {
 		input = new File(filename);
 	}
 	
@@ -46,7 +52,7 @@ public class BAMEdgeReader {
 		return map;
 	}
 	
-	void read(EdgeConsumer consumer) {
+	public void read(AlignConsumer consumer) {
 		SAMFileReader reader = new SAMFileReader(input);
 		long edges=0;
 		SAMFileHeader header = reader.getFileHeader();
