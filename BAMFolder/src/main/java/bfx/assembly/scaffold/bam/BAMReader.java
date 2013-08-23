@@ -15,19 +15,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class BAMReader {
-	public static abstract class AlignConsumer {
-		protected Map<String, Integer> seqs;
-
-		public abstract void callback(SAMRecord aln);
-		
-		public void setSequences(Map<String, Integer> seqs) {
-			this.seqs = seqs;
-		}
-		
-		public abstract void start();
-		public abstract void finish();
-	}
-	
 	private static Logger log = LoggerFactory.getLogger(BAMReader.class);
 
 	private File input;

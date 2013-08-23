@@ -9,7 +9,7 @@ import java.util.Map;
 import net.sf.samtools.SAMRecord;
 import bfx.assembly.util.Table;
 
-public class BAM2Table extends BAMReader.AlignConsumer {
+public class BAM2Table extends AlignConsumer {
 	private Table table;
 	
 	BAM2Table(OutputStream out) {
