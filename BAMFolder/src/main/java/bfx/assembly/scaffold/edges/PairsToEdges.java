@@ -4,17 +4,14 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import net.sf.samtools.SAMRecord;
+import bfx.assembly.scaffold.bam.AlignConsumer;
 import bfx.assembly.scaffold.bam.BAMReader;
 import bfx.assembly.scaffold.technology.IonTorrentTechnology;
 import bfx.assembly.scaffold.technology.Technology;
 
-public class MergePairs extends BAMReader.AlignConsumer {
+public class PairsToEdges extends AlignConsumer {
 	private static Logger log = LoggerFactory.getLogger(BAMReader.class);
 	
-	public static interface EdgeConsumer {
-		public void callback(GraphEdge edge);
-	}
-
 	private Technology tech;
 	private EdgeConsumer consumer;
 	
@@ -24,7 +21,7 @@ public class MergePairs extends BAMReader.AlignConsumer {
 	private int qualCutoff = 1;
 	private int qualFiltered = 0;
 	
-	public MergePairs(Technology technology,int qualCutoff) {
+	public PairsToEdges(Technology technology,int qualCutoff) {
 		this.tech = technology;
 		this.qualCutoff = qualCutoff;
 	}
@@ -66,8 +63,7 @@ public class MergePairs extends BAMReader.AlignConsumer {
 
 	@Override
 	public void start() {
-		// TODO Auto-generated method stub
-		
+		consumer.start();
 	}
 
 	@Override
@@ -75,6 +71,7 @@ public class MergePairs extends BAMReader.AlignConsumer {
 		log.info(String.format("Qual Filtered %d",qualFiltered));
 		log.info(String.format("Improper Pair %d",this.improperPair));
 		log.info(String.format("Unpaired %d",this.unpaired));
+		consumer.finish();
 	}
 
 	public void setConsumer(EdgeConsumer consumer) {

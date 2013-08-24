@@ -6,7 +6,7 @@ import bfx.assembly.scaffold.bam.BAMReader;
 import bfx.assembly.scaffold.technology.IonTorrentTechnology;
 import bfx.assembly.util.Table;
 
-public class TabulateEdges implements MergePairs.EdgeConsumer {
+public class TabulateEdges extends EdgeConsumer {
 
 	private Table table;
 	
@@ -31,7 +31,7 @@ public class TabulateEdges implements MergePairs.EdgeConsumer {
 	public static void main(String[] args) throws IOException {
 		TabulateEdges tabulator = new TabulateEdges("data/mates.edges.txt");
 		BAMReader reader = new BAMReader("data/mates.names.bam");
-		MergePairs merger = new MergePairs(new IonTorrentTechnology(),10);
+		PairsToEdges merger = new PairsToEdges(new IonTorrentTechnology(),10);
 		merger.setConsumer(tabulator);
 		reader.read(merger);
 
