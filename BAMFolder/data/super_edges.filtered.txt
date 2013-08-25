@@ -1,73 +1,73 @@
-frag_c10	frag_c53	320	48847
-frag_c11	frag_c20	284	43750
-frag_c11	frag_c39	290	44342
-frag_c11	frag_c6	140	21089
-frag_c13	frag_c38	348	53704
-frag_c14	frag_c72	106	16584
-frag_c17	frag_c41	318	49891
-frag_c1	frag_c21	323	50053
-frag_c1	frag_c28	242	37156
-frag_c1	frag_c47	284	43153
-frag_c20	frag_c11	294	45541
-frag_c20	frag_c34	321	49864
-frag_c21	frag_c1	319	49202
-frag_c22	frag_c32	341	52403
-frag_c24	frag_c7	217	33528
-frag_c26	frag_c50	321	49933
-frag_c28	frag_c1	280	43402
-frag_c28	frag_c4	385	59788
-frag_c29	frag_c34	311	47538
-frag_c2	frag_c32	419	65147
-frag_c2	frag_c45	382	58887
-frag_c30	frag_c54	324	49829
-frag_c31	frag_c42	320	49533
-frag_c32	frag_c22	392	61050
-frag_c32	frag_c2	368	57391
-frag_c34	frag_c20	335	51770
-frag_c34	frag_c29	281	43332
-frag_c35	frag_c48	162	25190
-frag_c35	frag_c49	235	35900
-frag_c36	frag_c5	349	54314
-frag_c38	frag_c13	324	50029
-frag_c38	frag_c68	178	27573
-frag_c39	frag_c11	295	45441
-frag_c3	frag_c56	146	22553
-frag_c3	frag_c64	118	17941
-frag_c40	frag_c63	213	33072
-frag_c41	frag_c17	280	42744
-frag_c42	frag_c31	307	47484
-frag_c42	frag_c67	194	29585
-frag_c44	frag_c62	310	47813
-frag_c45	frag_c2	389	60024
-frag_c46	frag_c60	328	50223
-frag_c47	frag_c1	242	37455
-frag_c48	frag_c35	161	24646
-frag_c49	frag_c35	267	40829
-frag_c49	frag_c61	288	44889
-frag_c4	frag_c28	386	59978
-frag_c50	frag_c26	369	57271
-frag_c51	frag_c67	174	26747
-frag_c53	frag_c10	319	49367
-frag_c54	frag_c30	317	49268
-frag_c55	frag_c61	322	50167
-frag_c56	frag_c3	152	23727
-frag_c58	frag_c64	189	29058
-frag_c5	frag_c36	340	53116
-frag_c60	frag_c46	322	50054
-frag_c60	frag_c6	239	36755
-frag_c61	frag_c49	303	46783
-frag_c61	frag_c55	348	54442
-frag_c62	frag_c44	309	46986
-frag_c63	frag_c40	184	28193
-frag_c64	frag_c3	111	16697
-frag_c64	frag_c58	228	35225
-frag_c67	frag_c42	217	33306
-frag_c67	frag_c51	185	28582
-frag_c68	frag_c38	187	29045
-frag_c6	frag_c11	137	21014
-frag_c6	frag_c60	217	33360
-frag_c70	frag_c71	213	32859
-frag_c71	frag_c70	230	35403
-frag_c7	frag_c24	222	34150
-frag_c8	frag_c9	384	59368
-frag_c9	frag_c8	361	55530
+frag_c1	frag_c21	320	49570	F
+frag_c1	frag_c28	238	36555	F
+frag_c1	frag_c47	283	43016	R
+frag_c10	frag_c53	317	48408	R
+frag_c11	frag_c20	281	43312	R
+frag_c11	frag_c39	289	44178	F
+frag_c11	frag_c6	137	20635	F
+frag_c13	frag_c38	347	53552	R
+frag_c14	frag_c72	106	16584	F
+frag_c17	frag_c41	318	49891	R
+frag_c2	frag_c32	419	65147	F
+frag_c2	frag_c45	381	58724	R
+frag_c20	frag_c11	292	45232	R
+frag_c20	frag_c34	320	49705	F
+frag_c21	frag_c1	317	48902	F
+frag_c22	frag_c32	340	52239	R
+frag_c24	frag_c7	216	33380	R
+frag_c26	frag_c50	321	49933	F
+frag_c28	frag_c1	275	42635	F
+frag_c28	frag_c4	382	59365	R
+frag_c29	frag_c34	309	47215	R
+frag_c3	frag_c56	145	22392	F
+frag_c3	frag_c64	118	17941	R
+frag_c30	frag_c54	324	49829	F
+frag_c31	frag_c42	319	49371	F
+frag_c32	frag_c22	390	60744	R
+frag_c32	frag_c2	365	56961	F
+frag_c34	frag_c20	332	51288	F
+frag_c34	frag_c29	278	42877	R
+frag_c35	frag_c48	162	25190	R
+frag_c35	frag_c49	235	35900	F
+frag_c36	frag_c5	349	54314	R
+frag_c38	frag_c13	322	49729	R
+frag_c38	frag_c68	177	27409	F
+frag_c39	frag_c11	291	44798	F
+frag_c4	frag_c28	385	59823	R
+frag_c40	frag_c63	213	33072	R
+frag_c41	frag_c17	279	42587	R
+frag_c42	frag_c31	307	47484	F
+frag_c42	frag_c67	194	29585	R
+frag_c44	frag_c62	310	47813	F
+frag_c45	frag_c2	389	60024	R
+frag_c46	frag_c60	328	50223	F
+frag_c47	frag_c1	239	36976	R
+frag_c48	frag_c35	161	24646	R
+frag_c49	frag_c35	266	40666	F
+frag_c49	frag_c61	288	44889	R
+frag_c5	frag_c36	340	53116	R
+frag_c50	frag_c26	369	57271	F
+frag_c51	frag_c67	174	26747	F
+frag_c53	frag_c10	319	49367	R
+frag_c54	frag_c30	317	49268	F
+frag_c55	frag_c61	322	50167	F
+frag_c56	frag_c3	151	23584	F
+frag_c58	frag_c64	189	29058	F
+frag_c6	frag_c11	133	20392	F
+frag_c6	frag_c60	217	33360	R
+frag_c60	frag_c46	322	50054	F
+frag_c60	frag_c6	237	36427	R
+frag_c61	frag_c49	303	46783	R
+frag_c61	frag_c55	347	54324	F
+frag_c62	frag_c44	309	46986	F
+frag_c63	frag_c40	183	28097	R
+frag_c64	frag_c3	111	16697	R
+frag_c64	frag_c58	228	35225	F
+frag_c67	frag_c42	217	33306	R
+frag_c67	frag_c51	185	28582	F
+frag_c68	frag_c38	187	29045	F
+frag_c7	frag_c24	221	33988	R
+frag_c70	frag_c71	213	32859	R
+frag_c71	frag_c70	230	35403	R
+frag_c8	frag_c9	376	58137	R
+frag_c9	frag_c8	354	54500	R

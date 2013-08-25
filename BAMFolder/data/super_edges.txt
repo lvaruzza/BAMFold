@@ -1,2662 +1,3768 @@
-frag_c1	frag_c10	2	309
-frag_c1	frag_c11	8	1289
-frag_c1	frag_c12	3	477
-frag_c1	frag_c13	3	441
-frag_c1	frag_c14	9	1325
-frag_c1	frag_c15	7	1077
-frag_c1	frag_c16	1	165
-frag_c1	frag_c17	1	149
-frag_c1	frag_c18	7	1106
-frag_c1	frag_c19	3	481
-frag_c1	frag_c2	12	1793
-frag_c1	frag_c20	4	619
-frag_c1	frag_c21	323	50053
-frag_c1	frag_c22	6	940
-frag_c1	frag_c23	5	781
-frag_c1	frag_c24	13	2016
-frag_c1	frag_c25	4	642
-frag_c1	frag_c26	3	442
-frag_c1	frag_c27	9	1438
-frag_c1	frag_c28	242	37156
-frag_c1	frag_c29	17	2683
-frag_c1	frag_c3	6	874
-frag_c1	frag_c31	6	901
-frag_c1	frag_c32	7	1108
-frag_c1	frag_c33	2	322
-frag_c1	frag_c34	11	1595
-frag_c1	frag_c35	4	618
-frag_c1	frag_c36	7	1063
-frag_c1	frag_c37	7	1109
-frag_c1	frag_c38	3	432
-frag_c1	frag_c39	4	588
-frag_c1	frag_c4	7	1097
-frag_c1	frag_c40	5	813
-frag_c1	frag_c41	51	7716
-frag_c1	frag_c42	9	1434
-frag_c1	frag_c43	1	163
-frag_c1	frag_c44	4	648
-frag_c1	frag_c45	5	793
-frag_c1	frag_c46	1	144
-frag_c1	frag_c47	284	43153
-frag_c1	frag_c48	3	449
-frag_c1	frag_c49	7	1088
-frag_c1	frag_c5	7	1083
-frag_c1	frag_c50	1	162
-frag_c1	frag_c51	2	304
-frag_c1	frag_c52	3	408
-frag_c1	frag_c53	3	456
-frag_c1	frag_c55	4	582
-frag_c1	frag_c56	1	138
-frag_c1	frag_c57	2	314
-frag_c1	frag_c58	65	9966
-frag_c1	frag_c59	4	595
-frag_c1	frag_c6	22	3457
-frag_c1	frag_c63	2	306
-frag_c1	frag_c7	2	311
-frag_c1	frag_c72	1	151
-frag_c1	frag_c8	8	1165
-frag_c1	frag_c9	23	3505
-frag_c10	frag_c1	6	910
-frag_c10	frag_c11	4	644
-frag_c10	frag_c12	2	320
-frag_c10	frag_c14	2	301
-frag_c10	frag_c15	1	164
-frag_c10	frag_c16	3	472
-frag_c10	frag_c17	1	155
-frag_c10	frag_c18	5	788
-frag_c10	frag_c19	3	481
-frag_c10	frag_c2	2	315
-frag_c10	frag_c20	4	641
-frag_c10	frag_c23	3	464
-frag_c10	frag_c24	2	320
-frag_c10	frag_c25	3	475
-frag_c10	frag_c27	4	603
-frag_c10	frag_c28	2	323
-frag_c10	frag_c29	10	1547
-frag_c10	frag_c3	1	146
-frag_c10	frag_c31	1	152
-frag_c10	frag_c32	2	299
-frag_c10	frag_c33	2	328
-frag_c10	frag_c34	2	325
-frag_c10	frag_c37	1	163
-frag_c10	frag_c38	2	327
-frag_c10	frag_c39	2	298
-frag_c10	frag_c41	1	155
-frag_c10	frag_c42	1	165
-frag_c10	frag_c44	6	970
-frag_c10	frag_c45	1	157
-frag_c10	frag_c46	1	155
-frag_c10	frag_c47	1	163
-frag_c10	frag_c48	1	147
-frag_c10	frag_c50	1	146
-frag_c10	frag_c53	320	48847
-frag_c10	frag_c55	2	321
-frag_c10	frag_c56	1	163
-frag_c10	frag_c58	1	146
-frag_c10	frag_c59	1	154
-frag_c10	frag_c6	6	954
-frag_c10	frag_c60	1	164
-frag_c10	frag_c61	1	163
-frag_c10	frag_c7	3	456
-frag_c10	frag_c8	4	587
-frag_c10	frag_c9	4	632
-frag_c11	frag_c1	6	946
-frag_c11	frag_c10	2	300
-frag_c11	frag_c12	1	147
-frag_c11	frag_c14	4	636
-frag_c11	frag_c15	5	743
-frag_c11	frag_c17	2	300
-frag_c11	frag_c18	2	310
-frag_c11	frag_c19	7	1071
-frag_c11	frag_c2	7	1094
-frag_c11	frag_c20	284	43750
-frag_c11	frag_c21	1	164
-frag_c11	frag_c22	1	155
-frag_c11	frag_c23	2	318
-frag_c11	frag_c24	5	798
-frag_c11	frag_c25	3	415
-frag_c11	frag_c26	2	320
-frag_c11	frag_c27	1	164
-frag_c11	frag_c28	5	792
-frag_c11	frag_c29	4	610
-frag_c11	frag_c31	3	476
-frag_c11	frag_c32	1	158
-frag_c11	frag_c33	5	781
-frag_c11	frag_c34	5	771
-frag_c11	frag_c35	1	164
-frag_c11	frag_c36	1	145
-frag_c11	frag_c37	7	1103
-frag_c11	frag_c39	290	44342
-frag_c11	frag_c4	2	317
-frag_c11	frag_c42	2	299
-frag_c11	frag_c44	3	474
-frag_c11	frag_c45	2	311
-frag_c11	frag_c46	1	146
-frag_c11	frag_c47	2	319
-frag_c11	frag_c5	3	472
-frag_c11	frag_c50	2	313
-frag_c11	frag_c51	1	62
-frag_c11	frag_c52	1	143
-frag_c11	frag_c56	1	145
-frag_c11	frag_c57	1	138
-frag_c11	frag_c58	1	163
-frag_c11	frag_c59	2	316
-frag_c11	frag_c6	140	21089
-frag_c11	frag_c61	1	139
-frag_c11	frag_c66	1	158
-frag_c11	frag_c67	1	163
-frag_c11	frag_c8	1	156
-frag_c11	frag_c9	8	1200
-frag_c12	frag_c1	3	480
-frag_c12	frag_c10	1	162
-frag_c12	frag_c11	1	163
-frag_c12	frag_c13	1	162
-frag_c12	frag_c14	2	319
-frag_c12	frag_c16	2	294
-frag_c12	frag_c17	1	130
-frag_c12	frag_c18	4	609
-frag_c12	frag_c19	1	163
-frag_c12	frag_c2	4	633
-frag_c12	frag_c20	2	310
-frag_c12	frag_c22	2	325
-frag_c12	frag_c24	3	468
-frag_c12	frag_c26	1	164
-frag_c12	frag_c27	2	292
-frag_c12	frag_c28	4	626
-frag_c12	frag_c29	5	776
-frag_c12	frag_c3	10	1596
-frag_c12	frag_c30	1	165
-frag_c12	frag_c31	2	314
-frag_c12	frag_c32	3	462
-frag_c12	frag_c33	2	286
-frag_c12	frag_c34	1	137
-frag_c12	frag_c36	2	321
-frag_c12	frag_c37	1	162
-frag_c12	frag_c39	3	461
-frag_c12	frag_c4	4	618
-frag_c12	frag_c40	1	153
-frag_c12	frag_c42	3	406
-frag_c12	frag_c43	2	302
-frag_c12	frag_c45	3	490
-frag_c12	frag_c46	1	163
-frag_c12	frag_c48	1	154
-frag_c12	frag_c50	3	489
-frag_c12	frag_c52	1	151
-frag_c12	frag_c53	1	154
-frag_c12	frag_c56	1	165
-frag_c12	frag_c6	3	486
-frag_c12	frag_c60	1	162
-frag_c12	frag_c63	1	130
-frag_c12	frag_c67	1	117
-frag_c12	frag_c68	1	146
-frag_c12	frag_c7	5	703
-frag_c12	frag_c8	1	157
-frag_c12	frag_c9	4	633
-frag_c13	frag_c11	1	164
-frag_c13	frag_c14	4	607
-frag_c13	frag_c15	1	156
-frag_c13	frag_c18	2	224
-frag_c13	frag_c2	3	471
-frag_c13	frag_c20	1	156
-frag_c13	frag_c22	1	163
-frag_c13	frag_c23	2	308
-frag_c13	frag_c24	5	786
-frag_c13	frag_c25	1	164
-frag_c13	frag_c26	2	315
-frag_c13	frag_c27	2	321
-frag_c13	frag_c28	1	163
-frag_c13	frag_c29	1	161
-frag_c13	frag_c3	1	162
-frag_c13	frag_c31	2	305
-frag_c13	frag_c36	2	314
-frag_c13	frag_c37	1	165
-frag_c13	frag_c38	348	53704
-frag_c13	frag_c39	1	162
-frag_c13	frag_c4	1	140
-frag_c13	frag_c40	1	160
-frag_c13	frag_c41	1	147
-frag_c13	frag_c42	3	433
-frag_c13	frag_c44	1	146
-frag_c13	frag_c46	1	154
-frag_c13	frag_c47	1	151
-frag_c13	frag_c53	2	298
-frag_c13	frag_c55	1	164
-frag_c13	frag_c56	3	473
-frag_c13	frag_c58	2	273
-frag_c13	frag_c63	1	151
-frag_c13	frag_c8	2	287
-frag_c13	frag_c9	4	644
-frag_c14	frag_c1	13	2052
-frag_c14	frag_c10	4	613
-frag_c14	frag_c11	5	789
-frag_c14	frag_c12	1	162
-frag_c14	frag_c13	2	313
-frag_c14	frag_c15	6	847
-frag_c14	frag_c16	13	1858
-frag_c14	frag_c17	6	958
-frag_c14	frag_c18	5	815
-frag_c14	frag_c19	2	313
-frag_c14	frag_c2	11	1666
-frag_c14	frag_c20	6	963
-frag_c14	frag_c21	5	774
-frag_c14	frag_c22	1	154
-frag_c14	frag_c23	5	818
-frag_c14	frag_c24	6	907
-frag_c14	frag_c25	3	451
-frag_c14	frag_c26	2	316
-frag_c14	frag_c27	3	478
-frag_c14	frag_c28	8	1135
-frag_c14	frag_c29	7	1101
-frag_c14	frag_c3	1	159
-frag_c14	frag_c30	1	155
-frag_c14	frag_c31	2	311
-frag_c14	frag_c32	3	471
-frag_c14	frag_c33	4	645
-frag_c14	frag_c34	4	648
-frag_c14	frag_c36	4	592
-frag_c14	frag_c37	5	792
-frag_c14	frag_c38	5	770
-frag_c14	frag_c39	5	789
-frag_c14	frag_c4	2	319
-frag_c14	frag_c40	2	308
-frag_c14	frag_c41	1	162
-frag_c14	frag_c42	1	154
-frag_c14	frag_c43	3	482
-frag_c14	frag_c44	6	967
-frag_c14	frag_c45	5	774
-frag_c14	frag_c46	1	155
-frag_c14	frag_c49	5	806
-frag_c14	frag_c5	5	711
-frag_c14	frag_c50	4	623
-frag_c14	frag_c51	2	310
-frag_c14	frag_c52	4	628
-frag_c14	frag_c53	4	570
-frag_c14	frag_c54	3	473
-frag_c14	frag_c56	10	1385
-frag_c14	frag_c57	2	310
-frag_c14	frag_c58	2	323
-frag_c14	frag_c59	2	314
-frag_c14	frag_c6	13	1975
-frag_c14	frag_c61	1	164
-frag_c14	frag_c63	1	163
-frag_c14	frag_c64	1	156
-frag_c14	frag_c67	6	925
-frag_c14	frag_c7	4	621
-frag_c14	frag_c72	106	16584
-frag_c14	frag_c8	7	1071
-frag_c14	frag_c9	10	1554
-frag_c15	frag_c1	6	955
-frag_c15	frag_c10	1	153
-frag_c15	frag_c11	3	487
-frag_c15	frag_c12	2	301
-frag_c15	frag_c13	1	149
-frag_c15	frag_c14	4	612
-frag_c15	frag_c16	2	226
-frag_c15	frag_c17	3	486
-frag_c15	frag_c18	3	471
-frag_c15	frag_c19	2	299
-frag_c15	frag_c2	6	956
-frag_c15	frag_c20	3	472
-frag_c15	frag_c21	3	471
-frag_c15	frag_c22	2	298
-frag_c15	frag_c23	1	163
-frag_c15	frag_c24	6	826
-frag_c15	frag_c25	1	155
-frag_c15	frag_c27	1	164
-frag_c15	frag_c28	2	302
-frag_c15	frag_c29	6	921
-frag_c15	frag_c3	3	488
-frag_c15	frag_c30	1	164
-frag_c15	frag_c31	1	156
-frag_c15	frag_c32	1	161
-frag_c15	frag_c33	6	922
-frag_c15	frag_c34	2	279
-frag_c15	frag_c35	1	145
-frag_c15	frag_c36	2	290
-frag_c15	frag_c37	5	802
-frag_c15	frag_c39	4	621
-frag_c15	frag_c4	2	317
-frag_c15	frag_c40	1	164
-frag_c15	frag_c42	4	609
-frag_c15	frag_c43	2	312
-frag_c15	frag_c44	2	306
-frag_c15	frag_c45	3	476
-frag_c15	frag_c46	2	327
-frag_c15	frag_c47	3	443
-frag_c15	frag_c48	1	105
-frag_c15	frag_c49	2	312
-frag_c15	frag_c5	1	165
-frag_c15	frag_c50	2	309
-frag_c15	frag_c51	2	280
-frag_c15	frag_c52	5	801
-frag_c15	frag_c53	1	162
-frag_c15	frag_c55	2	326
-frag_c15	frag_c56	2	318
-frag_c15	frag_c57	1	163
-frag_c15	frag_c59	3	470
-frag_c15	frag_c6	2	306
-frag_c15	frag_c63	1	152
-frag_c15	frag_c67	1	154
-frag_c15	frag_c68	2	320
-frag_c15	frag_c70	1	157
-frag_c15	frag_c8	1	161
-frag_c15	frag_c9	7	1123
-frag_c15	frag_rep_c76	1	161
-frag_c15	frag_rep_c79	3	461
-frag_c16	frag_c1	4	606
-frag_c16	frag_c12	1	163
-frag_c16	frag_c13	1	159
-frag_c16	frag_c14	14	1955
-frag_c16	frag_c15	2	310
-frag_c16	frag_c18	1	161
-frag_c16	frag_c19	2	284
-frag_c16	frag_c2	4	599
-frag_c16	frag_c20	5	799
-frag_c16	frag_c24	3	475
-frag_c16	frag_c25	1	165
-frag_c16	frag_c27	1	155
-frag_c16	frag_c28	3	463
-frag_c16	frag_c29	1	164
-frag_c16	frag_c30	1	148
-frag_c16	frag_c31	1	154
-frag_c16	frag_c32	1	151
-frag_c16	frag_c33	1	164
-frag_c16	frag_c34	3	448
-frag_c16	frag_c36	1	144
-frag_c16	frag_c37	2	315
-frag_c16	frag_c39	1	151
-frag_c16	frag_c4	1	163
-frag_c16	frag_c43	1	149
-frag_c16	frag_c44	3	479
-frag_c16	frag_c45	1	135
-frag_c16	frag_c49	3	481
-frag_c16	frag_c50	1	147
-frag_c16	frag_c52	3	447
-frag_c16	frag_c53	2	319
-frag_c16	frag_c56	1	163
-frag_c16	frag_c57	1	155
-frag_c16	frag_c6	8	1262
-frag_c16	frag_c63	2	304
-frag_c16	frag_c72	1	162
-frag_c16	frag_c8	1	147
-frag_c16	frag_c9	5	725
-frag_c17	frag_c1	3	456
-frag_c17	frag_c10	2	319
-frag_c17	frag_c12	1	144
-frag_c17	frag_c14	5	742
-frag_c17	frag_c15	2	317
-frag_c17	frag_c18	2	298
-frag_c17	frag_c19	1	152
-frag_c17	frag_c2	2	271
-frag_c17	frag_c20	3	482
-frag_c17	frag_c22	2	326
-frag_c17	frag_c23	2	326
-frag_c17	frag_c24	4	635
-frag_c17	frag_c27	1	164
-frag_c17	frag_c28	4	627
-frag_c17	frag_c29	3	467
-frag_c17	frag_c32	1	129
-frag_c17	frag_c33	2	325
-frag_c17	frag_c34	1	143
-frag_c17	frag_c37	2	319
-frag_c17	frag_c38	1	163
-frag_c17	frag_c39	2	276
-frag_c17	frag_c4	2	321
-frag_c17	frag_c40	1	157
-frag_c17	frag_c41	318	49891
-frag_c17	frag_c44	1	162
-frag_c17	frag_c46	1	158
-frag_c17	frag_c48	2	296
-frag_c17	frag_c49	1	162
-frag_c17	frag_c50	1	166
-frag_c17	frag_c52	5	803
-frag_c17	frag_c53	2	291
-frag_c17	frag_c56	1	165
-frag_c17	frag_c58	2	308
-frag_c17	frag_c6	2	302
-frag_c17	frag_c7	1	163
-frag_c17	frag_c8	1	123
-frag_c17	frag_c9	4	624
-frag_c18	frag_c1	11	1722
-frag_c18	frag_c10	1	163
-frag_c18	frag_c11	2	303
-frag_c18	frag_c12	2	279
-frag_c18	frag_c13	1	156
-frag_c18	frag_c14	6	963
-frag_c18	frag_c15	2	280
-frag_c18	frag_c16	5	743
-frag_c18	frag_c17	3	489
-frag_c18	frag_c19	3	468
-frag_c18	frag_c2	6	964
-frag_c18	frag_c20	8	1292
-frag_c18	frag_c22	2	307
-frag_c18	frag_c23	5	818
-frag_c18	frag_c24	10	1535
-frag_c18	frag_c25	1	158
-frag_c18	frag_c27	5	786
-frag_c18	frag_c28	6	902
-frag_c18	frag_c29	11	1714
-frag_c18	frag_c3	8	1176
-frag_c18	frag_c30	1	159
-frag_c18	frag_c31	2	319
-frag_c18	frag_c32	2	303
-frag_c18	frag_c33	3	484
-frag_c18	frag_c34	2	324
-frag_c18	frag_c36	1	136
-frag_c18	frag_c37	3	445
-frag_c18	frag_c38	9	1421
-frag_c18	frag_c39	6	919
-frag_c18	frag_c4	2	326
-frag_c18	frag_c41	2	282
-frag_c18	frag_c42	1	153
-frag_c18	frag_c43	1	165
-frag_c18	frag_c44	7	1082
-frag_c18	frag_c45	1	157
-frag_c18	frag_c46	1	162
-frag_c18	frag_c47	1	138
-frag_c18	frag_c49	1	161
-frag_c18	frag_c50	2	324
-frag_c18	frag_c51	1	141
-frag_c18	frag_c52	3	491
-frag_c18	frag_c53	2	198
-frag_c18	frag_c55	1	161
-frag_c18	frag_c56	1	164
-frag_c18	frag_c57	1	148
-frag_c18	frag_c58	1	164
-frag_c18	frag_c59	2	317
-frag_c18	frag_c6	8	1213
-frag_c18	frag_c63	2	319
-frag_c18	frag_c65	1	157
-frag_c18	frag_c66	1	164
-frag_c18	frag_c7	1	144
-frag_c18	frag_c72	1	158
-frag_c18	frag_c8	4	608
-frag_c18	frag_c9	3	472
-frag_c19	frag_c1	7	1122
-frag_c19	frag_c11	1	152
-frag_c19	frag_c12	2	219
-frag_c19	frag_c14	3	483
-frag_c19	frag_c15	2	305
-frag_c19	frag_c16	2	320
-frag_c19	frag_c17	2	314
-frag_c19	frag_c18	1	155
-frag_c19	frag_c2	8	1221
-frag_c19	frag_c20	6	941
-frag_c19	frag_c21	1	143
-frag_c19	frag_c22	3	482
-frag_c19	frag_c23	4	629
-frag_c19	frag_c24	4	552
-frag_c19	frag_c25	1	162
-frag_c19	frag_c26	1	164
-frag_c19	frag_c27	1	142
-frag_c19	frag_c28	5	799
-frag_c19	frag_c29	6	938
-frag_c19	frag_c3	2	307
-frag_c19	frag_c30	1	155
-frag_c19	frag_c31	5	810
-frag_c19	frag_c33	5	807
-frag_c19	frag_c34	3	483
-frag_c19	frag_c36	1	104
-frag_c19	frag_c37	2	317
-frag_c19	frag_c38	1	144
-frag_c19	frag_c39	3	488
-frag_c19	frag_c4	1	155
-frag_c19	frag_c40	3	441
-frag_c19	frag_c42	2	299
-frag_c19	frag_c45	1	163
-frag_c19	frag_c46	2	274
-frag_c19	frag_c47	2	300
-frag_c19	frag_c50	1	144
-frag_c19	frag_c52	1	164
-frag_c19	frag_c53	2	314
-frag_c19	frag_c54	1	157
-frag_c19	frag_c55	1	163
-frag_c19	frag_c56	1	165
-frag_c19	frag_c59	1	154
-frag_c19	frag_c6	5	779
-frag_c19	frag_c63	1	164
-frag_c19	frag_c8	4	623
-frag_c19	frag_c9	4	621
-frag_c19	frag_rep_c76	13	2030
-frag_c19	frag_rep_c77	1	135
-frag_c2	frag_c1	9	1409
-frag_c2	frag_c10	4	634
-frag_c2	frag_c11	3	484
-frag_c2	frag_c12	4	520
-frag_c2	frag_c14	6	941
-frag_c2	frag_c15	7	1110
-frag_c2	frag_c16	3	442
-frag_c2	frag_c17	3	458
-frag_c2	frag_c18	6	916
-frag_c2	frag_c19	4	632
-frag_c2	frag_c20	8	1255
-frag_c2	frag_c21	2	318
-frag_c2	frag_c22	5	781
-frag_c2	frag_c23	6	982
-frag_c2	frag_c24	15	2385
-frag_c2	frag_c25	2	284
-frag_c2	frag_c26	2	318
-frag_c2	frag_c27	4	633
-frag_c2	frag_c28	11	1693
-frag_c2	frag_c29	10	1604
-frag_c2	frag_c3	3	446
-frag_c2	frag_c31	4	600
-frag_c2	frag_c32	419	65147
-frag_c2	frag_c33	10	1422
-frag_c2	frag_c34	10	1585
-frag_c2	frag_c35	1	153
-frag_c2	frag_c36	3	479
-frag_c2	frag_c37	7	1113
-frag_c2	frag_c38	2	315
-frag_c2	frag_c4	6	874
-frag_c2	frag_c40	2	306
-frag_c2	frag_c41	1	151
-frag_c2	frag_c42	5	780
-frag_c2	frag_c44	3	482
-frag_c2	frag_c45	382	58887
-frag_c2	frag_c46	3	460
-frag_c2	frag_c47	4	636
-frag_c2	frag_c49	4	593
-frag_c2	frag_c5	1	103
-frag_c2	frag_c50	4	648
-frag_c2	frag_c51	5	787
-frag_c2	frag_c52	4	646
-frag_c2	frag_c53	2	312
-frag_c2	frag_c54	1	156
-frag_c2	frag_c55	2	322
-frag_c2	frag_c56	2	309
-frag_c2	frag_c59	2	324
-frag_c2	frag_c6	12	1839
-frag_c2	frag_c63	2	283
-frag_c2	frag_c67	1	163
-frag_c2	frag_c68	1	154
-frag_c2	frag_c8	9	1319
-frag_c2	frag_c9	12	1875
-frag_c2	frag_rep_c76	1	123
-frag_c2	frag_rep_c77	12	1771
-frag_c2	frag_rep_c78	1	133
-frag_c20	frag_c1	12	1862
-frag_c20	frag_c10	4	627
-frag_c20	frag_c11	294	45541
-frag_c20	frag_c12	1	150
-frag_c20	frag_c14	5	776
-frag_c20	frag_c15	5	769
-frag_c20	frag_c17	3	463
-frag_c20	frag_c18	3	479
-frag_c20	frag_c19	9	1286
-frag_c20	frag_c2	15	2316
-frag_c20	frag_c21	4	642
-frag_c20	frag_c22	3	477
-frag_c20	frag_c23	4	632
-frag_c20	frag_c24	16	2513
-frag_c20	frag_c25	3	448
-frag_c20	frag_c26	1	163
-frag_c20	frag_c27	3	441
-frag_c20	frag_c28	9	1379
-frag_c20	frag_c29	10	1590
-frag_c20	frag_c3	2	327
-frag_c20	frag_c30	2	323
-frag_c20	frag_c31	1	162
-frag_c20	frag_c32	2	311
-frag_c20	frag_c33	6	829
-frag_c20	frag_c34	321	49864
-frag_c20	frag_c36	1	164
-frag_c20	frag_c38	1	165
-frag_c20	frag_c39	5	795
-frag_c20	frag_c4	4	607
-frag_c20	frag_c41	2	318
-frag_c20	frag_c42	1	163
-frag_c20	frag_c43	4	640
-frag_c20	frag_c44	3	486
-frag_c20	frag_c45	4	620
-frag_c20	frag_c46	2	307
-frag_c20	frag_c47	1	163
-frag_c20	frag_c48	1	162
-frag_c20	frag_c49	2	319
-frag_c20	frag_c5	1	152
-frag_c20	frag_c50	1	150
-frag_c20	frag_c51	1	164
-frag_c20	frag_c52	4	611
-frag_c20	frag_c53	2	326
-frag_c20	frag_c55	1	158
-frag_c20	frag_c56	1	159
-frag_c20	frag_c57	2	321
-frag_c20	frag_c58	4	654
-frag_c20	frag_c59	1	98
-frag_c20	frag_c6	14	2114
-frag_c20	frag_c63	2	320
-frag_c20	frag_c64	1	165
-frag_c20	frag_c65	1	163
-frag_c20	frag_c66	1	158
-frag_c20	frag_c68	1	145
-frag_c20	frag_c70	1	163
-frag_c20	frag_c71	1	157
-frag_c20	frag_c8	6	877
-frag_c20	frag_c9	7	1086
-frag_c21	frag_c1	319	49202
-frag_c21	frag_c10	2	309
-frag_c21	frag_c11	1	146
-frag_c21	frag_c14	4	567
-frag_c21	frag_c15	2	260
-frag_c21	frag_c17	2	318
-frag_c21	frag_c18	2	318
-frag_c21	frag_c2	4	656
-frag_c21	frag_c20	1	164
-frag_c21	frag_c22	1	149
-frag_c21	frag_c23	1	163
-frag_c21	frag_c24	2	257
-frag_c21	frag_c28	4	610
-frag_c21	frag_c29	2	321
-frag_c21	frag_c3	3	445
-frag_c21	frag_c33	3	483
-frag_c21	frag_c34	1	164
-frag_c21	frag_c36	1	164
-frag_c21	frag_c37	1	126
-frag_c21	frag_c38	1	156
-frag_c21	frag_c39	2	326
-frag_c21	frag_c42	6	938
-frag_c21	frag_c43	2	260
-frag_c21	frag_c44	2	328
-frag_c21	frag_c45	1	163
-frag_c21	frag_c48	2	328
-frag_c21	frag_c50	2	319
-frag_c21	frag_c52	2	323
-frag_c21	frag_c53	1	165
-frag_c21	frag_c58	3	487
-frag_c21	frag_c6	6	946
-frag_c21	frag_c65	1	162
-frag_c21	frag_c66	1	118
-frag_c21	frag_c67	1	163
-frag_c21	frag_c8	1	157
-frag_c21	frag_c9	2	318
-frag_c22	frag_c1	1	145
-frag_c22	frag_c11	1	157
-frag_c22	frag_c13	1	164
-frag_c22	frag_c14	3	487
-frag_c22	frag_c15	2	320
-frag_c22	frag_c16	1	128
-frag_c22	frag_c18	2	303
-frag_c22	frag_c19	1	164
-frag_c22	frag_c2	2	299
-frag_c22	frag_c21	1	165
-frag_c22	frag_c23	1	156
-frag_c22	frag_c24	1	151
-frag_c22	frag_c26	1	160
-frag_c22	frag_c28	1	163
-frag_c22	frag_c29	1	150
-frag_c22	frag_c3	3	471
-frag_c22	frag_c31	1	157
-frag_c22	frag_c32	341	52403
-frag_c22	frag_c33	4	613
-frag_c22	frag_c34	2	277
-frag_c22	frag_c36	3	462
-frag_c22	frag_c39	5	736
-frag_c22	frag_c4	3	478
-frag_c22	frag_c42	1	163
-frag_c22	frag_c44	3	466
-frag_c22	frag_c46	1	161
-frag_c22	frag_c47	1	155
-frag_c22	frag_c49	2	200
-frag_c22	frag_c5	1	165
-frag_c22	frag_c50	1	163
-frag_c22	frag_c53	2	309
-frag_c22	frag_c55	2	318
-frag_c22	frag_c56	1	160
-frag_c22	frag_c59	1	164
-frag_c22	frag_c6	3	430
-frag_c22	frag_c63	1	137
-frag_c22	frag_c8	3	431
-frag_c22	frag_c9	1	155
-frag_c23	frag_c1	1	164
-frag_c23	frag_c10	2	325
-frag_c23	frag_c11	2	317
-frag_c23	frag_c12	3	468
-frag_c23	frag_c14	1	165
-frag_c23	frag_c15	1	154
-frag_c23	frag_c16	1	144
-frag_c23	frag_c17	1	158
-frag_c23	frag_c18	4	636
-frag_c23	frag_c19	4	612
-frag_c23	frag_c2	7	1133
-frag_c23	frag_c20	1	165
-frag_c23	frag_c22	2	322
-frag_c23	frag_c24	5	797
-frag_c23	frag_c25	1	164
-frag_c23	frag_c26	2	311
-frag_c23	frag_c28	4	616
-frag_c23	frag_c29	6	935
-frag_c23	frag_c30	1	162
-frag_c23	frag_c31	3	489
-frag_c23	frag_c33	3	466
-frag_c23	frag_c34	3	471
-frag_c23	frag_c36	3	485
-frag_c23	frag_c38	4	651
-frag_c23	frag_c39	6	970
-frag_c23	frag_c40	1	145
-frag_c23	frag_c42	2	296
-frag_c23	frag_c44	3	489
-frag_c23	frag_c45	3	456
-frag_c23	frag_c46	1	150
-frag_c23	frag_c49	3	471
-frag_c23	frag_c50	2	323
-frag_c23	frag_c51	2	309
-frag_c23	frag_c52	1	162
-frag_c23	frag_c55	1	159
-frag_c23	frag_c56	1	159
-frag_c23	frag_c57	1	159
-frag_c23	frag_c59	2	315
-frag_c23	frag_c6	3	465
-frag_c23	frag_c62	1	142
-frag_c23	frag_c63	1	164
-frag_c23	frag_c65	1	154
-frag_c23	frag_c7	1	147
-frag_c23	frag_c8	1	141
-frag_c23	frag_c9	3	443
-frag_c24	frag_c1	8	1227
-frag_c24	frag_c10	5	749
-frag_c24	frag_c11	4	638
-frag_c24	frag_c12	2	328
-frag_c24	frag_c13	1	154
-frag_c24	frag_c14	9	1433
-frag_c24	frag_c15	6	866
-frag_c24	frag_c16	6	944
-frag_c24	frag_c18	8	1237
-frag_c24	frag_c19	7	1103
-frag_c24	frag_c2	14	2130
-frag_c24	frag_c20	6	980
-frag_c24	frag_c21	3	480
-frag_c24	frag_c22	1	159
-frag_c24	frag_c23	6	951
-frag_c24	frag_c25	5	773
-frag_c24	frag_c26	2	269
-frag_c24	frag_c27	5	797
-frag_c24	frag_c28	11	1721
-frag_c24	frag_c29	13	1956
-frag_c24	frag_c30	1	161
-frag_c24	frag_c31	5	732
-frag_c24	frag_c32	6	953
-frag_c24	frag_c33	8	1248
-frag_c24	frag_c34	6	942
-frag_c24	frag_c36	3	469
-frag_c24	frag_c37	5	702
-frag_c24	frag_c38	3	453
-frag_c24	frag_c39	9	1333
-frag_c24	frag_c4	1	155
-frag_c24	frag_c40	7	1098
-frag_c24	frag_c42	2	295
-frag_c24	frag_c43	2	303
-frag_c24	frag_c44	2	310
-frag_c24	frag_c45	4	641
-frag_c24	frag_c47	4	631
-frag_c24	frag_c48	7	1054
-frag_c24	frag_c49	6	916
-frag_c24	frag_c5	1	160
-frag_c24	frag_c50	6	958
-frag_c24	frag_c51	3	470
-frag_c24	frag_c52	3	463
-frag_c24	frag_c53	3	494
-frag_c24	frag_c54	2	299
-frag_c24	frag_c55	3	490
-frag_c24	frag_c56	4	596
-frag_c24	frag_c57	2	300
-frag_c24	frag_c58	4	634
-frag_c24	frag_c59	1	143
-frag_c24	frag_c6	22	3377
-frag_c24	frag_c61	1	156
-frag_c24	frag_c62	1	161
-frag_c24	frag_c63	3	489
-frag_c24	frag_c7	217	33528
-frag_c24	frag_c8	7	1098
-frag_c24	frag_c9	14	2115
-frag_c25	frag_c1	3	466
-frag_c25	frag_c10	2	317
-frag_c25	frag_c11	1	161
-frag_c25	frag_c12	2	293
-frag_c25	frag_c13	1	165
-frag_c25	frag_c14	2	318
-frag_c25	frag_c15	4	640
-frag_c25	frag_c16	1	162
-frag_c25	frag_c18	1	162
-frag_c25	frag_c19	1	154
-frag_c25	frag_c2	4	628
-frag_c25	frag_c21	2	312
-frag_c25	frag_c23	3	421
-frag_c25	frag_c24	4	621
-frag_c25	frag_c27	2	305
-frag_c25	frag_c28	3	478
-frag_c25	frag_c29	2	327
-frag_c25	frag_c3	1	164
-frag_c25	frag_c31	1	157
-frag_c25	frag_c32	1	163
-frag_c25	frag_c33	2	328
-frag_c25	frag_c34	1	162
-frag_c25	frag_c36	1	155
-frag_c25	frag_c37	1	101
-frag_c25	frag_c39	2	320
-frag_c25	frag_c4	1	161
-frag_c25	frag_c42	2	322
-frag_c25	frag_c44	3	462
-frag_c25	frag_c45	1	165
-frag_c25	frag_c48	1	162
-frag_c25	frag_c49	3	479
-frag_c25	frag_c5	2	317
-frag_c25	frag_c50	1	157
-frag_c25	frag_c51	2	315
-frag_c25	frag_c52	1	161
-frag_c25	frag_c55	1	148
-frag_c25	frag_c59	1	163
-frag_c25	frag_c6	6	835
-frag_c25	frag_c63	1	163
-frag_c25	frag_c64	1	164
-frag_c25	frag_c65	1	162
-frag_c25	frag_c7	2	299
-frag_c25	frag_c8	2	322
-frag_c25	frag_c9	7	1094
-frag_c25	frag_rep_c78	1	119
-frag_c26	frag_c1	1	164
-frag_c26	frag_c11	2	306
-frag_c26	frag_c14	3	461
-frag_c26	frag_c15	1	163
-frag_c26	frag_c16	1	144
-frag_c26	frag_c18	2	318
-frag_c26	frag_c2	1	164
-frag_c26	frag_c20	2	317
-frag_c26	frag_c23	1	147
-frag_c26	frag_c24	2	311
-frag_c26	frag_c29	1	121
-frag_c26	frag_c30	1	152
-frag_c26	frag_c31	1	157
-frag_c26	frag_c32	1	163
-frag_c26	frag_c34	2	312
-frag_c26	frag_c36	2	325
-frag_c26	frag_c37	2	328
-frag_c26	frag_c38	1	150
-frag_c26	frag_c39	2	326
-frag_c26	frag_c44	1	164
-frag_c26	frag_c49	1	153
-frag_c26	frag_c50	321	49933
-frag_c26	frag_c51	1	164
-frag_c26	frag_c52	2	323
-frag_c26	frag_c53	1	137
-frag_c26	frag_c58	1	149
-frag_c26	frag_c6	3	466
-frag_c26	frag_c61	1	147
-frag_c26	frag_c63	1	163
-frag_c26	frag_c8	2	306
-frag_c27	frag_c1	6	960
-frag_c27	frag_c10	2	308
-frag_c27	frag_c11	1	154
-frag_c27	frag_c14	2	309
-frag_c27	frag_c15	1	140
-frag_c27	frag_c16	1	163
-frag_c27	frag_c17	1	163
-frag_c27	frag_c18	3	490
-frag_c27	frag_c19	2	328
-frag_c27	frag_c2	2	315
-frag_c27	frag_c20	5	763
-frag_c27	frag_c21	1	164
-frag_c27	frag_c22	1	146
-frag_c27	frag_c23	3	484
-frag_c27	frag_c24	5	796
-frag_c27	frag_c25	3	485
-frag_c27	frag_c28	3	482
-frag_c27	frag_c29	5	776
-frag_c27	frag_c32	1	154
-frag_c27	frag_c33	6	861
-frag_c27	frag_c34	3	401
-frag_c27	frag_c36	1	155
-frag_c27	frag_c37	2	309
-frag_c27	frag_c38	1	148
-frag_c27	frag_c39	3	485
-frag_c27	frag_c4	1	146
-frag_c27	frag_c40	1	131
-frag_c27	frag_c42	1	156
-frag_c27	frag_c43	2	264
-frag_c27	frag_c45	5	771
-frag_c27	frag_c46	1	161
-frag_c27	frag_c47	2	277
-frag_c27	frag_c49	2	319
-frag_c27	frag_c50	2	308
-frag_c27	frag_c52	1	143
-frag_c27	frag_c53	1	162
-frag_c27	frag_c56	2	309
-frag_c27	frag_c57	2	315
-frag_c27	frag_c6	10	1587
-frag_c27	frag_c63	1	162
-frag_c27	frag_c65	1	155
-frag_c27	frag_c67	1	164
-frag_c27	frag_c8	1	164
-frag_c27	frag_c9	7	1078
-frag_c28	frag_c1	280	43402
-frag_c28	frag_c10	4	615
-frag_c28	frag_c11	7	1129
-frag_c28	frag_c12	4	648
-frag_c28	frag_c13	1	163
-frag_c28	frag_c14	10	1524
-frag_c28	frag_c15	3	459
-frag_c28	frag_c16	3	426
-frag_c28	frag_c17	1	108
-frag_c28	frag_c18	6	946
-frag_c28	frag_c19	3	470
-frag_c28	frag_c2	7	1110
-frag_c28	frag_c20	9	1430
-frag_c28	frag_c21	2	307
-frag_c28	frag_c22	7	1108
-frag_c28	frag_c23	1	154
-frag_c28	frag_c24	12	1870
-frag_c28	frag_c25	1	163
-frag_c28	frag_c27	6	935
-frag_c28	frag_c29	3	465
-frag_c28	frag_c3	1	163
-frag_c28	frag_c30	2	325
-frag_c28	frag_c31	3	472
-frag_c28	frag_c33	8	1198
-frag_c28	frag_c34	5	756
-frag_c28	frag_c35	1	164
-frag_c28	frag_c36	6	803
-frag_c28	frag_c37	7	1127
-frag_c28	frag_c38	3	480
-frag_c28	frag_c39	10	1485
-frag_c28	frag_c4	385	59788
-frag_c28	frag_c40	2	316
-frag_c28	frag_c41	2	319
-frag_c28	frag_c43	2	318
-frag_c28	frag_c44	5	753
-frag_c28	frag_c45	5	766
-frag_c28	frag_c47	1	164
-frag_c28	frag_c48	3	479
-frag_c28	frag_c49	2	273
-frag_c28	frag_c5	3	454
-frag_c28	frag_c50	4	629
-frag_c28	frag_c51	4	635
-frag_c28	frag_c52	3	441
-frag_c28	frag_c53	5	769
-frag_c28	frag_c54	1	155
-frag_c28	frag_c55	1	164
-frag_c28	frag_c56	5	768
-frag_c28	frag_c58	6	950
-frag_c28	frag_c59	1	162
-frag_c28	frag_c6	12	1804
-frag_c28	frag_c62	1	154
-frag_c28	frag_c64	1	154
-frag_c28	frag_c65	1	159
-frag_c28	frag_c66	1	164
-frag_c28	frag_c68	1	164
-frag_c28	frag_c69	1	164
-frag_c28	frag_c7	2	311
-frag_c28	frag_c8	5	742
-frag_c28	frag_c9	16	2434
-frag_c29	frag_c1	31	4868
-frag_c29	frag_c10	2	303
-frag_c29	frag_c11	2	319
-frag_c29	frag_c12	3	473
-frag_c29	frag_c13	4	618
-frag_c29	frag_c14	10	1579
-frag_c29	frag_c15	5	783
-frag_c29	frag_c16	1	150
-frag_c29	frag_c17	4	536
-frag_c29	frag_c18	3	467
-frag_c29	frag_c19	7	1027
-frag_c29	frag_c2	13	2028
-frag_c29	frag_c20	9	1385
-frag_c29	frag_c21	5	736
-frag_c29	frag_c22	3	475
-frag_c29	frag_c23	4	601
-frag_c29	frag_c24	11	1756
-frag_c29	frag_c25	2	300
-frag_c29	frag_c27	3	435
-frag_c29	frag_c28	8	1247
-frag_c29	frag_c3	4	541
-frag_c29	frag_c31	5	786
-frag_c29	frag_c32	5	765
-frag_c29	frag_c33	6	897
-frag_c29	frag_c34	311	47538
-frag_c29	frag_c35	1	164
-frag_c29	frag_c36	2	309
-frag_c29	frag_c37	5	814
-frag_c29	frag_c38	1	166
-frag_c29	frag_c39	6	947
-frag_c29	frag_c4	4	629
-frag_c29	frag_c40	2	312
-frag_c29	frag_c41	2	325
-frag_c29	frag_c42	9	1453
-frag_c29	frag_c44	6	912
-frag_c29	frag_c45	1	161
-frag_c29	frag_c46	6	955
-frag_c29	frag_c47	2	294
-frag_c29	frag_c49	6	947
-frag_c29	frag_c50	4	625
-frag_c29	frag_c51	2	314
-frag_c29	frag_c52	6	943
-frag_c29	frag_c53	4	635
-frag_c29	frag_c54	1	164
-frag_c29	frag_c55	1	150
-frag_c29	frag_c56	3	443
-frag_c29	frag_c57	2	313
-frag_c29	frag_c58	1	157
-frag_c29	frag_c59	4	608
-frag_c29	frag_c6	15	2327
-frag_c29	frag_c61	2	310
-frag_c29	frag_c62	1	153
-frag_c29	frag_c63	3	444
-frag_c29	frag_c64	1	163
-frag_c29	frag_c66	1	161
-frag_c29	frag_c67	1	164
-frag_c29	frag_c7	4	618
-frag_c29	frag_c8	4	621
-frag_c29	frag_c9	24	3688
-frag_c29	frag_rep_c74	1	152
-frag_c3	frag_c1	3	481
-frag_c3	frag_c10	1	159
-frag_c3	frag_c11	1	164
-frag_c3	frag_c12	8	1241
-frag_c3	frag_c13	1	160
-frag_c3	frag_c14	1	155
-frag_c3	frag_c15	3	477
-frag_c3	frag_c16	1	154
-frag_c3	frag_c17	1	163
-frag_c3	frag_c18	5	789
-frag_c3	frag_c2	3	484
-frag_c3	frag_c20	4	613
-frag_c3	frag_c21	2	314
-frag_c3	frag_c22	1	74
-frag_c3	frag_c24	3	464
-frag_c3	frag_c27	3	469
-frag_c3	frag_c28	3	479
-frag_c3	frag_c29	5	779
-frag_c3	frag_c31	3	435
-frag_c3	frag_c33	3	443
-frag_c3	frag_c34	1	154
-frag_c3	frag_c36	1	162
-frag_c3	frag_c37	5	775
-frag_c3	frag_c38	8	1109
-frag_c3	frag_c39	2	322
-frag_c3	frag_c4	4	616
-frag_c3	frag_c40	6	852
-frag_c3	frag_c42	1	164
-frag_c3	frag_c44	1	165
-frag_c3	frag_c45	1	160
-frag_c3	frag_c48	1	163
-frag_c3	frag_c5	2	322
-frag_c3	frag_c51	3	369
-frag_c3	frag_c52	3	474
-frag_c3	frag_c53	2	318
-frag_c3	frag_c55	1	165
-frag_c3	frag_c56	146	22553
-frag_c3	frag_c57	2	318
-frag_c3	frag_c58	1	156
-frag_c3	frag_c6	3	484
-frag_c3	frag_c63	2	302
-frag_c3	frag_c64	118	17941
-frag_c3	frag_c66	1	155
-frag_c3	frag_c7	2	329
-frag_c3	frag_c8	2	315
-frag_c3	frag_c9	4	627
-frag_c30	frag_c1	3	481
-frag_c30	frag_c11	1	145
-frag_c30	frag_c12	2	326
-frag_c30	frag_c15	1	156
-frag_c30	frag_c17	2	291
-frag_c30	frag_c18	3	492
-frag_c30	frag_c19	1	164
-frag_c30	frag_c20	3	473
-frag_c30	frag_c21	1	164
-frag_c30	frag_c24	4	628
-frag_c30	frag_c27	1	162
-frag_c30	frag_c28	2	316
-frag_c30	frag_c29	2	327
-frag_c30	frag_c36	1	161
-frag_c30	frag_c37	1	130
-frag_c30	frag_c46	1	164
-frag_c30	frag_c49	1	151
-frag_c30	frag_c50	1	162
-frag_c30	frag_c51	1	139
-frag_c30	frag_c53	1	154
-frag_c30	frag_c54	324	49829
-frag_c30	frag_c56	1	140
-frag_c30	frag_c57	2	328
-frag_c30	frag_c6	1	150
-frag_c30	frag_c8	2	318
-frag_c30	frag_c9	1	152
-frag_c31	frag_c1	2	317
-frag_c31	frag_c10	2	305
-frag_c31	frag_c12	3	491
-frag_c31	frag_c13	1	158
-frag_c31	frag_c14	1	164
-frag_c31	frag_c15	3	467
-frag_c31	frag_c16	1	149
-frag_c31	frag_c19	2	303
-frag_c31	frag_c2	4	623
-frag_c31	frag_c20	3	467
-frag_c31	frag_c24	4	628
-frag_c31	frag_c25	1	156
-frag_c31	frag_c27	1	156
-frag_c31	frag_c29	2	288
-frag_c31	frag_c32	2	325
-frag_c31	frag_c33	1	162
-frag_c31	frag_c37	2	310
-frag_c31	frag_c38	1	163
-frag_c31	frag_c39	3	469
-frag_c31	frag_c4	1	162
-frag_c31	frag_c40	1	157
-frag_c31	frag_c42	320	49533
-frag_c31	frag_c43	1	159
-frag_c31	frag_c44	1	166
-frag_c31	frag_c45	2	294
-frag_c31	frag_c46	1	161
-frag_c31	frag_c49	2	319
-frag_c31	frag_c50	2	326
-frag_c31	frag_c51	2	316
-frag_c31	frag_c52	3	463
-frag_c31	frag_c53	2	327
-frag_c31	frag_c57	1	165
-frag_c31	frag_c59	1	156
-frag_c31	frag_c6	4	601
-frag_c31	frag_c63	2	322
-frag_c31	frag_c65	1	163
-frag_c31	frag_c7	1	162
-frag_c31	frag_c8	5	791
-frag_c31	frag_c9	7	1067
-frag_c32	frag_c1	3	472
-frag_c32	frag_c10	1	131
-frag_c32	frag_c11	5	768
-frag_c32	frag_c12	3	368
-frag_c32	frag_c13	1	165
-frag_c32	frag_c14	1	155
-frag_c32	frag_c15	2	275
-frag_c32	frag_c16	2	319
-frag_c32	frag_c17	1	156
-frag_c32	frag_c18	2	316
-frag_c32	frag_c19	1	157
-frag_c32	frag_c2	368	57391
-frag_c32	frag_c20	2	318
-frag_c32	frag_c22	392	61050
-frag_c32	frag_c24	4	632
-frag_c32	frag_c25	2	321
-frag_c32	frag_c26	2	322
-frag_c32	frag_c28	7	1070
-frag_c32	frag_c29	6	950
-frag_c32	frag_c30	1	154
-frag_c32	frag_c31	2	312
-frag_c32	frag_c33	2	328
-frag_c32	frag_c36	1	146
-frag_c32	frag_c37	2	306
-frag_c32	frag_c39	5	764
-frag_c32	frag_c4	1	151
-frag_c32	frag_c40	2	320
-frag_c32	frag_c42	2	288
-frag_c32	frag_c43	1	160
-frag_c32	frag_c44	2	324
-frag_c32	frag_c5	2	286
-frag_c32	frag_c50	3	493
-frag_c32	frag_c53	1	151
-frag_c32	frag_c56	1	158
-frag_c32	frag_c6	1	156
-frag_c32	frag_c60	1	158
-frag_c32	frag_c63	1	162
-frag_c32	frag_c66	1	149
-frag_c32	frag_c8	1	165
-frag_c32	frag_c9	5	760
-frag_c32	frag_rep_c76	1	129
-frag_c33	frag_c1	4	630
-frag_c33	frag_c12	2	286
-frag_c33	frag_c14	10	1601
-frag_c33	frag_c15	4	617
-frag_c33	frag_c16	3	437
-frag_c33	frag_c17	1	154
-frag_c33	frag_c18	10	1572
-frag_c33	frag_c19	6	927
-frag_c33	frag_c2	8	1267
-frag_c33	frag_c20	9	1441
-frag_c33	frag_c21	1	160
-frag_c33	frag_c22	3	470
-frag_c33	frag_c23	5	773
-frag_c33	frag_c24	10	1532
-frag_c33	frag_c25	3	483
-frag_c33	frag_c27	2	321
-frag_c33	frag_c28	9	1389
-frag_c33	frag_c29	5	772
-frag_c33	frag_c3	2	323
-frag_c33	frag_c30	2	326
-frag_c33	frag_c31	5	788
-frag_c33	frag_c32	4	620
-frag_c33	frag_c34	4	623
-frag_c33	frag_c35	1	158
-frag_c33	frag_c36	2	314
-frag_c33	frag_c37	7	1094
-frag_c33	frag_c38	1	153
-frag_c33	frag_c39	7	1075
-frag_c33	frag_c4	9	1408
-frag_c33	frag_c40	2	273
-frag_c33	frag_c41	2	294
-frag_c33	frag_c42	3	472
-frag_c33	frag_c43	2	324
-frag_c33	frag_c44	2	321
-frag_c33	frag_c45	5	797
-frag_c33	frag_c46	1	162
-frag_c33	frag_c47	1	152
-frag_c33	frag_c48	1	163
-frag_c33	frag_c49	4	632
-frag_c33	frag_c5	2	295
-frag_c33	frag_c50	1	164
-frag_c33	frag_c52	6	939
-frag_c33	frag_c53	1	163
-frag_c33	frag_c55	1	166
-frag_c33	frag_c56	1	96
-frag_c33	frag_c59	4	619
-frag_c33	frag_c6	11	1657
-frag_c33	frag_c61	1	163
-frag_c33	frag_c62	1	164
-frag_c33	frag_c63	2	300
-frag_c33	frag_c65	2	312
-frag_c33	frag_c66	1	164
-frag_c33	frag_c7	3	453
-frag_c33	frag_c70	1	164
-frag_c33	frag_c8	3	464
-frag_c33	frag_c9	12	1863
-frag_c33	frag_rep_c77	1	115
-frag_c34	frag_c1	4	638
-frag_c34	frag_c10	3	465
-frag_c34	frag_c11	4	632
-frag_c34	frag_c12	3	454
-frag_c34	frag_c14	5	718
-frag_c34	frag_c15	2	325
-frag_c34	frag_c16	1	155
-frag_c34	frag_c18	1	164
-frag_c34	frag_c19	4	629
-frag_c34	frag_c2	5	713
-frag_c34	frag_c20	335	51770
-frag_c34	frag_c21	2	315
-frag_c34	frag_c22	2	295
-frag_c34	frag_c23	5	807
-frag_c34	frag_c24	1	149
-frag_c34	frag_c25	1	161
-frag_c34	frag_c26	1	163
-frag_c34	frag_c27	3	432
-frag_c34	frag_c28	6	959
-frag_c34	frag_c29	281	43332
-frag_c34	frag_c3	2	313
-frag_c34	frag_c31	3	474
-frag_c34	frag_c33	3	447
-frag_c34	frag_c36	2	245
-frag_c34	frag_c37	1	130
-frag_c34	frag_c38	3	475
-frag_c34	frag_c39	5	761
-frag_c34	frag_c4	1	162
-frag_c34	frag_c40	1	163
-frag_c34	frag_c41	1	164
-frag_c34	frag_c43	2	270
-frag_c34	frag_c44	3	459
-frag_c34	frag_c45	3	414
-frag_c34	frag_c46	1	163
-frag_c34	frag_c47	1	148
-frag_c34	frag_c49	1	145
-frag_c34	frag_c50	2	294
-frag_c34	frag_c51	1	164
-frag_c34	frag_c52	4	561
-frag_c34	frag_c53	3	482
-frag_c34	frag_c56	1	155
-frag_c34	frag_c57	2	318
-frag_c34	frag_c58	1	163
-frag_c34	frag_c6	5	789
-frag_c34	frag_c60	1	119
-frag_c34	frag_c63	1	164
-frag_c34	frag_c8	5	752
-frag_c34	frag_c9	10	1561
-frag_c35	frag_c1	3	472
-frag_c35	frag_c14	1	155
-frag_c35	frag_c15	2	309
-frag_c35	frag_c17	1	159
-frag_c35	frag_c18	2	325
-frag_c35	frag_c28	1	154
-frag_c35	frag_c3	1	131
-frag_c35	frag_c31	1	151
-frag_c35	frag_c34	1	155
-frag_c35	frag_c38	1	111
-frag_c35	frag_c44	1	164
-frag_c35	frag_c46	1	162
-frag_c35	frag_c48	162	25190
-frag_c35	frag_c49	235	35900
-frag_c35	frag_c52	2	328
-frag_c35	frag_c6	1	163
-frag_c35	frag_c63	1	164
-frag_c36	frag_c1	9	1368
-frag_c36	frag_c10	1	162
-frag_c36	frag_c12	2	289
-frag_c36	frag_c14	3	457
-frag_c36	frag_c15	3	483
-frag_c36	frag_c16	1	161
-frag_c36	frag_c18	2	324
-frag_c36	frag_c19	1	143
-frag_c36	frag_c2	3	483
-frag_c36	frag_c20	2	321
-frag_c36	frag_c22	1	151
-frag_c36	frag_c23	1	156
-frag_c36	frag_c24	6	947
-frag_c36	frag_c28	4	608
-frag_c36	frag_c29	1	146
-frag_c36	frag_c31	2	309
-frag_c36	frag_c32	4	595
-frag_c36	frag_c34	1	163
-frag_c36	frag_c37	4	584
-frag_c36	frag_c39	2	321
-frag_c36	frag_c4	1	141
-frag_c36	frag_c42	1	155
-frag_c36	frag_c43	3	445
-frag_c36	frag_c44	1	162
-frag_c36	frag_c46	1	158
-frag_c36	frag_c47	1	143
-frag_c36	frag_c49	4	641
-frag_c36	frag_c5	349	54314
-frag_c36	frag_c50	1	151
-frag_c36	frag_c51	1	126
-frag_c36	frag_c52	2	291
-frag_c36	frag_c53	2	318
-frag_c36	frag_c55	1	155
-frag_c36	frag_c56	1	155
-frag_c36	frag_c58	2	324
-frag_c36	frag_c59	1	155
-frag_c36	frag_c6	3	451
-frag_c36	frag_c62	1	164
-frag_c36	frag_c63	1	128
-frag_c36	frag_c66	1	163
-frag_c36	frag_c8	3	486
-frag_c36	frag_c9	2	310
-frag_c37	frag_c1	7	1086
-frag_c37	frag_c11	8	1213
-frag_c37	frag_c12	1	157
-frag_c37	frag_c13	1	162
-frag_c37	frag_c14	2	319
-frag_c37	frag_c15	2	306
-frag_c37	frag_c16	2	321
-frag_c37	frag_c17	1	164
-frag_c37	frag_c18	6	944
-frag_c37	frag_c19	3	471
-frag_c37	frag_c2	6	894
-frag_c37	frag_c20	3	465
-frag_c37	frag_c21	2	306
-frag_c37	frag_c22	1	136
-frag_c37	frag_c23	3	478
-frag_c37	frag_c24	8	1267
-frag_c37	frag_c25	1	158
-frag_c37	frag_c26	3	476
-frag_c37	frag_c28	3	441
-frag_c37	frag_c29	5	818
-frag_c37	frag_c3	3	489
-frag_c37	frag_c31	1	165
-frag_c37	frag_c32	3	475
-frag_c37	frag_c33	4	618
-frag_c37	frag_c34	3	451
-frag_c37	frag_c35	1	149
-frag_c37	frag_c39	3	359
-frag_c37	frag_c40	1	158
-frag_c37	frag_c42	3	486
-frag_c37	frag_c44	4	610
-frag_c37	frag_c45	3	434
-frag_c37	frag_c46	1	163
-frag_c37	frag_c48	1	156
-frag_c37	frag_c49	3	432
-frag_c37	frag_c50	1	164
-frag_c37	frag_c51	3	486
-frag_c37	frag_c52	3	469
-frag_c37	frag_c53	2	301
-frag_c37	frag_c55	1	145
-frag_c37	frag_c56	2	318
-frag_c37	frag_c57	3	485
-frag_c37	frag_c58	1	161
-frag_c37	frag_c59	1	135
-frag_c37	frag_c6	4	624
-frag_c37	frag_c60	1	154
-frag_c37	frag_c63	3	468
-frag_c37	frag_c7	2	305
-frag_c37	frag_c8	7	1119
-frag_c37	frag_c9	10	1504
-frag_c38	frag_c1	4	597
-frag_c38	frag_c10	1	116
-frag_c38	frag_c11	1	149
-frag_c38	frag_c12	2	300
-frag_c38	frag_c13	324	50029
-frag_c38	frag_c14	1	162
-frag_c38	frag_c15	3	449
-frag_c38	frag_c16	1	162
-frag_c38	frag_c18	3	444
-frag_c38	frag_c19	1	134
-frag_c38	frag_c2	6	928
-frag_c38	frag_c21	1	161
-frag_c38	frag_c22	3	488
-frag_c38	frag_c23	1	162
-frag_c38	frag_c24	3	492
-frag_c38	frag_c25	2	310
-frag_c38	frag_c27	3	433
-frag_c38	frag_c28	3	457
-frag_c38	frag_c29	7	1035
-frag_c38	frag_c3	16	2534
-frag_c38	frag_c33	3	412
-frag_c38	frag_c36	2	318
-frag_c38	frag_c37	3	414
-frag_c38	frag_c39	2	298
-frag_c38	frag_c4	1	163
-frag_c38	frag_c40	1	164
-frag_c38	frag_c41	1	147
-frag_c38	frag_c42	1	153
-frag_c38	frag_c44	2	310
-frag_c38	frag_c46	1	144
-frag_c38	frag_c47	1	160
-frag_c38	frag_c48	1	140
-frag_c38	frag_c49	2	301
-frag_c38	frag_c50	1	163
-frag_c38	frag_c52	2	318
-frag_c38	frag_c53	2	314
-frag_c38	frag_c55	1	157
-frag_c38	frag_c59	3	486
-frag_c38	frag_c6	7	1112
-frag_c38	frag_c60	1	156
-frag_c38	frag_c63	1	163
-frag_c38	frag_c64	1	165
-frag_c38	frag_c66	1	149
-frag_c38	frag_c68	178	27573
-frag_c38	frag_c8	2	324
-frag_c38	frag_c9	4	638
-frag_c39	frag_c1	14	2208
-frag_c39	frag_c10	2	327
-frag_c39	frag_c11	295	45441
-frag_c39	frag_c12	6	912
-frag_c39	frag_c13	1	148
-frag_c39	frag_c14	6	929
-frag_c39	frag_c15	4	616
-frag_c39	frag_c16	2	294
-frag_c39	frag_c17	4	640
-frag_c39	frag_c18	9	1432
-frag_c39	frag_c19	3	468
-frag_c39	frag_c2	12	1915
-frag_c39	frag_c20	5	681
-frag_c39	frag_c21	1	164
-frag_c39	frag_c22	2	291
-frag_c39	frag_c23	2	314
-frag_c39	frag_c24	16	2511
-frag_c39	frag_c25	2	301
-frag_c39	frag_c26	1	151
-frag_c39	frag_c27	7	1108
-frag_c39	frag_c28	7	1091
-frag_c39	frag_c29	6	859
-frag_c39	frag_c3	1	164
-frag_c39	frag_c30	2	317
-frag_c39	frag_c31	6	867
-frag_c39	frag_c32	3	484
-frag_c39	frag_c33	12	1808
-frag_c39	frag_c34	3	488
-frag_c39	frag_c35	1	163
-frag_c39	frag_c36	7	1056
-frag_c39	frag_c37	2	300
-frag_c39	frag_c38	2	322
-frag_c39	frag_c4	2	318
-frag_c39	frag_c40	2	318
-frag_c39	frag_c42	2	310
-frag_c39	frag_c43	1	162
-frag_c39	frag_c44	1	155
-frag_c39	frag_c45	6	945
-frag_c39	frag_c46	1	158
-frag_c39	frag_c47	2	324
-frag_c39	frag_c48	3	476
-frag_c39	frag_c49	2	309
-frag_c39	frag_c50	3	483
-frag_c39	frag_c52	1	164
-frag_c39	frag_c53	3	471
-frag_c39	frag_c55	1	159
-frag_c39	frag_c57	4	656
-frag_c39	frag_c58	3	473
-frag_c39	frag_c59	4	555
-frag_c39	frag_c6	14	2257
-frag_c39	frag_c61	1	132
-frag_c39	frag_c63	1	159
-frag_c39	frag_c64	1	164
-frag_c39	frag_c66	1	161
-frag_c39	frag_c67	1	153
-frag_c39	frag_c68	2	319
-frag_c39	frag_c7	1	148
-frag_c39	frag_c8	5	791
-frag_c39	frag_c9	10	1602
-frag_c4	frag_c1	4	628
-frag_c4	frag_c10	1	164
-frag_c4	frag_c11	2	300
-frag_c4	frag_c13	1	140
-frag_c4	frag_c14	2	255
-frag_c4	frag_c15	3	485
-frag_c4	frag_c16	1	159
-frag_c4	frag_c19	1	164
-frag_c4	frag_c2	5	790
-frag_c4	frag_c20	1	163
-frag_c4	frag_c21	1	148
-frag_c4	frag_c23	1	162
-frag_c4	frag_c24	1	155
-frag_c4	frag_c25	2	310
-frag_c4	frag_c27	2	327
-frag_c4	frag_c28	386	59978
-frag_c4	frag_c29	3	472
-frag_c4	frag_c3	2	313
-frag_c4	frag_c32	2	312
-frag_c4	frag_c33	3	472
-frag_c4	frag_c34	1	164
-frag_c4	frag_c36	2	288
-frag_c4	frag_c37	4	624
-frag_c4	frag_c39	3	468
-frag_c4	frag_c42	1	165
-frag_c4	frag_c43	2	320
-frag_c4	frag_c44	1	153
-frag_c4	frag_c45	3	474
-frag_c4	frag_c46	2	299
-frag_c4	frag_c47	3	436
-frag_c4	frag_c49	2	325
-frag_c4	frag_c50	1	164
-frag_c4	frag_c51	2	325
-frag_c4	frag_c52	3	470
-frag_c4	frag_c53	1	133
-frag_c4	frag_c56	1	160
-frag_c4	frag_c59	2	243
-frag_c4	frag_c6	3	461
-frag_c4	frag_c60	1	155
-frag_c4	frag_c63	2	299
-frag_c4	frag_c67	1	152
-frag_c4	frag_c72	1	165
-frag_c4	frag_c8	3	456
-frag_c4	frag_c9	5	748
-frag_c4	frag_rep_c76	11	1723
-frag_c40	frag_c1	3	485
-frag_c40	frag_c10	1	164
-frag_c40	frag_c11	1	145
-frag_c40	frag_c14	2	316
-frag_c40	frag_c2	4	630
-frag_c40	frag_c20	1	163
-frag_c40	frag_c21	4	600
-frag_c40	frag_c23	1	163
-frag_c40	frag_c24	2	322
-frag_c40	frag_c25	1	163
-frag_c40	frag_c27	2	264
-frag_c40	frag_c29	1	152
-frag_c40	frag_c3	10	1430
-frag_c40	frag_c30	1	164
-frag_c40	frag_c31	1	161
-frag_c40	frag_c32	1	154
-frag_c40	frag_c33	1	165
-frag_c40	frag_c39	1	163
-frag_c40	frag_c4	1	164
-frag_c40	frag_c41	1	162
-frag_c40	frag_c43	1	162
-frag_c40	frag_c49	2	316
-frag_c40	frag_c50	2	320
-frag_c40	frag_c52	1	137
-frag_c40	frag_c55	1	152
-frag_c40	frag_c56	1	162
-frag_c40	frag_c57	1	155
-frag_c40	frag_c59	1	162
-frag_c40	frag_c6	5	701
-frag_c40	frag_c61	1	141
-frag_c40	frag_c63	213	33072
-frag_c40	frag_c72	1	160
-frag_c40	frag_c8	4	629
-frag_c40	frag_c9	3	446
-frag_c41	frag_c1	49	7396
-frag_c41	frag_c11	1	149
-frag_c41	frag_c12	1	154
-frag_c41	frag_c14	3	428
-frag_c41	frag_c15	1	152
-frag_c41	frag_c16	2	315
-frag_c41	frag_c17	280	42744
-frag_c41	frag_c19	1	163
-frag_c41	frag_c2	1	163
-frag_c41	frag_c21	1	163
-frag_c41	frag_c24	2	329
-frag_c41	frag_c27	1	163
-frag_c41	frag_c28	1	156
-frag_c41	frag_c29	3	475
-frag_c41	frag_c3	2	282
-frag_c41	frag_c33	1	164
-frag_c41	frag_c34	1	162
-frag_c41	frag_c36	1	151
-frag_c41	frag_c44	1	157
-frag_c41	frag_c48	1	161
-frag_c41	frag_c57	1	149
-frag_c41	frag_c58	1	161
-frag_c41	frag_c6	1	164
-frag_c41	frag_c8	1	159
-frag_c41	frag_c9	3	476
-frag_c42	frag_c1	1	160
-frag_c42	frag_c12	2	317
-frag_c42	frag_c13	1	161
-frag_c42	frag_c14	5	771
-frag_c42	frag_c15	1	164
-frag_c42	frag_c16	1	163
-frag_c42	frag_c19	1	143
-frag_c42	frag_c2	3	459
-frag_c42	frag_c20	1	162
-frag_c42	frag_c21	2	309
-frag_c42	frag_c24	3	414
-frag_c42	frag_c25	1	159
-frag_c42	frag_c26	1	162
-frag_c42	frag_c27	2	278
-frag_c42	frag_c28	3	447
-frag_c42	frag_c3	1	159
-frag_c42	frag_c31	307	47484
-frag_c42	frag_c32	1	162
-frag_c42	frag_c33	5	696
-frag_c42	frag_c35	1	162
-frag_c42	frag_c36	2	313
-frag_c42	frag_c37	2	319
-frag_c42	frag_c39	2	316
-frag_c42	frag_c40	2	298
-frag_c42	frag_c43	1	163
-frag_c42	frag_c44	1	163
-frag_c42	frag_c46	2	293
-frag_c42	frag_c47	2	326
-frag_c42	frag_c49	3	456
-frag_c42	frag_c5	1	164
-frag_c42	frag_c50	1	149
-frag_c42	frag_c52	2	314
-frag_c42	frag_c57	1	163
-frag_c42	frag_c58	1	157
-frag_c42	frag_c59	1	163
-frag_c42	frag_c6	2	292
-frag_c42	frag_c63	1	150
-frag_c42	frag_c66	1	162
-frag_c42	frag_c67	194	29585
-frag_c42	frag_c8	1	145
-frag_c42	frag_c9	2	321
-frag_c43	frag_c1	5	682
-frag_c43	frag_c10	3	442
-frag_c43	frag_c13	1	161
-frag_c43	frag_c14	1	164
-frag_c43	frag_c16	2	308
-frag_c43	frag_c2	1	157
-frag_c43	frag_c20	3	467
-frag_c43	frag_c21	1	164
-frag_c43	frag_c23	1	163
-frag_c43	frag_c25	1	145
-frag_c43	frag_c28	3	476
-frag_c43	frag_c29	3	473
-frag_c43	frag_c31	2	304
-frag_c43	frag_c35	1	148
-frag_c43	frag_c37	2	325
-frag_c43	frag_c38	1	164
-frag_c43	frag_c39	4	582
-frag_c43	frag_c40	1	152
-frag_c43	frag_c44	1	103
-frag_c43	frag_c45	1	146
-frag_c43	frag_c49	2	327
-frag_c43	frag_c5	2	260
-frag_c43	frag_c50	2	303
-frag_c43	frag_c52	2	295
-frag_c43	frag_c53	1	143
-frag_c43	frag_c55	1	163
-frag_c43	frag_c61	1	165
-frag_c43	frag_c8	1	152
-frag_c43	frag_c9	5	743
-frag_c43	frag_rep_c76	1	118
-frag_c44	frag_c1	11	1720
-frag_c44	frag_c10	3	421
-frag_c44	frag_c11	1	156
-frag_c44	frag_c12	1	165
-frag_c44	frag_c13	1	164
-frag_c44	frag_c14	7	1114
-frag_c44	frag_c15	2	309
-frag_c44	frag_c16	2	322
-frag_c44	frag_c18	1	154
-frag_c44	frag_c19	2	326
-frag_c44	frag_c2	2	321
-frag_c44	frag_c20	3	421
-frag_c44	frag_c21	1	156
-frag_c44	frag_c22	1	140
-frag_c44	frag_c24	2	315
-frag_c44	frag_c25	2	312
-frag_c44	frag_c26	1	165
-frag_c44	frag_c27	4	654
-frag_c44	frag_c28	6	961
-frag_c44	frag_c29	4	587
-frag_c44	frag_c3	1	156
-frag_c44	frag_c31	2	316
-frag_c44	frag_c32	1	117
-frag_c44	frag_c33	6	951
-frag_c44	frag_c34	2	313
-frag_c44	frag_c36	2	308
-frag_c44	frag_c37	2	301
-frag_c44	frag_c38	2	309
-frag_c44	frag_c39	4	620
-frag_c44	frag_c40	1	145
-frag_c44	frag_c42	3	462
-frag_c44	frag_c43	1	156
-frag_c44	frag_c45	1	158
-frag_c44	frag_c46	1	161
-frag_c44	frag_c47	1	163
-frag_c44	frag_c49	2	312
-frag_c44	frag_c50	1	162
-frag_c44	frag_c51	2	306
-frag_c44	frag_c52	1	155
-frag_c44	frag_c53	1	162
-frag_c44	frag_c56	1	145
-frag_c44	frag_c58	2	302
-frag_c44	frag_c6	5	775
-frag_c44	frag_c61	1	144
-frag_c44	frag_c62	310	47813
-frag_c44	frag_c63	1	162
-frag_c44	frag_c66	2	302
-frag_c44	frag_c8	3	487
-frag_c44	frag_c9	12	1871
-frag_c45	frag_c1	3	473
-frag_c45	frag_c10	1	159
-frag_c45	frag_c11	1	162
-frag_c45	frag_c12	2	319
-frag_c45	frag_c13	1	162
-frag_c45	frag_c14	3	464
-frag_c45	frag_c15	1	162
-frag_c45	frag_c16	3	471
-frag_c45	frag_c18	2	312
-frag_c45	frag_c19	5	749
-frag_c45	frag_c2	389	60024
-frag_c45	frag_c20	4	631
-frag_c45	frag_c21	1	139
-frag_c45	frag_c22	1	163
-frag_c45	frag_c23	4	638
-frag_c45	frag_c24	6	942
-frag_c45	frag_c27	1	152
-frag_c45	frag_c28	4	602
-frag_c45	frag_c29	4	642
-frag_c45	frag_c31	2	316
-frag_c45	frag_c33	3	449
-frag_c45	frag_c36	1	136
-frag_c45	frag_c38	2	318
-frag_c45	frag_c39	5	762
-frag_c45	frag_c44	2	316
-frag_c45	frag_c46	1	132
-frag_c45	frag_c47	1	149
-frag_c45	frag_c48	1	157
-frag_c45	frag_c49	2	279
-frag_c45	frag_c52	1	164
-frag_c45	frag_c53	1	155
-frag_c45	frag_c55	1	165
-frag_c45	frag_c58	1	155
-frag_c45	frag_c59	2	292
-frag_c45	frag_c6	4	615
-frag_c45	frag_c66	1	154
-frag_c45	frag_c7	1	153
-frag_c45	frag_c8	3	484
-frag_c45	frag_c9	1	163
-frag_c46	frag_c1	4	623
-frag_c46	frag_c13	2	326
-frag_c46	frag_c15	1	155
-frag_c46	frag_c17	1	156
-frag_c46	frag_c18	1	163
-frag_c46	frag_c19	2	326
-frag_c46	frag_c2	1	165
-frag_c46	frag_c20	1	160
-frag_c46	frag_c24	1	144
-frag_c46	frag_c28	2	327
-frag_c46	frag_c29	1	165
-frag_c46	frag_c33	1	138
-frag_c46	frag_c36	1	155
-frag_c46	frag_c38	1	148
-frag_c46	frag_c39	1	162
-frag_c46	frag_c42	1	150
-frag_c46	frag_c50	2	251
-frag_c46	frag_c51	1	149
-frag_c46	frag_c52	1	162
-frag_c46	frag_c56	1	145
-frag_c46	frag_c57	2	241
-frag_c46	frag_c6	3	478
-frag_c46	frag_c60	328	50223
-frag_c46	frag_c62	1	164
-frag_c46	frag_c63	2	328
-frag_c46	frag_c67	1	161
-frag_c46	frag_c69	1	146
-frag_c46	frag_c9	4	620
-frag_c47	frag_c1	242	37455
-frag_c47	frag_c10	2	316
-frag_c47	frag_c11	3	482
-frag_c47	frag_c13	1	163
-frag_c47	frag_c15	2	327
-frag_c47	frag_c16	3	471
-frag_c47	frag_c18	1	150
-frag_c47	frag_c19	2	282
-frag_c47	frag_c2	2	310
-frag_c47	frag_c22	3	440
-frag_c47	frag_c24	2	246
-frag_c47	frag_c25	1	148
-frag_c47	frag_c28	4	622
-frag_c47	frag_c29	2	326
-frag_c47	frag_c3	1	154
-frag_c47	frag_c30	1	165
-frag_c47	frag_c32	1	155
-frag_c47	frag_c33	1	165
-frag_c47	frag_c35	1	163
-frag_c47	frag_c36	1	163
-frag_c47	frag_c37	1	164
-frag_c47	frag_c39	1	164
-frag_c47	frag_c4	3	479
-frag_c47	frag_c40	1	138
-frag_c47	frag_c42	1	137
-frag_c47	frag_c43	1	154
-frag_c47	frag_c44	1	162
-frag_c47	frag_c48	1	166
-frag_c47	frag_c49	1	159
-frag_c47	frag_c50	3	488
-frag_c47	frag_c52	1	150
-frag_c47	frag_c53	1	165
-frag_c47	frag_c6	3	458
-frag_c47	frag_c66	1	163
-frag_c47	frag_c9	4	630
-frag_c48	frag_c1	2	327
-frag_c48	frag_c11	1	157
-frag_c48	frag_c12	1	164
-frag_c48	frag_c14	2	324
-frag_c48	frag_c15	1	137
-frag_c48	frag_c16	1	164
-frag_c48	frag_c19	2	311
-frag_c48	frag_c2	1	153
-frag_c48	frag_c20	3	460
-frag_c48	frag_c23	1	162
-frag_c48	frag_c24	2	284
-frag_c48	frag_c25	1	155
-frag_c48	frag_c26	1	165
-frag_c48	frag_c28	3	412
-frag_c48	frag_c29	1	165
-frag_c48	frag_c33	2	300
-frag_c48	frag_c35	161	24646
-frag_c48	frag_c4	2	296
-frag_c48	frag_c41	1	163
-frag_c48	frag_c44	1	157
-frag_c48	frag_c46	2	307
-frag_c48	frag_c47	1	132
-frag_c48	frag_c49	1	144
-frag_c48	frag_c52	1	164
-frag_c48	frag_c55	1	98
-frag_c48	frag_c56	3	474
-frag_c48	frag_c58	1	164
-frag_c48	frag_c59	1	155
-frag_c48	frag_c6	1	164
-frag_c48	frag_c63	2	318
-frag_c48	frag_c8	1	150
-frag_c48	frag_c9	43	6539
-frag_c49	frag_c1	3	488
-frag_c49	frag_c10	2	309
-frag_c49	frag_c11	2	319
-frag_c49	frag_c12	1	159
-frag_c49	frag_c14	3	469
-frag_c49	frag_c15	2	296
-frag_c49	frag_c17	6	943
-frag_c49	frag_c19	4	627
-frag_c49	frag_c2	2	322
-frag_c49	frag_c21	1	162
-frag_c49	frag_c22	2	312
-frag_c49	frag_c23	1	152
-frag_c49	frag_c24	5	788
-frag_c49	frag_c27	3	468
-frag_c49	frag_c28	2	325
-frag_c49	frag_c3	2	320
-frag_c49	frag_c32	1	163
-frag_c49	frag_c33	6	934
-frag_c49	frag_c34	2	323
-frag_c49	frag_c35	267	40829
-frag_c49	frag_c36	1	156
-frag_c49	frag_c37	4	634
-frag_c49	frag_c38	3	470
-frag_c49	frag_c39	2	320
-frag_c49	frag_c43	1	163
-frag_c49	frag_c45	1	148
-frag_c49	frag_c47	1	154
-frag_c49	frag_c5	3	471
-frag_c49	frag_c50	2	286
-frag_c49	frag_c53	2	313
-frag_c49	frag_c56	3	464
-frag_c49	frag_c57	1	156
-frag_c49	frag_c58	3	476
-frag_c49	frag_c59	1	155
-frag_c49	frag_c6	5	780
-frag_c49	frag_c60	1	128
-frag_c49	frag_c61	288	44889
-frag_c49	frag_c66	1	164
-frag_c49	frag_c8	5	760
-frag_c49	frag_c9	1	155
-frag_c5	frag_c1	2	319
-frag_c5	frag_c10	2	296
-frag_c5	frag_c11	1	162
-frag_c5	frag_c12	1	152
-frag_c5	frag_c15	1	161
-frag_c5	frag_c16	1	152
-frag_c5	frag_c17	1	120
-frag_c5	frag_c18	2	275
-frag_c5	frag_c2	1	144
-frag_c5	frag_c20	1	129
-frag_c5	frag_c21	1	143
-frag_c5	frag_c22	1	154
-frag_c5	frag_c23	2	314
-frag_c5	frag_c25	1	146
-frag_c5	frag_c27	2	304
-frag_c5	frag_c28	3	463
-frag_c5	frag_c29	2	315
-frag_c5	frag_c30	1	158
-frag_c5	frag_c34	1	165
-frag_c5	frag_c36	340	53116
-frag_c5	frag_c37	1	145
-frag_c5	frag_c38	1	159
-frag_c5	frag_c39	1	150
-frag_c5	frag_c4	3	469
-frag_c5	frag_c41	1	162
-frag_c5	frag_c42	3	492
-frag_c5	frag_c44	2	320
-frag_c5	frag_c46	1	161
-frag_c5	frag_c50	1	162
-frag_c5	frag_c55	1	153
-frag_c5	frag_c58	1	163
-frag_c5	frag_c8	1	149
-frag_c50	frag_c1	2	316
-frag_c50	frag_c10	4	629
-frag_c50	frag_c11	3	468
-frag_c50	frag_c12	1	165
-frag_c50	frag_c14	2	308
-frag_c50	frag_c15	3	486
-frag_c50	frag_c16	1	165
-frag_c50	frag_c17	2	328
-frag_c50	frag_c18	2	327
-frag_c50	frag_c2	3	458
-frag_c50	frag_c20	3	436
-frag_c50	frag_c21	1	163
-frag_c50	frag_c23	1	162
-frag_c50	frag_c24	1	148
-frag_c50	frag_c25	4	574
-frag_c50	frag_c26	369	57271
-frag_c50	frag_c27	1	137
-frag_c50	frag_c28	3	472
-frag_c50	frag_c29	4	603
-frag_c50	frag_c31	1	60
-frag_c50	frag_c32	3	474
-frag_c50	frag_c33	3	456
-frag_c50	frag_c34	1	164
-frag_c50	frag_c37	2	320
-frag_c50	frag_c38	1	154
-frag_c50	frag_c39	3	442
-frag_c50	frag_c41	1	158
-frag_c50	frag_c49	1	157
-frag_c50	frag_c51	2	326
-frag_c50	frag_c52	1	123
-frag_c50	frag_c53	3	477
-frag_c50	frag_c58	2	320
-frag_c50	frag_c59	1	164
-frag_c50	frag_c6	4	629
-frag_c50	frag_c63	1	157
-frag_c50	frag_c8	6	947
-frag_c50	frag_c9	5	795
-frag_c51	frag_c1	3	430
-frag_c51	frag_c10	2	303
-frag_c51	frag_c14	1	163
-frag_c51	frag_c15	2	313
-frag_c51	frag_c16	2	328
-frag_c51	frag_c17	1	164
-frag_c51	frag_c18	3	485
-frag_c51	frag_c2	4	618
-frag_c51	frag_c20	1	154
-frag_c51	frag_c21	1	162
-frag_c51	frag_c22	1	164
-frag_c51	frag_c23	2	323
-frag_c51	frag_c24	4	649
-frag_c51	frag_c25	1	156
-frag_c51	frag_c26	1	164
-frag_c51	frag_c28	3	429
-frag_c51	frag_c29	4	631
-frag_c51	frag_c30	1	164
-frag_c51	frag_c31	1	160
-frag_c51	frag_c32	1	145
-frag_c51	frag_c33	1	147
-frag_c51	frag_c34	1	162
-frag_c51	frag_c37	1	146
-frag_c51	frag_c38	2	295
-frag_c51	frag_c39	2	296
-frag_c51	frag_c4	1	160
-frag_c51	frag_c42	2	302
-frag_c51	frag_c43	2	287
-frag_c51	frag_c44	1	163
-frag_c51	frag_c46	1	154
-frag_c51	frag_c49	5	812
-frag_c51	frag_c5	1	141
-frag_c51	frag_c50	1	162
-frag_c51	frag_c57	1	165
-frag_c51	frag_c6	2	296
-frag_c51	frag_c63	1	150
-frag_c51	frag_c67	174	26747
-frag_c51	frag_c7	6	935
-frag_c51	frag_c70	1	163
-frag_c51	frag_c9	5	688
-frag_c52	frag_c1	5	774
-frag_c52	frag_c10	3	455
-frag_c52	frag_c11	2	290
-frag_c52	frag_c12	1	157
-frag_c52	frag_c14	5	738
-frag_c52	frag_c15	5	742
-frag_c52	frag_c18	3	467
-frag_c52	frag_c19	2	312
-frag_c52	frag_c2	2	314
-frag_c52	frag_c20	4	622
-frag_c52	frag_c23	1	164
-frag_c52	frag_c24	5	801
-frag_c52	frag_c26	2	310
-frag_c52	frag_c27	2	315
-frag_c52	frag_c28	4	589
-frag_c52	frag_c29	4	635
-frag_c52	frag_c33	8	1232
-frag_c52	frag_c34	4	629
-frag_c52	frag_c36	1	164
-frag_c52	frag_c37	1	157
-frag_c52	frag_c38	4	598
-frag_c52	frag_c39	4	651
-frag_c52	frag_c4	1	163
-frag_c52	frag_c40	1	150
-frag_c52	frag_c42	3	438
-frag_c52	frag_c43	1	156
-frag_c52	frag_c44	1	163
-frag_c52	frag_c47	1	164
-frag_c52	frag_c48	1	163
-frag_c52	frag_c49	1	95
-frag_c52	frag_c5	2	322
-frag_c52	frag_c50	1	128
-frag_c52	frag_c51	1	145
-frag_c52	frag_c53	1	151
-frag_c52	frag_c58	2	318
-frag_c52	frag_c59	2	307
-frag_c52	frag_c6	6	932
-frag_c52	frag_c63	34	5212
-frag_c52	frag_c7	1	156
-frag_c52	frag_c9	5	743
-frag_c53	frag_c1	4	636
-frag_c53	frag_c10	319	49367
-frag_c53	frag_c12	1	163
-frag_c53	frag_c14	5	775
-frag_c53	frag_c15	2	294
-frag_c53	frag_c17	1	163
-frag_c53	frag_c18	3	311
-frag_c53	frag_c19	3	440
-frag_c53	frag_c2	4	595
-frag_c53	frag_c20	3	444
-frag_c53	frag_c23	1	159
-frag_c53	frag_c24	3	420
-frag_c53	frag_c25	1	163
-frag_c53	frag_c26	1	164
-frag_c53	frag_c28	4	633
-frag_c53	frag_c29	4	623
-frag_c53	frag_c3	1	165
-frag_c53	frag_c31	3	483
-frag_c53	frag_c32	2	302
-frag_c53	frag_c33	1	164
-frag_c53	frag_c36	1	165
-frag_c53	frag_c37	3	487
-frag_c53	frag_c39	1	164
-frag_c53	frag_c41	1	153
-frag_c53	frag_c42	2	291
-frag_c53	frag_c44	1	158
-frag_c53	frag_c45	2	304
-frag_c53	frag_c50	3	472
-frag_c53	frag_c52	1	135
-frag_c53	frag_c55	1	141
-frag_c53	frag_c58	1	159
-frag_c53	frag_c6	4	652
-frag_c53	frag_c63	3	443
-frag_c53	frag_c66	2	318
-frag_c53	frag_c8	1	163
-frag_c53	frag_c9	3	479
-frag_c54	frag_c19	1	155
-frag_c54	frag_c20	1	157
-frag_c54	frag_c21	2	315
-frag_c54	frag_c23	1	147
-frag_c54	frag_c24	1	164
-frag_c54	frag_c25	2	328
-frag_c54	frag_c30	317	49268
-frag_c54	frag_c32	1	139
-frag_c54	frag_c33	1	162
-frag_c54	frag_c4	1	161
-frag_c54	frag_c43	1	153
-frag_c54	frag_c44	1	160
-frag_c54	frag_c6	2	307
-frag_c54	frag_c62	1	162
-frag_c54	frag_c8	1	150
-frag_c54	frag_c9	2	324
-frag_c55	frag_c1	5	799
-frag_c55	frag_c10	1	144
-frag_c55	frag_c11	1	159
-frag_c55	frag_c12	2	311
-frag_c55	frag_c14	1	153
-frag_c55	frag_c18	1	155
-frag_c55	frag_c2	4	577
-frag_c55	frag_c20	1	158
-frag_c55	frag_c24	4	597
-frag_c55	frag_c25	3	483
-frag_c55	frag_c28	1	164
-frag_c55	frag_c29	1	163
-frag_c55	frag_c3	1	165
-frag_c55	frag_c31	1	163
-frag_c55	frag_c33	2	311
-frag_c55	frag_c36	1	163
-frag_c55	frag_c37	2	314
-frag_c55	frag_c38	2	329
-frag_c55	frag_c45	2	319
-frag_c55	frag_c49	2	315
-frag_c55	frag_c50	1	161
-frag_c55	frag_c51	1	163
-frag_c55	frag_c56	1	164
-frag_c55	frag_c57	1	163
-frag_c55	frag_c6	4	591
-frag_c55	frag_c60	1	165
-frag_c55	frag_c61	322	50167
-frag_c55	frag_c63	1	156
-frag_c55	frag_c9	86	13153
-frag_c56	frag_c1	5	771
-frag_c56	frag_c10	1	153
-frag_c56	frag_c11	2	266
-frag_c56	frag_c12	1	122
-frag_c56	frag_c14	9	1382
-frag_c56	frag_c15	4	646
-frag_c56	frag_c17	1	156
-frag_c56	frag_c18	1	92
-frag_c56	frag_c19	2	325
-frag_c56	frag_c2	4	637
-frag_c56	frag_c22	1	156
-frag_c56	frag_c24	3	475
-frag_c56	frag_c25	4	543
-frag_c56	frag_c27	1	151
-frag_c56	frag_c3	152	23727
-frag_c56	frag_c32	2	290
-frag_c56	frag_c33	1	164
-frag_c56	frag_c35	1	165
-frag_c56	frag_c37	1	165
-frag_c56	frag_c39	4	583
-frag_c56	frag_c42	1	159
-frag_c56	frag_c44	4	613
-frag_c56	frag_c45	1	156
-frag_c56	frag_c49	1	164
-frag_c56	frag_c50	3	452
-frag_c56	frag_c53	1	158
-frag_c56	frag_c54	1	165
-frag_c56	frag_c57	1	165
-frag_c56	frag_c58	1	158
-frag_c56	frag_c6	1	164
-frag_c56	frag_c60	1	155
-frag_c56	frag_c66	1	148
-frag_c56	frag_c8	1	162
-frag_c56	frag_c9	1	164
-frag_c57	frag_c1	2	314
-frag_c57	frag_c11	1	152
-frag_c57	frag_c14	1	147
-frag_c57	frag_c15	1	153
-frag_c57	frag_c16	1	148
-frag_c57	frag_c18	2	327
-frag_c57	frag_c19	3	471
-frag_c57	frag_c2	1	163
-frag_c57	frag_c20	1	155
-frag_c57	frag_c22	4	591
-frag_c57	frag_c23	1	154
-frag_c57	frag_c24	4	627
-frag_c57	frag_c25	1	158
-frag_c57	frag_c27	3	460
-frag_c57	frag_c28	1	158
-frag_c57	frag_c29	3	475
-frag_c57	frag_c3	3	473
-frag_c57	frag_c32	1	163
-frag_c57	frag_c33	2	301
-frag_c57	frag_c34	3	470
-frag_c57	frag_c36	1	146
-frag_c57	frag_c37	2	317
-frag_c57	frag_c4	1	152
-frag_c57	frag_c40	1	164
-frag_c57	frag_c41	1	154
-frag_c57	frag_c43	2	278
-frag_c57	frag_c44	1	143
-frag_c57	frag_c45	1	160
-frag_c57	frag_c46	1	146
-frag_c57	frag_c5	2	315
-frag_c57	frag_c52	1	144
-frag_c57	frag_c53	1	164
-frag_c57	frag_c59	2	322
-frag_c57	frag_c6	2	310
-frag_c57	frag_c61	1	158
-frag_c57	frag_c65	1	154
-frag_c57	frag_c66	1	156
-frag_c57	frag_c9	2	316
-frag_c58	frag_c1	47	7283
-frag_c58	frag_c11	1	139
-frag_c58	frag_c12	2	289
-frag_c58	frag_c13	1	144
-frag_c58	frag_c14	1	160
-frag_c58	frag_c15	3	482
-frag_c58	frag_c18	1	163
-frag_c58	frag_c19	3	448
-frag_c58	frag_c2	1	164
-frag_c58	frag_c21	1	161
-frag_c58	frag_c22	1	112
-frag_c58	frag_c24	1	139
-frag_c58	frag_c25	1	155
-frag_c58	frag_c28	2	308
-frag_c58	frag_c29	5	796
-frag_c58	frag_c33	1	155
-frag_c58	frag_c34	3	448
-frag_c58	frag_c36	5	796
-frag_c58	frag_c37	1	146
-frag_c58	frag_c38	1	156
-frag_c58	frag_c39	1	160
-frag_c58	frag_c42	1	150
-frag_c58	frag_c44	2	311
-frag_c58	frag_c47	1	142
-frag_c58	frag_c49	1	164
-frag_c58	frag_c50	1	111
-frag_c58	frag_c51	2	328
-frag_c58	frag_c53	1	163
-frag_c58	frag_c57	2	309
-frag_c58	frag_c6	1	129
-frag_c58	frag_c63	3	479
-frag_c58	frag_c64	189	29058
-frag_c58	frag_c66	1	164
-frag_c58	frag_c9	3	464
-frag_c59	frag_c1	3	461
-frag_c59	frag_c11	2	327
-frag_c59	frag_c12	1	153
-frag_c59	frag_c14	2	300
-frag_c59	frag_c15	1	163
-frag_c59	frag_c19	1	164
-frag_c59	frag_c2	5	813
-frag_c59	frag_c20	2	310
-frag_c59	frag_c21	2	317
-frag_c59	frag_c22	1	131
-frag_c59	frag_c23	1	163
-frag_c59	frag_c24	3	486
-frag_c59	frag_c25	1	162
-frag_c59	frag_c28	2	317
-frag_c59	frag_c29	3	453
-frag_c59	frag_c32	1	153
-frag_c59	frag_c33	1	162
-frag_c59	frag_c34	1	161
-frag_c59	frag_c36	2	326
-frag_c59	frag_c37	1	161
-frag_c59	frag_c38	1	164
-frag_c59	frag_c39	2	302
-frag_c59	frag_c4	2	331
-frag_c59	frag_c45	1	164
-frag_c59	frag_c47	2	330
-frag_c59	frag_c48	3	476
-frag_c59	frag_c49	1	124
-frag_c59	frag_c52	3	475
-frag_c59	frag_c54	1	163
-frag_c59	frag_c6	4	586
-frag_c59	frag_c66	2	327
-frag_c59	frag_c70	1	165
-frag_c59	frag_c8	2	307
-frag_c59	frag_c9	4	566
-frag_c59	frag_rep_c77	8	1102
-frag_c6	frag_c1	18	2795
-frag_c6	frag_c10	3	437
-frag_c6	frag_c11	137	21014
-frag_c6	frag_c12	2	329
-frag_c6	frag_c14	14	2157
-frag_c6	frag_c15	9	1383
-frag_c6	frag_c16	5	748
-frag_c6	frag_c17	4	629
-frag_c6	frag_c18	2	290
-frag_c6	frag_c19	3	477
-frag_c6	frag_c2	16	2424
-frag_c6	frag_c20	9	1359
-frag_c6	frag_c21	6	945
-frag_c6	frag_c22	6	898
-frag_c6	frag_c23	3	437
-frag_c6	frag_c24	21	3246
-frag_c6	frag_c25	5	770
-frag_c6	frag_c26	3	491
-frag_c6	frag_c27	11	1632
-frag_c6	frag_c28	7	1083
-frag_c6	frag_c29	17	2584
-frag_c6	frag_c3	5	768
-frag_c6	frag_c30	2	318
-frag_c6	frag_c31	4	544
-frag_c6	frag_c32	4	630
-frag_c6	frag_c33	7	873
-frag_c6	frag_c34	4	628
-frag_c6	frag_c35	3	482
-frag_c6	frag_c36	5	752
-frag_c6	frag_c37	8	1164
-frag_c6	frag_c38	4	585
-frag_c6	frag_c39	18	2842
-frag_c6	frag_c4	1	164
-frag_c6	frag_c40	3	449
-frag_c6	frag_c41	3	466
-frag_c6	frag_c44	5	780
-frag_c6	frag_c45	2	303
-frag_c6	frag_c46	1	151
-frag_c6	frag_c47	3	486
-frag_c6	frag_c49	3	469
-frag_c6	frag_c5	7	1092
-frag_c6	frag_c50	2	310
-frag_c6	frag_c51	3	481
-frag_c6	frag_c52	10	1352
-frag_c6	frag_c53	4	608
-frag_c6	frag_c54	1	157
-frag_c6	frag_c56	3	478
-frag_c6	frag_c57	4	621
-frag_c6	frag_c58	3	473
-frag_c6	frag_c59	4	564
-frag_c6	frag_c60	217	33360
-frag_c6	frag_c61	1	164
-frag_c6	frag_c63	1	163
-frag_c6	frag_c66	2	324
-frag_c6	frag_c68	1	163
-frag_c6	frag_c7	8	1235
-frag_c6	frag_c71	1	160
-frag_c6	frag_c8	10	1570
-frag_c6	frag_c9	17	2616
-frag_c60	frag_c1	1	164
-frag_c60	frag_c12	2	328
-frag_c60	frag_c13	1	128
-frag_c60	frag_c16	1	161
-frag_c60	frag_c19	1	157
-frag_c60	frag_c2	1	165
-frag_c60	frag_c20	1	156
-frag_c60	frag_c28	1	162
-frag_c60	frag_c29	1	151
-frag_c60	frag_c30	1	161
-frag_c60	frag_c46	322	50054
-frag_c60	frag_c49	1	133
-frag_c60	frag_c50	1	163
-frag_c60	frag_c6	239	36755
-frag_c60	frag_c63	1	161
-frag_c60	frag_c9	1	162
-frag_c61	frag_c11	1	163
-frag_c61	frag_c12	1	147
-frag_c61	frag_c14	2	318
-frag_c61	frag_c15	1	157
-frag_c61	frag_c19	1	158
-frag_c61	frag_c24	2	318
-frag_c61	frag_c25	1	147
-frag_c61	frag_c31	1	165
-frag_c61	frag_c39	1	131
-frag_c61	frag_c42	1	155
-frag_c61	frag_c49	303	46783
-frag_c61	frag_c55	348	54442
-frag_c61	frag_c6	2	325
-frag_c61	frag_c8	1	163
-frag_c62	frag_c1	1	162
-frag_c62	frag_c10	1	154
-frag_c62	frag_c12	1	161
-frag_c62	frag_c14	1	163
-frag_c62	frag_c16	1	137
-frag_c62	frag_c2	5	805
-frag_c62	frag_c21	1	155
-frag_c62	frag_c27	1	158
-frag_c62	frag_c32	1	164
-frag_c62	frag_c36	1	135
-frag_c62	frag_c38	1	163
-frag_c62	frag_c4	1	163
-frag_c62	frag_c44	309	46986
-frag_c62	frag_c46	1	152
-frag_c62	frag_c49	1	153
-frag_c62	frag_c53	1	163
-frag_c62	frag_c59	1	163
-frag_c62	frag_c9	1	162
-frag_c63	frag_c1	2	293
-frag_c63	frag_c10	4	624
-frag_c63	frag_c11	2	328
-frag_c63	frag_c12	1	157
-frag_c63	frag_c14	3	458
-frag_c63	frag_c15	2	319
-frag_c63	frag_c16	1	153
-frag_c63	frag_c18	1	156
-frag_c63	frag_c2	2	284
-frag_c63	frag_c20	3	469
-frag_c63	frag_c22	1	154
-frag_c63	frag_c24	3	478
-frag_c63	frag_c25	1	143
-frag_c63	frag_c27	6	924
-frag_c63	frag_c28	5	797
-frag_c63	frag_c29	2	314
-frag_c63	frag_c3	2	297
-frag_c63	frag_c34	2	308
-frag_c63	frag_c36	1	148
-frag_c63	frag_c37	3	386
-frag_c63	frag_c38	1	156
-frag_c63	frag_c4	1	165
-frag_c63	frag_c40	184	28193
-frag_c63	frag_c44	4	639
-frag_c63	frag_c45	1	116
-frag_c63	frag_c5	2	318
-frag_c63	frag_c50	1	155
-frag_c63	frag_c52	34	5091
-frag_c63	frag_c53	1	141
-frag_c63	frag_c54	1	163
-frag_c63	frag_c58	1	162
-frag_c63	frag_c6	2	286
-frag_c63	frag_c70	1	165
-frag_c63	frag_c8	2	327
-frag_c63	frag_c9	1	162
-frag_c64	frag_c1	1	153
-frag_c64	frag_c16	1	155
-frag_c64	frag_c21	2	326
-frag_c64	frag_c3	111	16697
-frag_c64	frag_c37	1	163
-frag_c64	frag_c53	1	146
-frag_c64	frag_c58	228	35225
-frag_c65	frag_c11	1	155
-frag_c65	frag_c14	2	320
-frag_c65	frag_c28	1	153
-frag_c65	frag_c39	1	165
-frag_c65	frag_c4	1	155
-frag_c65	frag_c49	1	164
-frag_c65	frag_c7	1	147
-frag_c65	frag_c9	1	160
-frag_c66	frag_c1	1	164
-frag_c66	frag_c11	1	150
-frag_c66	frag_c14	1	155
-frag_c66	frag_c17	1	147
-frag_c66	frag_c19	1	158
-frag_c66	frag_c20	1	161
-frag_c66	frag_c21	2	277
-frag_c66	frag_c24	1	158
-frag_c66	frag_c28	2	316
-frag_c66	frag_c29	2	327
-frag_c66	frag_c3	1	162
-frag_c66	frag_c32	1	153
-frag_c66	frag_c33	1	163
-frag_c66	frag_c45	1	160
-frag_c66	frag_c50	1	140
-frag_c66	frag_c6	1	148
-frag_c66	frag_c63	1	160
-frag_c66	frag_c8	1	163
-frag_c67	frag_c10	1	153
-frag_c67	frag_c14	7	1057
-frag_c67	frag_c25	1	149
-frag_c67	frag_c26	1	155
-frag_c67	frag_c28	1	156
-frag_c67	frag_c34	2	310
-frag_c67	frag_c35	1	161
-frag_c67	frag_c37	1	164
-frag_c67	frag_c41	1	156
-frag_c67	frag_c42	217	33306
-frag_c67	frag_c44	1	162
-frag_c67	frag_c45	1	163
-frag_c67	frag_c51	185	28582
-frag_c67	frag_c63	1	158
-frag_c67	frag_c71	1	165
-frag_c67	frag_c9	1	158
-frag_c67	frag_rep_c74	4	601
-frag_c68	frag_c20	1	164
-frag_c68	frag_c24	1	139
-frag_c68	frag_c28	1	163
-frag_c68	frag_c29	1	157
-frag_c68	frag_c31	1	151
-frag_c68	frag_c36	1	159
-frag_c68	frag_c37	1	161
-frag_c68	frag_c38	187	29045
-frag_c68	frag_c45	1	162
-frag_c68	frag_c47	1	153
-frag_c68	frag_c7	4	602
-frag_c68	frag_c8	1	121
-frag_c69	frag_c11	1	141
-frag_c69	frag_c28	1	163
-frag_c69	frag_c33	1	113
-frag_c69	frag_c59	2	318
-frag_c69	frag_c61	1	153
-frag_c7	frag_c1	1	164
-frag_c7	frag_c12	6	898
-frag_c7	frag_c13	2	312
-frag_c7	frag_c14	1	140
-frag_c7	frag_c15	2	311
-frag_c7	frag_c16	2	322
-frag_c7	frag_c18	1	155
-frag_c7	frag_c2	1	155
-frag_c7	frag_c20	1	155
-frag_c7	frag_c24	222	34150
-frag_c7	frag_c25	1	164
-frag_c7	frag_c27	1	161
-frag_c7	frag_c28	2	303
-frag_c7	frag_c29	5	789
-frag_c7	frag_c33	2	252
-frag_c7	frag_c37	1	135
-frag_c7	frag_c38	2	316
-frag_c7	frag_c39	1	143
-frag_c7	frag_c4	1	162
-frag_c7	frag_c43	1	161
-frag_c7	frag_c44	1	143
-frag_c7	frag_c45	1	150
-frag_c7	frag_c46	1	165
-frag_c7	frag_c49	1	103
-frag_c7	frag_c51	1	156
-frag_c7	frag_c57	1	144
-frag_c7	frag_c58	1	140
-frag_c7	frag_c6	3	440
-frag_c7	frag_c66	1	164
-frag_c7	frag_c67	1	164
-frag_c7	frag_c68	4	619
-frag_c7	frag_c9	1	160
-frag_c70	frag_c13	1	164
-frag_c70	frag_c2	1	163
-frag_c70	frag_c21	1	158
-frag_c70	frag_c71	213	32859
-frag_c71	frag_c18	1	164
-frag_c71	frag_c70	230	35403
-frag_c71	frag_c9	1	141
-frag_c72	frag_c14	70	10844
-frag_c72	frag_c51	1	164
-frag_c72	frag_c71	3	418
-frag_c72	frag_rep_c74	5	783
-frag_c8	frag_c1	13	2066
-frag_c8	frag_c10	3	492
-frag_c8	frag_c14	6	941
-frag_c8	frag_c15	4	622
-frag_c8	frag_c16	5	773
-frag_c8	frag_c18	6	946
-frag_c8	frag_c19	1	147
-frag_c8	frag_c2	5	805
-frag_c8	frag_c20	7	1094
-frag_c8	frag_c21	1	160
-frag_c8	frag_c22	1	137
-frag_c8	frag_c23	3	470
-frag_c8	frag_c24	8	1271
-frag_c8	frag_c25	4	625
-frag_c8	frag_c27	5	768
-frag_c8	frag_c28	8	1204
-frag_c8	frag_c29	11	1778
-frag_c8	frag_c30	2	313
-frag_c8	frag_c31	1	162
-frag_c8	frag_c32	1	154
-frag_c8	frag_c33	6	943
-frag_c8	frag_c34	2	310
-frag_c8	frag_c36	4	626
-frag_c8	frag_c37	6	910
-frag_c8	frag_c39	7	1096
-frag_c8	frag_c4	2	317
-frag_c8	frag_c40	2	311
-frag_c8	frag_c41	5	779
-frag_c8	frag_c42	2	326
-frag_c8	frag_c45	2	315
-frag_c8	frag_c46	2	324
-frag_c8	frag_c47	3	465
-frag_c8	frag_c48	1	158
-frag_c8	frag_c49	3	470
-frag_c8	frag_c50	2	304
-frag_c8	frag_c52	2	298
-frag_c8	frag_c53	4	635
-frag_c8	frag_c55	1	165
-frag_c8	frag_c56	1	155
-frag_c8	frag_c58	3	444
-frag_c8	frag_c59	5	776
-frag_c8	frag_c6	6	833
-frag_c8	frag_c62	1	136
-frag_c8	frag_c63	2	296
-frag_c8	frag_c7	2	326
-frag_c8	frag_c72	1	163
-frag_c8	frag_c9	384	59368
-frag_c9	frag_c1	26	4052
-frag_c9	frag_c10	1	163
-frag_c9	frag_c11	2	310
-frag_c9	frag_c12	10	1538
-frag_c9	frag_c13	4	652
-frag_c9	frag_c14	11	1701
-frag_c9	frag_c15	7	1119
-frag_c9	frag_c16	7	1080
-frag_c9	frag_c17	5	707
-frag_c9	frag_c18	8	1218
-frag_c9	frag_c19	11	1787
-frag_c9	frag_c2	17	2657
-frag_c9	frag_c20	8	1289
-frag_c9	frag_c21	6	858
-frag_c9	frag_c22	1	149
-frag_c9	frag_c23	5	816
-frag_c9	frag_c24	12	1838
-frag_c9	frag_c25	3	477
-frag_c9	frag_c27	3	334
-frag_c9	frag_c28	11	1687
-frag_c9	frag_c29	33	4951
-frag_c9	frag_c3	1	163
-frag_c9	frag_c30	3	454
-frag_c9	frag_c31	4	636
-frag_c9	frag_c32	3	484
-frag_c9	frag_c33	11	1738
-frag_c9	frag_c34	4	529
-frag_c9	frag_c36	2	318
-frag_c9	frag_c37	6	941
-frag_c9	frag_c38	5	800
-frag_c9	frag_c39	11	1723
-frag_c9	frag_c4	3	471
-frag_c9	frag_c40	6	915
-frag_c9	frag_c41	2	328
-frag_c9	frag_c42	5	786
-frag_c9	frag_c43	5	779
-frag_c9	frag_c44	5	779
-frag_c9	frag_c45	5	773
-frag_c9	frag_c46	1	149
-frag_c9	frag_c47	3	461
-frag_c9	frag_c48	42	6514
-frag_c9	frag_c49	5	810
-frag_c9	frag_c5	5	755
-frag_c9	frag_c50	2	322
-frag_c9	frag_c51	2	319
-frag_c9	frag_c52	5	705
-frag_c9	frag_c53	4	634
-frag_c9	frag_c54	2	328
-frag_c9	frag_c55	72	10836
-frag_c9	frag_c56	2	316
-frag_c9	frag_c57	5	772
-frag_c9	frag_c58	1	163
-frag_c9	frag_c59	3	403
-frag_c9	frag_c6	22	3357
-frag_c9	frag_c60	1	149
-frag_c9	frag_c61	1	162
-frag_c9	frag_c63	2	302
-frag_c9	frag_c65	3	482
-frag_c9	frag_c66	3	485
-frag_c9	frag_c67	1	143
-frag_c9	frag_c7	5	712
-frag_c9	frag_c70	2	298
-frag_c9	frag_c71	1	147
-frag_c9	frag_c8	361	55530
-frag_c9	frag_rep_c73	2	305
-frag_c9	frag_rep_c75	4	617
-frag_rep_c74	frag_c39	3	426
-frag_rep_c74	frag_c7	2	283
-frag_rep_c75	frag_c28	1	109
-frag_rep_c75	frag_c9	6	932
-frag_rep_c76	frag_c19	21	2941
-frag_rep_c76	frag_c4	11	1697
-frag_rep_c77	frag_c2	5	795
-frag_rep_c77	frag_c59	11	1686
-frag_rep_c78	frag_c33	1	134
-frag_rep_c79	frag_c15	1	161
+frag_c1	frag_c10	1	163	F
+frag_c1	frag_c10	1	146	R
+frag_c1	frag_c11	5	811	F
+frag_c1	frag_c11	3	478	R
+frag_c1	frag_c12	1	162	F
+frag_c1	frag_c12	2	315	R
+frag_c1	frag_c13	3	441	R
+frag_c1	frag_c14	4	626	F
+frag_c1	frag_c14	5	699	R
+frag_c1	frag_c15	3	464	F
+frag_c1	frag_c15	4	613	R
+frag_c1	frag_c16	1	165	F
+frag_c1	frag_c17	1	149	F
+frag_c1	frag_c18	3	470	F
+frag_c1	frag_c18	4	636	R
+frag_c1	frag_c19	1	161	F
+frag_c1	frag_c19	2	320	R
+frag_c1	frag_c20	2	298	F
+frag_c1	frag_c20	2	321	R
+frag_c1	frag_c21	320	49570	F
+frag_c1	frag_c21	3	483	R
+frag_c1	frag_c22	2	319	F
+frag_c1	frag_c22	4	621	R
+frag_c1	frag_c23	3	471	F
+frag_c1	frag_c23	2	310	R
+frag_c1	frag_c24	4	594	F
+frag_c1	frag_c24	9	1422	R
+frag_c1	frag_c25	2	328	F
+frag_c1	frag_c25	2	314	R
+frag_c1	frag_c26	3	442	R
+frag_c1	frag_c27	4	639	F
+frag_c1	frag_c27	5	799	R
+frag_c1	frag_c28	238	36555	F
+frag_c1	frag_c28	4	601	R
+frag_c1	frag_c29	8	1287	F
+frag_c1	frag_c29	9	1396	R
+frag_c1	frag_c2	4	547	F
+frag_c1	frag_c2	8	1246	R
+frag_c1	frag_c31	3	457	F
+frag_c1	frag_c31	3	444	R
+frag_c1	frag_c32	6	956	F
+frag_c1	frag_c32	1	152	R
+frag_c1	frag_c33	1	161	F
+frag_c1	frag_c33	1	161	R
+frag_c1	frag_c34	4	632	F
+frag_c1	frag_c34	7	963	R
+frag_c1	frag_c35	2	314	F
+frag_c1	frag_c35	2	304	R
+frag_c1	frag_c36	3	436	F
+frag_c1	frag_c36	4	627	R
+frag_c1	frag_c37	1	161	F
+frag_c1	frag_c37	6	948	R
+frag_c1	frag_c38	2	313	F
+frag_c1	frag_c38	1	119	R
+frag_c1	frag_c39	3	465	F
+frag_c1	frag_c39	1	123	R
+frag_c1	frag_c3	2	320	F
+frag_c1	frag_c3	4	554	R
+frag_c1	frag_c40	3	491	F
+frag_c1	frag_c40	2	322	R
+frag_c1	frag_c41	51	7716	F
+frag_c1	frag_c42	5	797	F
+frag_c1	frag_c42	4	637	R
+frag_c1	frag_c43	1	163	F
+frag_c1	frag_c44	4	648	R
+frag_c1	frag_c45	2	307	F
+frag_c1	frag_c45	3	486	R
+frag_c1	frag_c46	1	144	R
+frag_c1	frag_c47	1	137	F
+frag_c1	frag_c47	283	43016	R
+frag_c1	frag_c48	3	449	R
+frag_c1	frag_c49	5	791	F
+frag_c1	frag_c49	2	297	R
+frag_c1	frag_c4	5	785	F
+frag_c1	frag_c4	2	312	R
+frag_c1	frag_c50	1	162	F
+frag_c1	frag_c51	2	304	F
+frag_c1	frag_c52	2	311	F
+frag_c1	frag_c52	1	97	R
+frag_c1	frag_c53	1	129	F
+frag_c1	frag_c53	2	327	R
+frag_c1	frag_c55	3	419	F
+frag_c1	frag_c55	1	163	R
+frag_c1	frag_c56	1	138	F
+frag_c1	frag_c57	1	163	F
+frag_c1	frag_c57	1	151	R
+frag_c1	frag_c58	1	160	F
+frag_c1	frag_c58	64	9806	R
+frag_c1	frag_c59	2	285	F
+frag_c1	frag_c59	2	310	R
+frag_c1	frag_c5	4	594	F
+frag_c1	frag_c5	3	489	R
+frag_c1	frag_c63	2	306	R
+frag_c1	frag_c6	12	1886	F
+frag_c1	frag_c6	10	1571	R
+frag_c1	frag_c72	1	151	F
+frag_c1	frag_c7	2	311	F
+frag_c1	frag_c8	8	1165	R
+frag_c1	frag_c9	12	1875	F
+frag_c1	frag_c9	11	1630	R
+frag_c10	frag_c11	1	164	F
+frag_c10	frag_c11	3	480	R
+frag_c10	frag_c12	1	161	F
+frag_c10	frag_c12	1	159	R
+frag_c10	frag_c14	2	301	R
+frag_c10	frag_c15	1	164	R
+frag_c10	frag_c16	1	153	F
+frag_c10	frag_c16	2	319	R
+frag_c10	frag_c17	1	155	F
+frag_c10	frag_c18	3	483	F
+frag_c10	frag_c18	2	305	R
+frag_c10	frag_c19	3	481	F
+frag_c10	frag_c1	3	445	F
+frag_c10	frag_c1	3	465	R
+frag_c10	frag_c20	4	641	F
+frag_c10	frag_c23	2	300	F
+frag_c10	frag_c23	1	164	R
+frag_c10	frag_c24	1	157	F
+frag_c10	frag_c24	1	163	R
+frag_c10	frag_c25	2	317	F
+frag_c10	frag_c25	1	158	R
+frag_c10	frag_c27	2	318	F
+frag_c10	frag_c27	2	285	R
+frag_c10	frag_c28	2	323	R
+frag_c10	frag_c29	4	608	F
+frag_c10	frag_c29	6	939	R
+frag_c10	frag_c2	2	315	F
+frag_c10	frag_c31	1	152	F
+frag_c10	frag_c32	2	299	R
+frag_c10	frag_c33	2	328	F
+frag_c10	frag_c34	1	163	F
+frag_c10	frag_c34	1	162	R
+frag_c10	frag_c37	1	163	R
+frag_c10	frag_c38	1	164	F
+frag_c10	frag_c38	1	163	R
+frag_c10	frag_c39	2	298	R
+frag_c10	frag_c3	1	146	F
+frag_c10	frag_c41	1	155	R
+frag_c10	frag_c42	1	165	R
+frag_c10	frag_c44	4	644	F
+frag_c10	frag_c44	2	326	R
+frag_c10	frag_c45	1	157	R
+frag_c10	frag_c46	1	155	R
+frag_c10	frag_c47	1	163	F
+frag_c10	frag_c48	1	147	R
+frag_c10	frag_c50	1	146	R
+frag_c10	frag_c53	3	439	F
+frag_c10	frag_c53	317	48408	R
+frag_c10	frag_c55	1	161	F
+frag_c10	frag_c55	1	160	R
+frag_c10	frag_c56	1	163	F
+frag_c10	frag_c58	1	146	F
+frag_c10	frag_c59	1	154	R
+frag_c10	frag_c60	1	164	F
+frag_c10	frag_c61	1	163	F
+frag_c10	frag_c6	2	319	F
+frag_c10	frag_c6	4	635	R
+frag_c10	frag_c7	1	144	F
+frag_c10	frag_c7	2	312	R
+frag_c10	frag_c8	3	454	F
+frag_c10	frag_c8	1	133	R
+frag_c10	frag_c9	2	318	F
+frag_c10	frag_c9	2	314	R
+frag_c11	frag_c10	2	300	F
+frag_c11	frag_c12	1	147	R
+frag_c11	frag_c14	2	318	F
+frag_c11	frag_c14	2	318	R
+frag_c11	frag_c15	3	436	F
+frag_c11	frag_c15	2	307	R
+frag_c11	frag_c17	2	300	R
+frag_c11	frag_c18	2	310	R
+frag_c11	frag_c19	7	1071	F
+frag_c11	frag_c1	5	789	F
+frag_c11	frag_c1	1	157	R
+frag_c11	frag_c20	3	438	F
+frag_c11	frag_c20	281	43312	R
+frag_c11	frag_c21	1	164	R
+frag_c11	frag_c22	1	155	R
+frag_c11	frag_c23	2	318	F
+frag_c11	frag_c24	2	325	F
+frag_c11	frag_c24	3	473	R
+frag_c11	frag_c25	1	163	F
+frag_c11	frag_c25	2	252	R
+frag_c11	frag_c26	1	164	F
+frag_c11	frag_c26	1	156	R
+frag_c11	frag_c27	1	164	R
+frag_c11	frag_c28	2	315	F
+frag_c11	frag_c28	3	477	R
+frag_c11	frag_c29	2	310	F
+frag_c11	frag_c29	2	300	R
+frag_c11	frag_c2	2	312	F
+frag_c11	frag_c2	5	782	R
+frag_c11	frag_c31	1	154	F
+frag_c11	frag_c31	2	322	R
+frag_c11	frag_c32	1	158	F
+frag_c11	frag_c33	1	151	F
+frag_c11	frag_c33	4	630	R
+frag_c11	frag_c34	1	154	F
+frag_c11	frag_c34	4	617	R
+frag_c11	frag_c35	1	164	F
+frag_c11	frag_c36	1	145	R
+frag_c11	frag_c37	5	807	F
+frag_c11	frag_c37	2	296	R
+frag_c11	frag_c39	289	44178	F
+frag_c11	frag_c39	1	164	R
+frag_c11	frag_c42	1	155	F
+frag_c11	frag_c42	1	144	R
+frag_c11	frag_c44	1	154	F
+frag_c11	frag_c44	2	320	R
+frag_c11	frag_c45	2	311	R
+frag_c11	frag_c46	1	146	R
+frag_c11	frag_c47	2	319	R
+frag_c11	frag_c4	2	317	F
+frag_c11	frag_c50	2	313	R
+frag_c11	frag_c51	1	62	R
+frag_c11	frag_c52	1	143	F
+frag_c11	frag_c56	1	145	F
+frag_c11	frag_c57	1	138	F
+frag_c11	frag_c58	1	163	R
+frag_c11	frag_c59	1	156	F
+frag_c11	frag_c59	1	160	R
+frag_c11	frag_c5	3	472	F
+frag_c11	frag_c61	1	139	F
+frag_c11	frag_c66	1	158	F
+frag_c11	frag_c67	1	163	F
+frag_c11	frag_c6	137	20635	F
+frag_c11	frag_c6	3	454	R
+frag_c11	frag_c8	1	156	F
+frag_c11	frag_c9	4	639	F
+frag_c11	frag_c9	4	561	R
+frag_c12	frag_c10	1	162	R
+frag_c12	frag_c11	1	163	R
+frag_c12	frag_c13	1	162	F
+frag_c12	frag_c14	1	156	F
+frag_c12	frag_c14	1	163	R
+frag_c12	frag_c16	1	138	F
+frag_c12	frag_c16	1	156	R
+frag_c12	frag_c17	1	130	R
+frag_c12	frag_c18	3	459	F
+frag_c12	frag_c18	1	150	R
+frag_c12	frag_c19	1	163	R
+frag_c12	frag_c1	2	318	F
+frag_c12	frag_c1	1	162	R
+frag_c12	frag_c20	1	156	F
+frag_c12	frag_c20	1	154	R
+frag_c12	frag_c22	1	161	F
+frag_c12	frag_c22	1	164	R
+frag_c12	frag_c24	2	311	F
+frag_c12	frag_c24	1	157	R
+frag_c12	frag_c26	1	164	F
+frag_c12	frag_c27	1	155	F
+frag_c12	frag_c27	1	137	R
+frag_c12	frag_c28	2	318	F
+frag_c12	frag_c28	2	308	R
+frag_c12	frag_c29	3	464	F
+frag_c12	frag_c29	2	312	R
+frag_c12	frag_c2	2	316	F
+frag_c12	frag_c2	2	317	R
+frag_c12	frag_c30	1	165	R
+frag_c12	frag_c31	2	314	F
+frag_c12	frag_c32	3	462	R
+frag_c12	frag_c33	2	286	R
+frag_c12	frag_c34	1	137	F
+frag_c12	frag_c36	2	321	F
+frag_c12	frag_c37	1	162	F
+frag_c12	frag_c39	1	155	F
+frag_c12	frag_c39	2	306	R
+frag_c12	frag_c3	10	1596	R
+frag_c12	frag_c40	1	153	R
+frag_c12	frag_c42	2	301	F
+frag_c12	frag_c42	1	105	R
+frag_c12	frag_c43	2	302	R
+frag_c12	frag_c45	1	165	F
+frag_c12	frag_c45	2	325	R
+frag_c12	frag_c46	1	163	R
+frag_c12	frag_c48	1	154	F
+frag_c12	frag_c4	2	310	F
+frag_c12	frag_c4	2	308	R
+frag_c12	frag_c50	2	328	F
+frag_c12	frag_c50	1	161	R
+frag_c12	frag_c52	1	151	R
+frag_c12	frag_c53	1	154	R
+frag_c12	frag_c56	1	165	F
+frag_c12	frag_c60	1	162	F
+frag_c12	frag_c63	1	130	R
+frag_c12	frag_c67	1	117	F
+frag_c12	frag_c68	1	146	R
+frag_c12	frag_c6	2	325	F
+frag_c12	frag_c6	1	161	R
+frag_c12	frag_c7	4	540	F
+frag_c12	frag_c7	1	163	R
+frag_c12	frag_c8	1	157	F
+frag_c12	frag_c9	3	471	F
+frag_c12	frag_c9	1	162	R
+frag_c13	frag_c11	1	164	R
+frag_c13	frag_c14	1	152	F
+frag_c13	frag_c14	3	455	R
+frag_c13	frag_c15	1	156	R
+frag_c13	frag_c18	2	224	R
+frag_c13	frag_c20	1	156	R
+frag_c13	frag_c22	1	163	R
+frag_c13	frag_c23	1	163	F
+frag_c13	frag_c23	1	145	R
+frag_c13	frag_c24	2	311	F
+frag_c13	frag_c24	3	475	R
+frag_c13	frag_c25	1	164	F
+frag_c13	frag_c26	2	315	F
+frag_c13	frag_c27	1	159	F
+frag_c13	frag_c27	1	162	R
+frag_c13	frag_c28	1	163	R
+frag_c13	frag_c29	1	161	R
+frag_c13	frag_c2	2	312	F
+frag_c13	frag_c2	1	159	R
+frag_c13	frag_c31	2	305	F
+frag_c13	frag_c36	1	163	F
+frag_c13	frag_c36	1	151	R
+frag_c13	frag_c37	1	165	R
+frag_c13	frag_c38	1	152	F
+frag_c13	frag_c38	347	53552	R
+frag_c13	frag_c39	1	162	R
+frag_c13	frag_c3	1	162	F
+frag_c13	frag_c40	1	160	R
+frag_c13	frag_c41	1	147	R
+frag_c13	frag_c42	2	300	F
+frag_c13	frag_c42	1	133	R
+frag_c13	frag_c44	1	146	R
+frag_c13	frag_c46	1	154	R
+frag_c13	frag_c47	1	151	F
+frag_c13	frag_c4	1	140	R
+frag_c13	frag_c53	2	298	R
+frag_c13	frag_c55	1	164	R
+frag_c13	frag_c56	1	162	F
+frag_c13	frag_c56	2	311	R
+frag_c13	frag_c58	1	141	F
+frag_c13	frag_c58	1	132	R
+frag_c13	frag_c63	1	151	R
+frag_c13	frag_c8	1	133	F
+frag_c13	frag_c8	1	154	R
+frag_c13	frag_c9	2	319	F
+frag_c13	frag_c9	2	325	R
+frag_c14	frag_c10	2	323	F
+frag_c14	frag_c10	2	290	R
+frag_c14	frag_c11	1	154	F
+frag_c14	frag_c11	4	635	R
+frag_c14	frag_c12	1	162	R
+frag_c14	frag_c13	1	164	F
+frag_c14	frag_c13	1	149	R
+frag_c14	frag_c15	4	527	F
+frag_c14	frag_c15	2	320	R
+frag_c14	frag_c16	13	1858	F
+frag_c14	frag_c17	3	474	F
+frag_c14	frag_c17	3	484	R
+frag_c14	frag_c18	2	327	F
+frag_c14	frag_c18	3	488	R
+frag_c14	frag_c19	1	156	F
+frag_c14	frag_c19	1	157	R
+frag_c14	frag_c1	5	791	F
+frag_c14	frag_c1	8	1261	R
+frag_c14	frag_c20	3	478	F
+frag_c14	frag_c20	3	485	R
+frag_c14	frag_c21	1	164	F
+frag_c14	frag_c21	4	610	R
+frag_c14	frag_c22	1	154	R
+frag_c14	frag_c23	2	330	F
+frag_c14	frag_c23	3	488	R
+frag_c14	frag_c24	5	740	F
+frag_c14	frag_c24	1	167	R
+frag_c14	frag_c25	2	308	F
+frag_c14	frag_c25	1	143	R
+frag_c14	frag_c26	1	153	F
+frag_c14	frag_c26	1	163	R
+frag_c14	frag_c27	2	316	F
+frag_c14	frag_c27	1	162	R
+frag_c14	frag_c28	5	749	F
+frag_c14	frag_c28	3	386	R
+frag_c14	frag_c29	3	475	F
+frag_c14	frag_c29	4	626	R
+frag_c14	frag_c2	5	757	F
+frag_c14	frag_c2	6	909	R
+frag_c14	frag_c30	1	155	F
+frag_c14	frag_c31	1	155	F
+frag_c14	frag_c31	1	156	R
+frag_c14	frag_c32	1	163	F
+frag_c14	frag_c32	2	308	R
+frag_c14	frag_c33	1	156	F
+frag_c14	frag_c33	3	489	R
+frag_c14	frag_c34	2	325	F
+frag_c14	frag_c34	2	323	R
+frag_c14	frag_c36	2	283	F
+frag_c14	frag_c36	2	309	R
+frag_c14	frag_c37	2	302	F
+frag_c14	frag_c37	3	490	R
+frag_c14	frag_c38	4	623	F
+frag_c14	frag_c38	1	147	R
+frag_c14	frag_c39	2	308	F
+frag_c14	frag_c39	3	481	R
+frag_c14	frag_c3	1	159	R
+frag_c14	frag_c40	1	144	F
+frag_c14	frag_c40	1	164	R
+frag_c14	frag_c41	1	162	R
+frag_c14	frag_c42	1	154	F
+frag_c14	frag_c43	1	164	F
+frag_c14	frag_c43	2	318	R
+frag_c14	frag_c44	3	480	F
+frag_c14	frag_c44	3	487	R
+frag_c14	frag_c45	1	154	F
+frag_c14	frag_c45	4	620	R
+frag_c14	frag_c46	1	155	R
+frag_c14	frag_c49	3	477	F
+frag_c14	frag_c49	2	329	R
+frag_c14	frag_c4	2	319	F
+frag_c14	frag_c50	4	623	F
+frag_c14	frag_c51	1	165	F
+frag_c14	frag_c51	1	145	R
+frag_c14	frag_c52	2	319	F
+frag_c14	frag_c52	2	309	R
+frag_c14	frag_c53	4	570	F
+frag_c14	frag_c54	1	155	F
+frag_c14	frag_c54	2	318	R
+frag_c14	frag_c56	1	65	F
+frag_c14	frag_c56	9	1320	R
+frag_c14	frag_c57	1	156	F
+frag_c14	frag_c57	1	154	R
+frag_c14	frag_c58	2	323	F
+frag_c14	frag_c59	1	150	F
+frag_c14	frag_c59	1	164	R
+frag_c14	frag_c5	3	401	F
+frag_c14	frag_c5	2	310	R
+frag_c14	frag_c61	1	164	R
+frag_c14	frag_c63	1	163	F
+frag_c14	frag_c64	1	156	F
+frag_c14	frag_c67	6	925	R
+frag_c14	frag_c6	8	1229	F
+frag_c14	frag_c6	5	746	R
+frag_c14	frag_c72	106	16584	F
+frag_c14	frag_c7	4	621	F
+frag_c14	frag_c8	1	146	F
+frag_c14	frag_c8	6	925	R
+frag_c14	frag_c9	4	623	F
+frag_c14	frag_c9	6	931	R
+frag_c15	frag_c10	1	153	F
+frag_c15	frag_c11	1	162	F
+frag_c15	frag_c11	2	325	R
+frag_c15	frag_c12	1	138	F
+frag_c15	frag_c12	1	163	R
+frag_c15	frag_c13	1	149	F
+frag_c15	frag_c14	1	158	F
+frag_c15	frag_c14	3	454	R
+frag_c15	frag_c16	1	162	F
+frag_c15	frag_c16	1	64	R
+frag_c15	frag_c17	2	326	F
+frag_c15	frag_c17	1	160	R
+frag_c15	frag_c18	2	309	F
+frag_c15	frag_c18	1	162	R
+frag_c15	frag_c19	2	299	R
+frag_c15	frag_c1	2	318	F
+frag_c15	frag_c1	4	637	R
+frag_c15	frag_c20	2	327	F
+frag_c15	frag_c20	1	145	R
+frag_c15	frag_c21	2	312	F
+frag_c15	frag_c21	1	159	R
+frag_c15	frag_c22	1	133	F
+frag_c15	frag_c22	1	165	R
+frag_c15	frag_c23	1	163	F
+frag_c15	frag_c24	4	531	F
+frag_c15	frag_c24	2	295	R
+frag_c15	frag_c25	1	155	R
+frag_c15	frag_c27	1	164	R
+frag_c15	frag_c28	2	302	F
+frag_c15	frag_c29	3	459	F
+frag_c15	frag_c29	3	462	R
+frag_c15	frag_c2	1	164	F
+frag_c15	frag_c2	5	792	R
+frag_c15	frag_c30	1	164	R
+frag_c15	frag_c31	1	156	R
+frag_c15	frag_c32	1	161	F
+frag_c15	frag_c33	4	618	F
+frag_c15	frag_c33	2	304	R
+frag_c15	frag_c34	1	132	F
+frag_c15	frag_c34	1	147	R
+frag_c15	frag_c35	1	145	F
+frag_c15	frag_c36	2	290	R
+frag_c15	frag_c37	3	481	F
+frag_c15	frag_c37	2	321	R
+frag_c15	frag_c39	4	621	F
+frag_c15	frag_c3	1	162	F
+frag_c15	frag_c3	2	326	R
+frag_c15	frag_c40	1	164	R
+frag_c15	frag_c42	4	609	F
+frag_c15	frag_c43	2	312	R
+frag_c15	frag_c44	1	149	F
+frag_c15	frag_c44	1	157	R
+frag_c15	frag_c45	2	312	F
+frag_c15	frag_c45	1	164	R
+frag_c15	frag_c46	1	164	F
+frag_c15	frag_c46	1	163	R
+frag_c15	frag_c47	1	138	F
+frag_c15	frag_c47	2	305	R
+frag_c15	frag_c48	1	105	R
+frag_c15	frag_c49	1	150	F
+frag_c15	frag_c49	1	162	R
+frag_c15	frag_c4	1	164	F
+frag_c15	frag_c4	1	153	R
+frag_c15	frag_c50	1	152	F
+frag_c15	frag_c50	1	157	R
+frag_c15	frag_c51	1	128	F
+frag_c15	frag_c51	1	152	R
+frag_c15	frag_c52	4	652	F
+frag_c15	frag_c52	1	149	R
+frag_c15	frag_c53	1	162	R
+frag_c15	frag_c55	2	326	F
+frag_c15	frag_c56	1	162	F
+frag_c15	frag_c56	1	156	R
+frag_c15	frag_c57	1	163	F
+frag_c15	frag_c59	1	145	F
+frag_c15	frag_c59	2	325	R
+frag_c15	frag_c5	1	165	F
+frag_c15	frag_c63	1	152	R
+frag_c15	frag_c67	1	154	R
+frag_c15	frag_c68	2	320	R
+frag_c15	frag_c6	2	306	R
+frag_c15	frag_c70	1	157	R
+frag_c15	frag_c8	1	161	R
+frag_c15	frag_c9	2	320	F
+frag_c15	frag_c9	5	803	R
+frag_c15	frag_rep_c76	1	161	R
+frag_c15	frag_rep_c79	3	461	R
+frag_c16	frag_c12	1	163	R
+frag_c16	frag_c13	1	159	F
+frag_c16	frag_c14	14	1955	F
+frag_c16	frag_c15	1	153	F
+frag_c16	frag_c15	1	157	R
+frag_c16	frag_c18	1	161	R
+frag_c16	frag_c19	2	284	F
+frag_c16	frag_c1	1	148	F
+frag_c16	frag_c1	3	458	R
+frag_c16	frag_c20	2	314	F
+frag_c16	frag_c20	3	485	R
+frag_c16	frag_c24	1	156	F
+frag_c16	frag_c24	2	319	R
+frag_c16	frag_c25	1	165	F
+frag_c16	frag_c27	1	155	R
+frag_c16	frag_c28	2	318	F
+frag_c16	frag_c28	1	145	R
+frag_c16	frag_c29	1	164	R
+frag_c16	frag_c2	3	462	F
+frag_c16	frag_c2	1	137	R
+frag_c16	frag_c30	1	148	R
+frag_c16	frag_c31	1	154	F
+frag_c16	frag_c32	1	151	R
+frag_c16	frag_c33	1	164	R
+frag_c16	frag_c34	2	328	F
+frag_c16	frag_c34	1	120	R
+frag_c16	frag_c36	1	144	R
+frag_c16	frag_c37	1	158	F
+frag_c16	frag_c37	1	157	R
+frag_c16	frag_c39	1	151	R
+frag_c16	frag_c43	1	149	R
+frag_c16	frag_c44	1	162	F
+frag_c16	frag_c44	2	317	R
+frag_c16	frag_c45	1	135	F
+frag_c16	frag_c49	3	481	F
+frag_c16	frag_c4	1	163	F
+frag_c16	frag_c50	1	147	R
+frag_c16	frag_c52	1	153	F
+frag_c16	frag_c52	2	294	R
+frag_c16	frag_c53	1	154	F
+frag_c16	frag_c53	1	165	R
+frag_c16	frag_c56	1	163	R
+frag_c16	frag_c57	1	155	F
+frag_c16	frag_c63	1	150	F
+frag_c16	frag_c63	1	154	R
+frag_c16	frag_c6	5	782	F
+frag_c16	frag_c6	3	480	R
+frag_c16	frag_c72	1	162	F
+frag_c16	frag_c8	1	147	F
+frag_c16	frag_c9	3	422	F
+frag_c16	frag_c9	2	303	R
+frag_c17	frag_c10	2	319	F
+frag_c17	frag_c12	1	144	R
+frag_c17	frag_c14	2	292	F
+frag_c17	frag_c14	3	450	R
+frag_c17	frag_c15	1	163	F
+frag_c17	frag_c15	1	154	R
+frag_c17	frag_c18	2	298	R
+frag_c17	frag_c19	1	152	F
+frag_c17	frag_c1	1	155	F
+frag_c17	frag_c1	2	301	R
+frag_c17	frag_c20	1	164	F
+frag_c17	frag_c20	2	318	R
+frag_c17	frag_c22	2	326	R
+frag_c17	frag_c23	1	163	F
+frag_c17	frag_c23	1	163	R
+frag_c17	frag_c24	2	317	F
+frag_c17	frag_c24	2	318	R
+frag_c17	frag_c27	1	164	F
+frag_c17	frag_c28	3	464	F
+frag_c17	frag_c28	1	163	R
+frag_c17	frag_c29	1	149	F
+frag_c17	frag_c29	2	318	R
+frag_c17	frag_c2	2	271	R
+frag_c17	frag_c32	1	129	R
+frag_c17	frag_c33	2	325	R
+frag_c17	frag_c34	1	143	F
+frag_c17	frag_c37	1	163	F
+frag_c17	frag_c37	1	156	R
+frag_c17	frag_c38	1	163	F
+frag_c17	frag_c39	2	276	R
+frag_c17	frag_c40	1	157	R
+frag_c17	frag_c41	318	49891	R
+frag_c17	frag_c44	1	162	F
+frag_c17	frag_c46	1	158	R
+frag_c17	frag_c48	2	296	F
+frag_c17	frag_c49	1	162	R
+frag_c17	frag_c4	1	164	F
+frag_c17	frag_c4	1	157	R
+frag_c17	frag_c50	1	166	F
+frag_c17	frag_c52	5	803	F
+frag_c17	frag_c53	1	157	F
+frag_c17	frag_c53	1	134	R
+frag_c17	frag_c56	1	165	R
+frag_c17	frag_c58	2	308	F
+frag_c17	frag_c6	2	302	F
+frag_c17	frag_c7	1	163	F
+frag_c17	frag_c8	1	123	F
+frag_c17	frag_c9	1	163	F
+frag_c17	frag_c9	3	461	R
+frag_c18	frag_c10	1	163	F
+frag_c18	frag_c11	2	303	R
+frag_c18	frag_c12	2	279	R
+frag_c18	frag_c13	1	156	F
+frag_c18	frag_c14	5	808	F
+frag_c18	frag_c14	1	155	R
+frag_c18	frag_c15	1	144	F
+frag_c18	frag_c15	1	136	R
+frag_c18	frag_c16	5	743	R
+frag_c18	frag_c17	2	326	F
+frag_c18	frag_c17	1	163	R
+frag_c18	frag_c19	2	317	F
+frag_c18	frag_c19	1	151	R
+frag_c18	frag_c1	4	643	F
+frag_c18	frag_c1	7	1079	R
+frag_c18	frag_c20	6	966	F
+frag_c18	frag_c20	2	326	R
+frag_c18	frag_c22	2	307	R
+frag_c18	frag_c23	4	653	F
+frag_c18	frag_c23	1	165	R
+frag_c18	frag_c24	3	470	F
+frag_c18	frag_c24	7	1065	R
+frag_c18	frag_c25	1	158	F
+frag_c18	frag_c27	4	631	F
+frag_c18	frag_c27	1	155	R
+frag_c18	frag_c28	3	476	F
+frag_c18	frag_c28	3	426	R
+frag_c18	frag_c29	7	1088	F
+frag_c18	frag_c29	4	626	R
+frag_c18	frag_c2	2	324	F
+frag_c18	frag_c2	4	640	R
+frag_c18	frag_c30	1	159	F
+frag_c18	frag_c31	2	319	F
+frag_c18	frag_c32	1	139	F
+frag_c18	frag_c32	1	164	R
+frag_c18	frag_c33	3	484	R
+frag_c18	frag_c34	1	162	F
+frag_c18	frag_c34	1	162	R
+frag_c18	frag_c36	1	136	R
+frag_c18	frag_c37	2	286	F
+frag_c18	frag_c37	1	159	R
+frag_c18	frag_c38	3	480	F
+frag_c18	frag_c38	6	941	R
+frag_c18	frag_c39	3	464	F
+frag_c18	frag_c39	3	455	R
+frag_c18	frag_c3	4	619	F
+frag_c18	frag_c3	4	557	R
+frag_c18	frag_c41	1	118	F
+frag_c18	frag_c41	1	164	R
+frag_c18	frag_c42	1	153	R
+frag_c18	frag_c43	1	165	R
+frag_c18	frag_c44	4	609	F
+frag_c18	frag_c44	3	473	R
+frag_c18	frag_c45	1	157	F
+frag_c18	frag_c46	1	162	F
+frag_c18	frag_c47	1	138	R
+frag_c18	frag_c49	1	161	F
+frag_c18	frag_c4	2	326	R
+frag_c18	frag_c50	1	163	F
+frag_c18	frag_c50	1	161	R
+frag_c18	frag_c51	1	141	F
+frag_c18	frag_c52	3	491	R
+frag_c18	frag_c53	1	34	F
+frag_c18	frag_c53	1	164	R
+frag_c18	frag_c55	1	161	R
+frag_c18	frag_c56	1	164	F
+frag_c18	frag_c57	1	148	F
+frag_c18	frag_c58	1	164	R
+frag_c18	frag_c59	1	155	F
+frag_c18	frag_c59	1	162	R
+frag_c18	frag_c63	2	319	F
+frag_c18	frag_c65	1	157	R
+frag_c18	frag_c66	1	164	F
+frag_c18	frag_c6	4	584	F
+frag_c18	frag_c6	4	629	R
+frag_c18	frag_c72	1	158	F
+frag_c18	frag_c7	1	144	F
+frag_c18	frag_c8	1	135	F
+frag_c18	frag_c8	3	473	R
+frag_c18	frag_c9	1	154	F
+frag_c18	frag_c9	2	318	R
+frag_c19	frag_c11	1	152	R
+frag_c19	frag_c12	2	219	F
+frag_c19	frag_c14	2	318	F
+frag_c19	frag_c14	1	165	R
+frag_c19	frag_c15	1	156	F
+frag_c19	frag_c15	1	149	R
+frag_c19	frag_c16	1	164	F
+frag_c19	frag_c16	1	156	R
+frag_c19	frag_c17	2	314	F
+frag_c19	frag_c18	1	155	R
+frag_c19	frag_c1	4	640	F
+frag_c19	frag_c1	3	482	R
+frag_c19	frag_c20	4	627	F
+frag_c19	frag_c20	2	314	R
+frag_c19	frag_c21	1	143	F
+frag_c19	frag_c22	2	319	F
+frag_c19	frag_c22	1	163	R
+frag_c19	frag_c23	2	321	F
+frag_c19	frag_c23	2	308	R
+frag_c19	frag_c24	3	413	F
+frag_c19	frag_c24	1	139	R
+frag_c19	frag_c25	1	162	F
+frag_c19	frag_c26	1	164	R
+frag_c19	frag_c27	1	142	F
+frag_c19	frag_c28	4	635	F
+frag_c19	frag_c28	1	164	R
+frag_c19	frag_c29	3	481	F
+frag_c19	frag_c29	3	457	R
+frag_c19	frag_c2	3	453	F
+frag_c19	frag_c2	5	768	R
+frag_c19	frag_c30	1	155	F
+frag_c19	frag_c31	5	810	R
+frag_c19	frag_c33	2	324	F
+frag_c19	frag_c33	3	483	R
+frag_c19	frag_c34	3	483	R
+frag_c19	frag_c36	1	104	F
+frag_c19	frag_c37	2	317	F
+frag_c19	frag_c38	1	144	F
+frag_c19	frag_c39	3	488	R
+frag_c19	frag_c3	1	152	F
+frag_c19	frag_c3	1	155	R
+frag_c19	frag_c40	2	277	F
+frag_c19	frag_c40	1	164	R
+frag_c19	frag_c42	2	299	F
+frag_c19	frag_c45	1	163	F
+frag_c19	frag_c46	2	274	R
+frag_c19	frag_c47	1	146	F
+frag_c19	frag_c47	1	154	R
+frag_c19	frag_c4	1	155	F
+frag_c19	frag_c50	1	144	F
+frag_c19	frag_c52	1	164	R
+frag_c19	frag_c53	2	314	F
+frag_c19	frag_c54	1	157	R
+frag_c19	frag_c55	1	163	F
+frag_c19	frag_c56	1	165	F
+frag_c19	frag_c59	1	154	F
+frag_c19	frag_c63	1	164	R
+frag_c19	frag_c6	2	306	F
+frag_c19	frag_c6	3	473	R
+frag_c19	frag_c8	4	623	F
+frag_c19	frag_c9	2	322	F
+frag_c19	frag_c9	2	299	R
+frag_c19	frag_rep_c76	13	2030	R
+frag_c19	frag_rep_c77	1	135	R
+frag_c2	frag_c10	3	476	F
+frag_c2	frag_c10	1	158	R
+frag_c2	frag_c11	1	165	F
+frag_c2	frag_c11	2	319	R
+frag_c2	frag_c12	2	328	F
+frag_c2	frag_c12	2	192	R
+frag_c2	frag_c14	3	469	F
+frag_c2	frag_c14	3	472	R
+frag_c2	frag_c15	2	318	F
+frag_c2	frag_c15	5	792	R
+frag_c2	frag_c16	1	127	F
+frag_c2	frag_c16	2	315	R
+frag_c2	frag_c17	1	152	F
+frag_c2	frag_c17	2	306	R
+frag_c2	frag_c18	1	146	F
+frag_c2	frag_c18	5	770	R
+frag_c2	frag_c19	1	154	F
+frag_c2	frag_c19	3	478	R
+frag_c2	frag_c1	4	647	F
+frag_c2	frag_c1	5	762	R
+frag_c2	frag_c20	5	802	F
+frag_c2	frag_c20	3	453	R
+frag_c2	frag_c21	1	155	F
+frag_c2	frag_c21	1	163	R
+frag_c2	frag_c22	4	619	F
+frag_c2	frag_c22	1	162	R
+frag_c2	frag_c23	4	655	F
+frag_c2	frag_c23	2	327	R
+frag_c2	frag_c24	6	957	F
+frag_c2	frag_c24	9	1428	R
+frag_c2	frag_c25	2	284	F
+frag_c2	frag_c26	2	318	R
+frag_c2	frag_c27	3	471	F
+frag_c2	frag_c27	1	162	R
+frag_c2	frag_c28	7	1099	F
+frag_c2	frag_c28	4	594	R
+frag_c2	frag_c29	6	965	F
+frag_c2	frag_c29	4	639	R
+frag_c2	frag_c31	1	160	F
+frag_c2	frag_c31	3	440	R
+frag_c2	frag_c32	419	65147	F
+frag_c2	frag_c33	6	851	F
+frag_c2	frag_c33	4	571	R
+frag_c2	frag_c34	5	799	F
+frag_c2	frag_c34	5	786	R
+frag_c2	frag_c35	1	153	R
+frag_c2	frag_c36	3	479	F
+frag_c2	frag_c37	3	468	F
+frag_c2	frag_c37	4	645	R
+frag_c2	frag_c38	2	315	R
+frag_c2	frag_c3	2	288	F
+frag_c2	frag_c3	1	158	R
+frag_c2	frag_c40	1	153	F
+frag_c2	frag_c40	1	153	R
+frag_c2	frag_c41	1	151	R
+frag_c2	frag_c42	3	455	F
+frag_c2	frag_c42	2	325	R
+frag_c2	frag_c44	2	318	F
+frag_c2	frag_c44	1	164	R
+frag_c2	frag_c45	1	163	F
+frag_c2	frag_c45	381	58724	R
+frag_c2	frag_c46	1	142	F
+frag_c2	frag_c46	2	318	R
+frag_c2	frag_c47	2	326	F
+frag_c2	frag_c47	2	310	R
+frag_c2	frag_c49	4	593	R
+frag_c2	frag_c4	2	265	F
+frag_c2	frag_c4	4	609	R
+frag_c2	frag_c50	3	490	F
+frag_c2	frag_c50	1	158	R
+frag_c2	frag_c51	3	462	F
+frag_c2	frag_c51	2	325	R
+frag_c2	frag_c52	1	165	F
+frag_c2	frag_c52	3	481	R
+frag_c2	frag_c53	1	163	F
+frag_c2	frag_c53	1	149	R
+frag_c2	frag_c54	1	156	R
+frag_c2	frag_c55	2	322	F
+frag_c2	frag_c56	1	146	F
+frag_c2	frag_c56	1	163	R
+frag_c2	frag_c59	1	161	F
+frag_c2	frag_c59	1	163	R
+frag_c2	frag_c5	1	103	R
+frag_c2	frag_c63	2	283	F
+frag_c2	frag_c67	1	163	F
+frag_c2	frag_c68	1	154	F
+frag_c2	frag_c6	2	319	F
+frag_c2	frag_c6	10	1520	R
+frag_c2	frag_c8	4	584	F
+frag_c2	frag_c8	5	735	R
+frag_c2	frag_c9	7	1089	F
+frag_c2	frag_c9	5	786	R
+frag_c2	frag_rep_c76	1	123	F
+frag_c2	frag_rep_c77	12	1771	R
+frag_c2	frag_rep_c78	1	133	F
+frag_c20	frag_c10	1	163	F
+frag_c20	frag_c10	3	464	R
+frag_c20	frag_c11	2	309	F
+frag_c20	frag_c11	292	45232	R
+frag_c20	frag_c12	1	150	R
+frag_c20	frag_c14	3	466	F
+frag_c20	frag_c14	2	310	R
+frag_c20	frag_c15	2	315	F
+frag_c20	frag_c15	3	454	R
+frag_c20	frag_c17	2	303	F
+frag_c20	frag_c17	1	160	R
+frag_c20	frag_c18	3	479	R
+frag_c20	frag_c19	4	638	F
+frag_c20	frag_c19	5	648	R
+frag_c20	frag_c1	5	744	F
+frag_c20	frag_c1	7	1118	R
+frag_c20	frag_c21	2	329	F
+frag_c20	frag_c21	2	313	R
+frag_c20	frag_c22	1	152	F
+frag_c20	frag_c22	2	325	R
+frag_c20	frag_c23	1	163	F
+frag_c20	frag_c23	3	469	R
+frag_c20	frag_c24	7	1087	F
+frag_c20	frag_c24	9	1426	R
+frag_c20	frag_c25	1	154	F
+frag_c20	frag_c25	2	294	R
+frag_c20	frag_c26	1	163	F
+frag_c20	frag_c27	3	441	F
+frag_c20	frag_c28	5	771	F
+frag_c20	frag_c28	4	608	R
+frag_c20	frag_c29	5	784	F
+frag_c20	frag_c29	5	806	R
+frag_c20	frag_c2	7	1063	F
+frag_c20	frag_c2	8	1253	R
+frag_c20	frag_c30	1	163	F
+frag_c20	frag_c30	1	160	R
+frag_c20	frag_c31	1	162	R
+frag_c20	frag_c32	1	156	F
+frag_c20	frag_c32	1	155	R
+frag_c20	frag_c33	3	379	F
+frag_c20	frag_c33	3	450	R
+frag_c20	frag_c34	320	49705	F
+frag_c20	frag_c34	1	159	R
+frag_c20	frag_c36	1	164	F
+frag_c20	frag_c38	1	165	F
+frag_c20	frag_c39	3	471	F
+frag_c20	frag_c39	2	324	R
+frag_c20	frag_c3	2	327	F
+frag_c20	frag_c41	1	164	F
+frag_c20	frag_c41	1	154	R
+frag_c20	frag_c42	1	163	F
+frag_c20	frag_c43	2	325	F
+frag_c20	frag_c43	2	315	R
+frag_c20	frag_c44	3	486	R
+frag_c20	frag_c45	1	164	F
+frag_c20	frag_c45	3	456	R
+frag_c20	frag_c46	2	307	R
+frag_c20	frag_c47	1	163	F
+frag_c20	frag_c48	1	162	R
+frag_c20	frag_c49	1	163	F
+frag_c20	frag_c49	1	156	R
+frag_c20	frag_c4	2	279	F
+frag_c20	frag_c4	2	328	R
+frag_c20	frag_c50	1	150	R
+frag_c20	frag_c51	1	164	R
+frag_c20	frag_c52	3	447	F
+frag_c20	frag_c52	1	164	R
+frag_c20	frag_c53	2	326	F
+frag_c20	frag_c55	1	158	F
+frag_c20	frag_c56	1	159	F
+frag_c20	frag_c57	1	160	F
+frag_c20	frag_c57	1	161	R
+frag_c20	frag_c58	3	490	F
+frag_c20	frag_c58	1	164	R
+frag_c20	frag_c59	1	98	R
+frag_c20	frag_c5	1	152	R
+frag_c20	frag_c63	2	320	R
+frag_c20	frag_c64	1	165	F
+frag_c20	frag_c65	1	163	F
+frag_c20	frag_c66	1	158	F
+frag_c20	frag_c68	1	145	R
+frag_c20	frag_c6	6	942	F
+frag_c20	frag_c6	8	1172	R
+frag_c20	frag_c70	1	163	R
+frag_c20	frag_c71	1	157	F
+frag_c20	frag_c8	2	234	F
+frag_c20	frag_c8	4	643	R
+frag_c20	frag_c9	5	790	F
+frag_c20	frag_c9	2	296	R
+frag_c21	frag_c10	1	154	F
+frag_c21	frag_c10	1	155	R
+frag_c21	frag_c11	1	146	F
+frag_c21	frag_c14	4	567	R
+frag_c21	frag_c15	2	260	F
+frag_c21	frag_c17	1	163	F
+frag_c21	frag_c17	1	155	R
+frag_c21	frag_c18	2	318	R
+frag_c21	frag_c1	317	48902	F
+frag_c21	frag_c1	2	300	R
+frag_c21	frag_c20	1	164	F
+frag_c21	frag_c22	1	149	R
+frag_c21	frag_c23	1	163	R
+frag_c21	frag_c24	1	154	F
+frag_c21	frag_c24	1	103	R
+frag_c21	frag_c28	2	312	F
+frag_c21	frag_c28	2	298	R
+frag_c21	frag_c29	2	321	F
+frag_c21	frag_c2	1	166	F
+frag_c21	frag_c2	3	490	R
+frag_c21	frag_c33	2	319	F
+frag_c21	frag_c33	1	164	R
+frag_c21	frag_c34	1	164	F
+frag_c21	frag_c36	1	164	F
+frag_c21	frag_c37	1	126	F
+frag_c21	frag_c38	1	156	R
+frag_c21	frag_c39	1	160	F
+frag_c21	frag_c39	1	166	R
+frag_c21	frag_c3	3	445	R
+frag_c21	frag_c42	2	286	F
+frag_c21	frag_c42	4	652	R
+frag_c21	frag_c43	2	260	R
+frag_c21	frag_c44	1	163	F
+frag_c21	frag_c44	1	165	R
+frag_c21	frag_c45	1	163	F
+frag_c21	frag_c48	1	164	F
+frag_c21	frag_c48	1	164	R
+frag_c21	frag_c50	2	319	R
+frag_c21	frag_c52	1	162	F
+frag_c21	frag_c52	1	161	R
+frag_c21	frag_c53	1	165	F
+frag_c21	frag_c58	2	325	F
+frag_c21	frag_c58	1	162	R
+frag_c21	frag_c65	1	162	F
+frag_c21	frag_c66	1	118	F
+frag_c21	frag_c67	1	163	F
+frag_c21	frag_c6	2	316	F
+frag_c21	frag_c6	4	630	R
+frag_c21	frag_c8	1	157	R
+frag_c21	frag_c9	2	318	F
+frag_c22	frag_c11	1	157	F
+frag_c22	frag_c13	1	164	F
+frag_c22	frag_c14	1	162	F
+frag_c22	frag_c14	2	325	R
+frag_c22	frag_c15	2	320	R
+frag_c22	frag_c16	1	128	R
+frag_c22	frag_c18	1	152	F
+frag_c22	frag_c18	1	151	R
+frag_c22	frag_c19	1	164	F
+frag_c22	frag_c1	1	145	R
+frag_c22	frag_c21	1	165	R
+frag_c22	frag_c23	1	156	R
+frag_c22	frag_c24	1	151	R
+frag_c22	frag_c26	1	160	R
+frag_c22	frag_c28	1	163	R
+frag_c22	frag_c29	1	150	R
+frag_c22	frag_c2	1	162	F
+frag_c22	frag_c2	1	137	R
+frag_c22	frag_c31	1	157	R
+frag_c22	frag_c32	1	164	F
+frag_c22	frag_c32	340	52239	R
+frag_c22	frag_c33	2	309	F
+frag_c22	frag_c33	2	304	R
+frag_c22	frag_c34	2	277	R
+frag_c22	frag_c36	3	462	R
+frag_c22	frag_c39	2	281	F
+frag_c22	frag_c39	3	455	R
+frag_c22	frag_c3	2	308	F
+frag_c22	frag_c3	1	163	R
+frag_c22	frag_c42	1	163	F
+frag_c22	frag_c44	3	466	F
+frag_c22	frag_c46	1	161	R
+frag_c22	frag_c47	1	155	R
+frag_c22	frag_c49	1	154	F
+frag_c22	frag_c49	1	46	R
+frag_c22	frag_c4	3	478	F
+frag_c22	frag_c50	1	163	R
+frag_c22	frag_c53	1	146	F
+frag_c22	frag_c53	1	163	R
+frag_c22	frag_c55	2	318	F
+frag_c22	frag_c56	1	160	R
+frag_c22	frag_c59	1	164	F
+frag_c22	frag_c5	1	165	R
+frag_c22	frag_c63	1	137	F
+frag_c22	frag_c6	1	115	F
+frag_c22	frag_c6	2	315	R
+frag_c22	frag_c8	3	431	R
+frag_c22	frag_c9	1	155	R
+frag_c23	frag_c10	2	325	F
+frag_c23	frag_c11	1	154	F
+frag_c23	frag_c11	1	163	R
+frag_c23	frag_c12	2	303	F
+frag_c23	frag_c12	1	165	R
+frag_c23	frag_c14	1	165	F
+frag_c23	frag_c15	1	154	R
+frag_c23	frag_c16	1	144	R
+frag_c23	frag_c17	1	158	F
+frag_c23	frag_c18	2	325	F
+frag_c23	frag_c18	2	311	R
+frag_c23	frag_c19	2	310	F
+frag_c23	frag_c19	2	302	R
+frag_c23	frag_c1	1	164	F
+frag_c23	frag_c20	1	165	R
+frag_c23	frag_c22	2	322	F
+frag_c23	frag_c24	5	797	F
+frag_c23	frag_c25	1	164	F
+frag_c23	frag_c26	1	153	F
+frag_c23	frag_c26	1	158	R
+frag_c23	frag_c28	2	312	F
+frag_c23	frag_c28	2	304	R
+frag_c23	frag_c29	4	610	F
+frag_c23	frag_c29	2	325	R
+frag_c23	frag_c2	7	1133	R
+frag_c23	frag_c30	1	162	R
+frag_c23	frag_c31	3	489	F
+frag_c23	frag_c33	2	302	F
+frag_c23	frag_c33	1	164	R
+frag_c23	frag_c34	1	158	F
+frag_c23	frag_c34	2	313	R
+frag_c23	frag_c36	3	485	R
+frag_c23	frag_c38	4	651	F
+frag_c23	frag_c39	4	644	F
+frag_c23	frag_c39	2	326	R
+frag_c23	frag_c40	1	145	R
+frag_c23	frag_c42	1	150	F
+frag_c23	frag_c42	1	146	R
+frag_c23	frag_c44	1	164	F
+frag_c23	frag_c44	2	325	R
+frag_c23	frag_c45	3	456	F
+frag_c23	frag_c46	1	150	R
+frag_c23	frag_c49	1	148	F
+frag_c23	frag_c49	2	323	R
+frag_c23	frag_c50	1	159	F
+frag_c23	frag_c50	1	164	R
+frag_c23	frag_c51	1	153	F
+frag_c23	frag_c51	1	156	R
+frag_c23	frag_c52	1	162	R
+frag_c23	frag_c55	1	159	F
+frag_c23	frag_c56	1	159	R
+frag_c23	frag_c57	1	159	R
+frag_c23	frag_c59	1	159	F
+frag_c23	frag_c59	1	156	R
+frag_c23	frag_c62	1	142	R
+frag_c23	frag_c63	1	164	R
+frag_c23	frag_c65	1	154	R
+frag_c23	frag_c6	1	148	F
+frag_c23	frag_c6	2	317	R
+frag_c23	frag_c7	1	147	F
+frag_c23	frag_c8	1	141	R
+frag_c23	frag_c9	1	157	F
+frag_c23	frag_c9	2	286	R
+frag_c24	frag_c10	1	137	F
+frag_c24	frag_c10	4	612	R
+frag_c24	frag_c11	2	322	F
+frag_c24	frag_c11	2	316	R
+frag_c24	frag_c12	2	328	F
+frag_c24	frag_c13	1	154	R
+frag_c24	frag_c14	6	952	F
+frag_c24	frag_c14	3	481	R
+frag_c24	frag_c15	5	781	F
+frag_c24	frag_c15	1	85	R
+frag_c24	frag_c16	5	788	F
+frag_c24	frag_c16	1	156	R
+frag_c24	frag_c18	4	617	F
+frag_c24	frag_c18	4	620	R
+frag_c24	frag_c19	2	325	F
+frag_c24	frag_c19	5	778	R
+frag_c24	frag_c1	3	438	F
+frag_c24	frag_c1	5	789	R
+frag_c24	frag_c20	3	492	F
+frag_c24	frag_c20	3	488	R
+frag_c24	frag_c21	3	480	R
+frag_c24	frag_c22	1	159	F
+frag_c24	frag_c23	2	307	F
+frag_c24	frag_c23	4	644	R
+frag_c24	frag_c25	5	773	F
+frag_c24	frag_c26	1	127	F
+frag_c24	frag_c26	1	142	R
+frag_c24	frag_c27	3	486	F
+frag_c24	frag_c27	2	311	R
+frag_c24	frag_c28	2	304	F
+frag_c24	frag_c28	9	1417	R
+frag_c24	frag_c29	6	951	F
+frag_c24	frag_c29	7	1005	R
+frag_c24	frag_c2	2	264	F
+frag_c24	frag_c2	12	1866	R
+frag_c24	frag_c30	1	161	F
+frag_c24	frag_c31	2	302	F
+frag_c24	frag_c31	3	430	R
+frag_c24	frag_c32	2	318	F
+frag_c24	frag_c32	4	635	R
+frag_c24	frag_c33	3	475	F
+frag_c24	frag_c33	5	773	R
+frag_c24	frag_c34	2	324	F
+frag_c24	frag_c34	4	618	R
+frag_c24	frag_c36	2	306	F
+frag_c24	frag_c36	1	163	R
+frag_c24	frag_c37	3	488	F
+frag_c24	frag_c37	2	214	R
+frag_c24	frag_c38	3	453	F
+frag_c24	frag_c39	4	582	F
+frag_c24	frag_c39	5	751	R
+frag_c24	frag_c40	4	634	F
+frag_c24	frag_c40	3	464	R
+frag_c24	frag_c42	2	295	F
+frag_c24	frag_c43	1	143	F
+frag_c24	frag_c43	1	160	R
+frag_c24	frag_c44	2	310	F
+frag_c24	frag_c45	4	641	R
+frag_c24	frag_c47	1	163	F
+frag_c24	frag_c47	3	468	R
+frag_c24	frag_c48	7	1054	R
+frag_c24	frag_c49	5	752	F
+frag_c24	frag_c49	1	164	R
+frag_c24	frag_c4	1	155	R
+frag_c24	frag_c50	3	473	F
+frag_c24	frag_c50	3	485	R
+frag_c24	frag_c51	3	470	R
+frag_c24	frag_c52	1	145	F
+frag_c24	frag_c52	2	318	R
+frag_c24	frag_c53	1	165	F
+frag_c24	frag_c53	2	329	R
+frag_c24	frag_c54	2	299	R
+frag_c24	frag_c55	1	163	F
+frag_c24	frag_c55	2	327	R
+frag_c24	frag_c56	4	596	F
+frag_c24	frag_c57	1	154	F
+frag_c24	frag_c57	1	146	R
+frag_c24	frag_c58	3	479	F
+frag_c24	frag_c58	1	155	R
+frag_c24	frag_c59	1	143	F
+frag_c24	frag_c5	1	160	F
+frag_c24	frag_c61	1	156	R
+frag_c24	frag_c62	1	161	F
+frag_c24	frag_c63	2	328	F
+frag_c24	frag_c63	1	161	R
+frag_c24	frag_c6	9	1352	F
+frag_c24	frag_c6	13	2025	R
+frag_c24	frag_c7	1	148	F
+frag_c24	frag_c7	216	33380	R
+frag_c24	frag_c8	5	783	F
+frag_c24	frag_c8	2	315	R
+frag_c24	frag_c9	10	1499	F
+frag_c24	frag_c9	4	616	R
+frag_c25	frag_c10	2	317	R
+frag_c25	frag_c11	1	161	R
+frag_c25	frag_c12	2	293	R
+frag_c25	frag_c13	1	165	F
+frag_c25	frag_c14	2	318	F
+frag_c25	frag_c15	2	326	F
+frag_c25	frag_c15	2	314	R
+frag_c25	frag_c16	1	162	F
+frag_c25	frag_c18	1	162	F
+frag_c25	frag_c19	1	154	F
+frag_c25	frag_c1	2	302	F
+frag_c25	frag_c1	1	164	R
+frag_c25	frag_c21	2	312	F
+frag_c25	frag_c23	2	258	F
+frag_c25	frag_c23	1	163	R
+frag_c25	frag_c24	4	621	F
+frag_c25	frag_c27	1	158	F
+frag_c25	frag_c27	1	147	R
+frag_c25	frag_c28	3	478	R
+frag_c25	frag_c29	2	327	F
+frag_c25	frag_c2	1	149	F
+frag_c25	frag_c2	3	479	R
+frag_c25	frag_c31	1	157	R
+frag_c25	frag_c32	1	163	R
+frag_c25	frag_c33	2	328	R
+frag_c25	frag_c34	1	162	F
+frag_c25	frag_c36	1	155	F
+frag_c25	frag_c37	1	101	R
+frag_c25	frag_c39	2	320	R
+frag_c25	frag_c3	1	164	R
+frag_c25	frag_c42	1	161	F
+frag_c25	frag_c42	1	161	R
+frag_c25	frag_c44	1	162	F
+frag_c25	frag_c44	2	300	R
+frag_c25	frag_c45	1	165	R
+frag_c25	frag_c48	1	162	F
+frag_c25	frag_c49	2	314	F
+frag_c25	frag_c49	1	165	R
+frag_c25	frag_c4	1	161	F
+frag_c25	frag_c50	1	157	F
+frag_c25	frag_c51	2	315	R
+frag_c25	frag_c52	1	161	R
+frag_c25	frag_c55	1	148	R
+frag_c25	frag_c59	1	163	R
+frag_c25	frag_c5	2	317	R
+frag_c25	frag_c63	1	163	F
+frag_c25	frag_c64	1	164	F
+frag_c25	frag_c65	1	162	F
+frag_c25	frag_c6	3	441	F
+frag_c25	frag_c6	3	394	R
+frag_c25	frag_c7	2	299	R
+frag_c25	frag_c8	2	322	F
+frag_c25	frag_c9	4	631	F
+frag_c25	frag_c9	3	463	R
+frag_c25	frag_rep_c78	1	119	F
+frag_c26	frag_c11	1	154	F
+frag_c26	frag_c11	1	152	R
+frag_c26	frag_c14	2	298	F
+frag_c26	frag_c14	1	163	R
+frag_c26	frag_c15	1	163	F
+frag_c26	frag_c16	1	144	R
+frag_c26	frag_c18	1	163	F
+frag_c26	frag_c18	1	155	R
+frag_c26	frag_c1	1	164	R
+frag_c26	frag_c20	2	317	F
+frag_c26	frag_c23	1	147	R
+frag_c26	frag_c24	1	154	F
+frag_c26	frag_c24	1	157	R
+frag_c26	frag_c29	1	121	F
+frag_c26	frag_c2	1	164	R
+frag_c26	frag_c30	1	152	R
+frag_c26	frag_c31	1	157	F
+frag_c26	frag_c32	1	163	R
+frag_c26	frag_c34	1	158	F
+frag_c26	frag_c34	1	154	R
+frag_c26	frag_c36	1	163	F
+frag_c26	frag_c36	1	162	R
+frag_c26	frag_c37	2	328	F
+frag_c26	frag_c38	1	150	R
+frag_c26	frag_c39	2	326	R
+frag_c26	frag_c44	1	164	R
+frag_c26	frag_c49	1	153	F
+frag_c26	frag_c50	321	49933	F
+frag_c26	frag_c51	1	164	F
+frag_c26	frag_c52	1	159	F
+frag_c26	frag_c52	1	164	R
+frag_c26	frag_c53	1	137	R
+frag_c26	frag_c58	1	149	F
+frag_c26	frag_c61	1	147	F
+frag_c26	frag_c63	1	163	R
+frag_c26	frag_c6	2	317	F
+frag_c26	frag_c6	1	149	R
+frag_c26	frag_c8	2	306	R
+frag_c27	frag_c10	2	308	R
+frag_c27	frag_c11	1	154	R
+frag_c27	frag_c14	1	155	F
+frag_c27	frag_c14	1	154	R
+frag_c27	frag_c15	1	140	F
+frag_c27	frag_c16	1	163	F
+frag_c27	frag_c17	1	163	R
+frag_c27	frag_c18	2	326	F
+frag_c27	frag_c18	1	164	R
+frag_c27	frag_c19	1	165	F
+frag_c27	frag_c19	1	163	R
+frag_c27	frag_c1	4	641	F
+frag_c27	frag_c1	2	319	R
+frag_c27	frag_c20	2	310	F
+frag_c27	frag_c20	3	453	R
+frag_c27	frag_c21	1	164	R
+frag_c27	frag_c22	1	146	F
+frag_c27	frag_c23	3	484	F
+frag_c27	frag_c24	1	159	F
+frag_c27	frag_c24	4	637	R
+frag_c27	frag_c25	1	163	F
+frag_c27	frag_c25	2	322	R
+frag_c27	frag_c28	3	482	F
+frag_c27	frag_c29	3	457	F
+frag_c27	frag_c29	2	319	R
+frag_c27	frag_c2	1	154	F
+frag_c27	frag_c2	1	161	R
+frag_c27	frag_c32	1	154	F
+frag_c27	frag_c33	5	707	F
+frag_c27	frag_c33	1	154	R
+frag_c27	frag_c34	3	401	F
+frag_c27	frag_c36	1	155	R
+frag_c27	frag_c37	2	309	F
+frag_c27	frag_c38	1	148	F
+frag_c27	frag_c39	2	320	F
+frag_c27	frag_c39	1	165	R
+frag_c27	frag_c40	1	131	R
+frag_c27	frag_c42	1	156	R
+frag_c27	frag_c43	1	116	F
+frag_c27	frag_c43	1	148	R
+frag_c27	frag_c45	2	326	F
+frag_c27	frag_c45	3	445	R
+frag_c27	frag_c46	1	161	F
+frag_c27	frag_c47	2	277	R
+frag_c27	frag_c49	1	164	F
+frag_c27	frag_c49	1	155	R
+frag_c27	frag_c4	1	146	R
+frag_c27	frag_c50	1	153	F
+frag_c27	frag_c50	1	155	R
+frag_c27	frag_c52	1	143	R
+frag_c27	frag_c53	1	162	R
+frag_c27	frag_c56	1	145	F
+frag_c27	frag_c56	1	164	R
+frag_c27	frag_c57	2	315	F
+frag_c27	frag_c63	1	162	R
+frag_c27	frag_c65	1	155	F
+frag_c27	frag_c67	1	164	F
+frag_c27	frag_c6	6	955	F
+frag_c27	frag_c6	4	632	R
+frag_c27	frag_c8	1	164	R
+frag_c27	frag_c9	6	932	F
+frag_c27	frag_c9	1	146	R
+frag_c28	frag_c10	1	158	F
+frag_c28	frag_c10	3	457	R
+frag_c28	frag_c11	4	641	F
+frag_c28	frag_c11	3	488	R
+frag_c28	frag_c12	2	319	F
+frag_c28	frag_c12	2	329	R
+frag_c28	frag_c13	1	163	F
+frag_c28	frag_c14	3	477	F
+frag_c28	frag_c14	7	1047	R
+frag_c28	frag_c15	2	296	F
+frag_c28	frag_c15	1	163	R
+frag_c28	frag_c16	3	426	R
+frag_c28	frag_c17	1	108	F
+frag_c28	frag_c18	4	635	F
+frag_c28	frag_c18	2	311	R
+frag_c28	frag_c19	1	163	F
+frag_c28	frag_c19	2	307	R
+frag_c28	frag_c1	275	42635	F
+frag_c28	frag_c1	5	767	R
+frag_c28	frag_c20	7	1100	F
+frag_c28	frag_c20	2	330	R
+frag_c28	frag_c21	1	163	F
+frag_c28	frag_c21	1	144	R
+frag_c28	frag_c22	2	312	F
+frag_c28	frag_c22	5	796	R
+frag_c28	frag_c23	1	154	F
+frag_c28	frag_c24	7	1061	F
+frag_c28	frag_c24	5	809	R
+frag_c28	frag_c25	1	163	F
+frag_c28	frag_c27	4	611	F
+frag_c28	frag_c27	2	324	R
+frag_c28	frag_c29	2	329	F
+frag_c28	frag_c29	1	136	R
+frag_c28	frag_c2	4	632	F
+frag_c28	frag_c2	3	478	R
+frag_c28	frag_c30	1	164	F
+frag_c28	frag_c30	1	161	R
+frag_c28	frag_c31	1	163	F
+frag_c28	frag_c31	2	309	R
+frag_c28	frag_c33	2	320	F
+frag_c28	frag_c33	6	878	R
+frag_c28	frag_c34	2	317	F
+frag_c28	frag_c34	3	439	R
+frag_c28	frag_c35	1	164	R
+frag_c28	frag_c36	4	504	F
+frag_c28	frag_c36	2	299	R
+frag_c28	frag_c37	2	324	F
+frag_c28	frag_c37	5	803	R
+frag_c28	frag_c38	1	155	F
+frag_c28	frag_c38	2	325	R
+frag_c28	frag_c39	5	762	F
+frag_c28	frag_c39	5	723	R
+frag_c28	frag_c3	1	163	F
+frag_c28	frag_c40	2	316	R
+frag_c28	frag_c41	2	319	R
+frag_c28	frag_c43	2	318	R
+frag_c28	frag_c44	4	615	F
+frag_c28	frag_c44	1	138	R
+frag_c28	frag_c45	3	456	F
+frag_c28	frag_c45	2	310	R
+frag_c28	frag_c47	1	164	F
+frag_c28	frag_c48	3	479	R
+frag_c28	frag_c49	2	273	F
+frag_c28	frag_c4	3	423	F
+frag_c28	frag_c4	382	59365	R
+frag_c28	frag_c50	3	484	F
+frag_c28	frag_c50	1	145	R
+frag_c28	frag_c51	2	313	F
+frag_c28	frag_c51	2	322	R
+frag_c28	frag_c52	1	149	F
+frag_c28	frag_c52	2	292	R
+frag_c28	frag_c53	3	466	F
+frag_c28	frag_c53	2	303	R
+frag_c28	frag_c54	1	155	F
+frag_c28	frag_c55	1	164	F
+frag_c28	frag_c56	3	483	F
+frag_c28	frag_c56	2	285	R
+frag_c28	frag_c58	5	787	F
+frag_c28	frag_c58	1	163	R
+frag_c28	frag_c59	1	162	R
+frag_c28	frag_c5	2	301	F
+frag_c28	frag_c5	1	153	R
+frag_c28	frag_c62	1	154	F
+frag_c28	frag_c64	1	154	F
+frag_c28	frag_c65	1	159	R
+frag_c28	frag_c66	1	164	F
+frag_c28	frag_c68	1	164	R
+frag_c28	frag_c69	1	164	F
+frag_c28	frag_c6	5	752	F
+frag_c28	frag_c6	7	1052	R
+frag_c28	frag_c7	2	311	R
+frag_c28	frag_c8	3	446	F
+frag_c28	frag_c8	2	296	R
+frag_c28	frag_c9	6	955	F
+frag_c28	frag_c9	10	1479	R
+frag_c29	frag_c10	1	152	F
+frag_c29	frag_c10	1	151	R
+frag_c29	frag_c11	1	164	F
+frag_c29	frag_c11	1	155	R
+frag_c29	frag_c12	2	310	F
+frag_c29	frag_c12	1	163	R
+frag_c29	frag_c13	3	454	F
+frag_c29	frag_c13	1	164	R
+frag_c29	frag_c14	4	620	F
+frag_c29	frag_c14	6	959	R
+frag_c29	frag_c15	4	640	F
+frag_c29	frag_c15	1	143	R
+frag_c29	frag_c16	1	150	F
+frag_c29	frag_c17	2	313	F
+frag_c29	frag_c17	2	223	R
+frag_c29	frag_c18	3	467	F
+frag_c29	frag_c19	1	112	F
+frag_c29	frag_c19	6	915	R
+frag_c29	frag_c1	16	2487	F
+frag_c29	frag_c1	15	2381	R
+frag_c29	frag_c20	3	449	F
+frag_c29	frag_c20	6	936	R
+frag_c29	frag_c21	3	434	F
+frag_c29	frag_c21	2	302	R
+frag_c29	frag_c22	1	162	F
+frag_c29	frag_c22	2	313	R
+frag_c29	frag_c23	4	601	R
+frag_c29	frag_c24	2	327	F
+frag_c29	frag_c24	9	1429	R
+frag_c29	frag_c25	2	300	F
+frag_c29	frag_c27	2	287	F
+frag_c29	frag_c27	1	148	R
+frag_c29	frag_c28	3	442	F
+frag_c29	frag_c28	5	805	R
+frag_c29	frag_c2	3	465	F
+frag_c29	frag_c2	10	1563	R
+frag_c29	frag_c31	2	306	F
+frag_c29	frag_c31	3	480	R
+frag_c29	frag_c32	4	604	F
+frag_c29	frag_c32	1	161	R
+frag_c29	frag_c33	5	734	F
+frag_c29	frag_c33	1	163	R
+frag_c29	frag_c34	2	323	F
+frag_c29	frag_c34	309	47215	R
+frag_c29	frag_c35	1	164	R
+frag_c29	frag_c36	1	145	F
+frag_c29	frag_c36	1	164	R
+frag_c29	frag_c37	2	320	F
+frag_c29	frag_c37	3	494	R
+frag_c29	frag_c38	1	166	R
+frag_c29	frag_c39	2	319	F
+frag_c29	frag_c39	4	628	R
+frag_c29	frag_c3	2	300	F
+frag_c29	frag_c3	2	241	R
+frag_c29	frag_c40	1	159	F
+frag_c29	frag_c40	1	153	R
+frag_c29	frag_c41	2	325	R
+frag_c29	frag_c42	3	482	F
+frag_c29	frag_c42	6	971	R
+frag_c29	frag_c44	1	160	F
+frag_c29	frag_c44	5	752	R
+frag_c29	frag_c45	1	161	F
+frag_c29	frag_c46	3	481	F
+frag_c29	frag_c46	3	474	R
+frag_c29	frag_c47	1	148	F
+frag_c29	frag_c47	1	146	R
+frag_c29	frag_c49	3	462	F
+frag_c29	frag_c49	3	485	R
+frag_c29	frag_c4	1	163	F
+frag_c29	frag_c4	3	466	R
+frag_c29	frag_c50	4	625	R
+frag_c29	frag_c51	1	163	F
+frag_c29	frag_c51	1	151	R
+frag_c29	frag_c52	5	782	F
+frag_c29	frag_c52	1	161	R
+frag_c29	frag_c53	3	474	F
+frag_c29	frag_c53	1	161	R
+frag_c29	frag_c54	1	164	R
+frag_c29	frag_c55	1	150	F
+frag_c29	frag_c56	2	317	F
+frag_c29	frag_c56	1	126	R
+frag_c29	frag_c57	1	164	F
+frag_c29	frag_c57	1	149	R
+frag_c29	frag_c58	1	157	F
+frag_c29	frag_c59	4	608	F
+frag_c29	frag_c61	2	310	R
+frag_c29	frag_c62	1	153	F
+frag_c29	frag_c63	3	444	R
+frag_c29	frag_c64	1	163	R
+frag_c29	frag_c66	1	161	F
+frag_c29	frag_c67	1	164	R
+frag_c29	frag_c6	10	1533	F
+frag_c29	frag_c6	5	794	R
+frag_c29	frag_c7	4	618	F
+frag_c29	frag_c8	3	459	F
+frag_c29	frag_c8	1	162	R
+frag_c29	frag_c9	7	1069	F
+frag_c29	frag_c9	17	2619	R
+frag_c29	frag_rep_c74	1	152	F
+frag_c3	frag_c10	1	159	R
+frag_c3	frag_c11	1	164	F
+frag_c3	frag_c12	8	1241	R
+frag_c3	frag_c13	1	160	R
+frag_c3	frag_c14	1	155	F
+frag_c3	frag_c15	2	319	F
+frag_c3	frag_c15	1	158	R
+frag_c3	frag_c16	1	154	R
+frag_c3	frag_c17	1	163	R
+frag_c3	frag_c18	2	315	F
+frag_c3	frag_c18	3	474	R
+frag_c3	frag_c1	1	162	F
+frag_c3	frag_c1	2	319	R
+frag_c3	frag_c20	2	313	F
+frag_c3	frag_c20	2	300	R
+frag_c3	frag_c21	2	314	R
+frag_c3	frag_c22	1	74	F
+frag_c3	frag_c24	3	464	F
+frag_c3	frag_c27	1	161	F
+frag_c3	frag_c27	2	308	R
+frag_c3	frag_c28	3	479	R
+frag_c3	frag_c29	2	317	F
+frag_c3	frag_c29	3	462	R
+frag_c3	frag_c2	1	163	F
+frag_c3	frag_c2	2	321	R
+frag_c3	frag_c31	1	163	F
+frag_c3	frag_c31	2	272	R
+frag_c3	frag_c33	1	132	F
+frag_c3	frag_c33	2	311	R
+frag_c3	frag_c34	1	154	R
+frag_c3	frag_c36	1	162	F
+frag_c3	frag_c37	4	622	F
+frag_c3	frag_c37	1	153	R
+frag_c3	frag_c38	8	1109	F
+frag_c3	frag_c39	1	159	F
+frag_c3	frag_c39	1	163	R
+frag_c3	frag_c40	6	852	F
+frag_c3	frag_c42	1	164	R
+frag_c3	frag_c44	1	165	F
+frag_c3	frag_c45	1	160	R
+frag_c3	frag_c48	1	163	F
+frag_c3	frag_c4	4	616	F
+frag_c3	frag_c51	1	164	F
+frag_c3	frag_c51	2	205	R
+frag_c3	frag_c52	3	474	F
+frag_c3	frag_c53	1	162	F
+frag_c3	frag_c53	1	156	R
+frag_c3	frag_c55	1	165	R
+frag_c3	frag_c56	145	22392	F
+frag_c3	frag_c56	1	161	R
+frag_c3	frag_c57	1	155	F
+frag_c3	frag_c57	1	163	R
+frag_c3	frag_c58	1	156	R
+frag_c3	frag_c5	2	322	F
+frag_c3	frag_c63	2	302	F
+frag_c3	frag_c64	118	17941	R
+frag_c3	frag_c66	1	155	F
+frag_c3	frag_c6	3	484	R
+frag_c3	frag_c7	1	164	F
+frag_c3	frag_c7	1	165	R
+frag_c3	frag_c8	2	315	F
+frag_c3	frag_c9	2	314	F
+frag_c3	frag_c9	2	313	R
+frag_c30	frag_c11	1	145	F
+frag_c30	frag_c12	2	326	R
+frag_c30	frag_c15	1	156	F
+frag_c30	frag_c17	1	128	F
+frag_c30	frag_c17	1	163	R
+frag_c30	frag_c18	1	164	F
+frag_c30	frag_c18	2	328	R
+frag_c30	frag_c19	1	164	F
+frag_c30	frag_c1	3	481	R
+frag_c30	frag_c20	1	156	F
+frag_c30	frag_c20	2	317	R
+frag_c30	frag_c21	1	164	R
+frag_c30	frag_c24	2	299	F
+frag_c30	frag_c24	2	329	R
+frag_c30	frag_c27	1	162	F
+frag_c30	frag_c28	1	165	F
+frag_c30	frag_c28	1	151	R
+frag_c30	frag_c29	1	162	F
+frag_c30	frag_c29	1	165	R
+frag_c30	frag_c36	1	161	F
+frag_c30	frag_c37	1	130	F
+frag_c30	frag_c46	1	164	R
+frag_c30	frag_c49	1	151	R
+frag_c30	frag_c50	1	162	R
+frag_c30	frag_c51	1	139	R
+frag_c30	frag_c53	1	154	R
+frag_c30	frag_c54	324	49829	F
+frag_c30	frag_c56	1	140	R
+frag_c30	frag_c57	2	328	F
+frag_c30	frag_c6	1	150	F
+frag_c30	frag_c8	1	154	F
+frag_c30	frag_c8	1	164	R
+frag_c30	frag_c9	1	152	F
+frag_c31	frag_c10	1	163	F
+frag_c31	frag_c10	1	142	R
+frag_c31	frag_c12	3	491	R
+frag_c31	frag_c13	1	158	R
+frag_c31	frag_c14	1	164	R
+frag_c31	frag_c15	1	149	F
+frag_c31	frag_c15	2	318	R
+frag_c31	frag_c16	1	149	F
+frag_c31	frag_c19	1	165	F
+frag_c31	frag_c19	1	138	R
+frag_c31	frag_c1	2	317	F
+frag_c31	frag_c20	3	467	F
+frag_c31	frag_c24	1	151	F
+frag_c31	frag_c24	3	477	R
+frag_c31	frag_c25	1	156	R
+frag_c31	frag_c27	1	156	R
+frag_c31	frag_c29	2	288	R
+frag_c31	frag_c2	1	152	F
+frag_c31	frag_c2	3	471	R
+frag_c31	frag_c32	2	325	R
+frag_c31	frag_c33	1	162	R
+frag_c31	frag_c37	1	164	F
+frag_c31	frag_c37	1	146	R
+frag_c31	frag_c38	1	163	R
+frag_c31	frag_c39	1	143	F
+frag_c31	frag_c39	2	326	R
+frag_c31	frag_c40	1	157	R
+frag_c31	frag_c42	319	49371	F
+frag_c31	frag_c42	1	162	R
+frag_c31	frag_c43	1	159	R
+frag_c31	frag_c44	1	166	F
+frag_c31	frag_c45	1	138	F
+frag_c31	frag_c45	1	156	R
+frag_c31	frag_c46	1	161	F
+frag_c31	frag_c49	1	163	F
+frag_c31	frag_c49	1	156	R
+frag_c31	frag_c4	1	162	F
+frag_c31	frag_c50	2	326	R
+frag_c31	frag_c51	2	316	F
+frag_c31	frag_c52	3	463	R
+frag_c31	frag_c53	2	327	R
+frag_c31	frag_c57	1	165	R
+frag_c31	frag_c59	1	156	F
+frag_c31	frag_c63	2	322	F
+frag_c31	frag_c65	1	163	R
+frag_c31	frag_c6	4	601	R
+frag_c31	frag_c7	1	162	R
+frag_c31	frag_c8	2	301	F
+frag_c31	frag_c8	3	490	R
+frag_c31	frag_c9	4	618	F
+frag_c31	frag_c9	3	449	R
+frag_c32	frag_c10	1	131	F
+frag_c32	frag_c11	3	458	F
+frag_c32	frag_c11	2	310	R
+frag_c32	frag_c12	1	164	F
+frag_c32	frag_c12	2	204	R
+frag_c32	frag_c13	1	165	F
+frag_c32	frag_c14	1	155	R
+frag_c32	frag_c15	2	275	F
+frag_c32	frag_c16	1	164	F
+frag_c32	frag_c16	1	155	R
+frag_c32	frag_c17	1	156	F
+frag_c32	frag_c18	2	316	R
+frag_c32	frag_c19	1	157	F
+frag_c32	frag_c1	1	163	F
+frag_c32	frag_c1	2	309	R
+frag_c32	frag_c20	1	156	F
+frag_c32	frag_c20	1	162	R
+frag_c32	frag_c22	2	306	F
+frag_c32	frag_c22	390	60744	R
+frag_c32	frag_c24	3	484	F
+frag_c32	frag_c24	1	148	R
+frag_c32	frag_c25	1	164	F
+frag_c32	frag_c25	1	157	R
+frag_c32	frag_c26	2	322	R
+frag_c32	frag_c28	3	479	F
+frag_c32	frag_c28	4	591	R
+frag_c32	frag_c29	4	627	F
+frag_c32	frag_c29	2	323	R
+frag_c32	frag_c2	365	56961	F
+frag_c32	frag_c2	3	430	R
+frag_c32	frag_c30	1	154	F
+frag_c32	frag_c31	1	163	F
+frag_c32	frag_c31	1	149	R
+frag_c32	frag_c33	2	328	R
+frag_c32	frag_c36	1	146	R
+frag_c32	frag_c37	2	306	R
+frag_c32	frag_c39	3	455	F
+frag_c32	frag_c39	2	309	R
+frag_c32	frag_c40	2	320	F
+frag_c32	frag_c42	2	288	R
+frag_c32	frag_c43	1	160	R
+frag_c32	frag_c44	2	324	F
+frag_c32	frag_c4	1	151	R
+frag_c32	frag_c50	2	328	F
+frag_c32	frag_c50	1	165	R
+frag_c32	frag_c53	1	151	R
+frag_c32	frag_c56	1	158	F
+frag_c32	frag_c5	2	286	F
+frag_c32	frag_c60	1	158	F
+frag_c32	frag_c63	1	162	R
+frag_c32	frag_c66	1	149	R
+frag_c32	frag_c6	1	156	R
+frag_c32	frag_c8	1	165	R
+frag_c32	frag_c9	3	481	F
+frag_c32	frag_c9	2	279	R
+frag_c32	frag_rep_c76	1	129	F
+frag_c33	frag_c12	1	162	F
+frag_c33	frag_c12	1	124	R
+frag_c33	frag_c14	6	965	F
+frag_c33	frag_c14	4	636	R
+frag_c33	frag_c15	1	154	F
+frag_c33	frag_c15	3	463	R
+frag_c33	frag_c16	3	437	F
+frag_c33	frag_c17	1	154	F
+frag_c33	frag_c18	5	776	F
+frag_c33	frag_c18	5	796	R
+frag_c33	frag_c19	1	164	F
+frag_c33	frag_c19	5	763	R
+frag_c33	frag_c1	1	155	F
+frag_c33	frag_c1	3	475	R
+frag_c33	frag_c20	3	477	F
+frag_c33	frag_c20	6	964	R
+frag_c33	frag_c21	1	160	R
+frag_c33	frag_c22	3	470	R
+frag_c33	frag_c23	1	146	F
+frag_c33	frag_c23	4	627	R
+frag_c33	frag_c24	7	1114	F
+frag_c33	frag_c24	3	418	R
+frag_c33	frag_c25	1	164	F
+frag_c33	frag_c25	2	319	R
+frag_c33	frag_c27	1	163	F
+frag_c33	frag_c27	1	158	R
+frag_c33	frag_c28	7	1084	F
+frag_c33	frag_c28	2	305	R
+frag_c33	frag_c29	2	305	F
+frag_c33	frag_c29	3	467	R
+frag_c33	frag_c2	5	791	F
+frag_c33	frag_c2	3	476	R
+frag_c33	frag_c30	1	164	F
+frag_c33	frag_c30	1	162	R
+frag_c33	frag_c31	3	488	F
+frag_c33	frag_c31	2	300	R
+frag_c33	frag_c32	2	307	F
+frag_c33	frag_c32	2	313	R
+frag_c33	frag_c34	4	623	R
+frag_c33	frag_c35	1	158	F
+frag_c33	frag_c36	2	314	F
+frag_c33	frag_c37	3	478	F
+frag_c33	frag_c37	4	616	R
+frag_c33	frag_c38	1	153	R
+frag_c33	frag_c39	5	767	F
+frag_c33	frag_c39	2	308	R
+frag_c33	frag_c3	2	323	F
+frag_c33	frag_c40	2	273	F
+frag_c33	frag_c41	2	294	F
+frag_c33	frag_c42	1	154	F
+frag_c33	frag_c42	2	318	R
+frag_c33	frag_c43	1	164	F
+frag_c33	frag_c43	1	160	R
+frag_c33	frag_c44	2	321	R
+frag_c33	frag_c45	3	481	F
+frag_c33	frag_c45	2	316	R
+frag_c33	frag_c46	1	162	F
+frag_c33	frag_c47	1	152	R
+frag_c33	frag_c48	1	163	F
+frag_c33	frag_c49	2	305	F
+frag_c33	frag_c49	2	327	R
+frag_c33	frag_c4	1	154	F
+frag_c33	frag_c4	8	1254	R
+frag_c33	frag_c50	1	164	R
+frag_c33	frag_c52	2	321	F
+frag_c33	frag_c52	4	618	R
+frag_c33	frag_c53	1	163	R
+frag_c33	frag_c55	1	166	R
+frag_c33	frag_c56	1	96	R
+frag_c33	frag_c59	1	140	F
+frag_c33	frag_c59	3	479	R
+frag_c33	frag_c5	2	295	R
+frag_c33	frag_c61	1	163	R
+frag_c33	frag_c62	1	164	F
+frag_c33	frag_c63	2	300	R
+frag_c33	frag_c65	2	312	F
+frag_c33	frag_c66	1	164	F
+frag_c33	frag_c6	5	750	F
+frag_c33	frag_c6	6	907	R
+frag_c33	frag_c70	1	164	R
+frag_c33	frag_c7	3	453	R
+frag_c33	frag_c8	1	143	F
+frag_c33	frag_c8	2	321	R
+frag_c33	frag_c9	4	610	F
+frag_c33	frag_c9	8	1253	R
+frag_c33	frag_rep_c77	1	115	R
+frag_c34	frag_c10	3	465	F
+frag_c34	frag_c11	2	314	F
+frag_c34	frag_c11	2	318	R
+frag_c34	frag_c12	1	133	F
+frag_c34	frag_c12	2	321	R
+frag_c34	frag_c14	4	576	F
+frag_c34	frag_c14	1	142	R
+frag_c34	frag_c15	2	325	R
+frag_c34	frag_c16	1	155	F
+frag_c34	frag_c18	1	164	F
+frag_c34	frag_c19	3	475	F
+frag_c34	frag_c19	1	154	R
+frag_c34	frag_c1	2	311	F
+frag_c34	frag_c1	2	327	R
+frag_c34	frag_c20	332	51288	F
+frag_c34	frag_c20	3	482	R
+frag_c34	frag_c21	2	315	R
+frag_c34	frag_c22	2	295	F
+frag_c34	frag_c23	2	327	F
+frag_c34	frag_c23	3	480	R
+frag_c34	frag_c24	1	149	F
+frag_c34	frag_c25	1	161	R
+frag_c34	frag_c26	1	163	F
+frag_c34	frag_c27	2	280	F
+frag_c34	frag_c27	1	152	R
+frag_c34	frag_c28	2	309	F
+frag_c34	frag_c28	4	650	R
+frag_c34	frag_c29	3	455	F
+frag_c34	frag_c29	278	42877	R
+frag_c34	frag_c2	3	398	F
+frag_c34	frag_c2	2	315	R
+frag_c34	frag_c31	2	314	F
+frag_c34	frag_c31	1	160	R
+frag_c34	frag_c33	1	140	F
+frag_c34	frag_c33	2	307	R
+frag_c34	frag_c36	1	99	F
+frag_c34	frag_c36	1	146	R
+frag_c34	frag_c37	1	130	F
+frag_c34	frag_c38	3	475	F
+frag_c34	frag_c39	1	156	F
+frag_c34	frag_c39	4	605	R
+frag_c34	frag_c3	1	150	F
+frag_c34	frag_c3	1	163	R
+frag_c34	frag_c40	1	163	F
+frag_c34	frag_c41	1	164	R
+frag_c34	frag_c43	1	154	F
+frag_c34	frag_c43	1	116	R
+frag_c34	frag_c44	2	313	F
+frag_c34	frag_c44	1	146	R
+frag_c34	frag_c45	1	89	F
+frag_c34	frag_c45	2	325	R
+frag_c34	frag_c46	1	163	F
+frag_c34	frag_c47	1	148	R
+frag_c34	frag_c49	1	145	R
+frag_c34	frag_c4	1	162	F
+frag_c34	frag_c50	1	138	F
+frag_c34	frag_c50	1	156	R
+frag_c34	frag_c51	1	164	F
+frag_c34	frag_c52	2	264	F
+frag_c34	frag_c52	2	297	R
+frag_c34	frag_c53	1	153	F
+frag_c34	frag_c53	2	329	R
+frag_c34	frag_c56	1	155	F
+frag_c34	frag_c57	1	154	F
+frag_c34	frag_c57	1	164	R
+frag_c34	frag_c58	1	163	R
+frag_c34	frag_c60	1	119	R
+frag_c34	frag_c63	1	164	R
+frag_c34	frag_c6	2	328	F
+frag_c34	frag_c6	3	461	R
+frag_c34	frag_c8	1	150	F
+frag_c34	frag_c8	4	602	R
+frag_c34	frag_c9	2	300	F
+frag_c34	frag_c9	8	1261	R
+frag_c35	frag_c14	1	155	R
+frag_c35	frag_c15	1	162	F
+frag_c35	frag_c15	1	147	R
+frag_c35	frag_c17	1	159	F
+frag_c35	frag_c18	2	325	F
+frag_c35	frag_c1	2	321	F
+frag_c35	frag_c1	1	151	R
+frag_c35	frag_c28	1	154	R
+frag_c35	frag_c31	1	151	F
+frag_c35	frag_c34	1	155	R
+frag_c35	frag_c38	1	111	F
+frag_c35	frag_c3	1	131	R
+frag_c35	frag_c44	1	164	R
+frag_c35	frag_c46	1	162	F
+frag_c35	frag_c48	162	25190	R
+frag_c35	frag_c49	235	35900	F
+frag_c35	frag_c52	1	164	F
+frag_c35	frag_c52	1	164	R
+frag_c35	frag_c63	1	164	F
+frag_c35	frag_c6	1	163	F
+frag_c36	frag_c10	1	162	R
+frag_c36	frag_c12	2	289	R
+frag_c36	frag_c14	2	304	F
+frag_c36	frag_c14	1	153	R
+frag_c36	frag_c15	2	321	F
+frag_c36	frag_c15	1	162	R
+frag_c36	frag_c16	1	161	F
+frag_c36	frag_c18	2	324	R
+frag_c36	frag_c19	1	143	F
+frag_c36	frag_c1	7	1088	F
+frag_c36	frag_c1	2	280	R
+frag_c36	frag_c20	1	159	F
+frag_c36	frag_c20	1	162	R
+frag_c36	frag_c22	1	151	F
+frag_c36	frag_c23	1	156	F
+frag_c36	frag_c24	1	163	F
+frag_c36	frag_c24	5	784	R
+frag_c36	frag_c28	3	444	F
+frag_c36	frag_c28	1	164	R
+frag_c36	frag_c29	1	146	R
+frag_c36	frag_c2	3	483	R
+frag_c36	frag_c31	1	162	F
+frag_c36	frag_c31	1	147	R
+frag_c36	frag_c32	1	139	F
+frag_c36	frag_c32	3	456	R
+frag_c36	frag_c34	1	163	F
+frag_c36	frag_c37	1	163	F
+frag_c36	frag_c37	3	421	R
+frag_c36	frag_c39	1	158	F
+frag_c36	frag_c39	1	163	R
+frag_c36	frag_c42	1	155	R
+frag_c36	frag_c43	3	445	R
+frag_c36	frag_c44	1	162	F
+frag_c36	frag_c46	1	158	F
+frag_c36	frag_c47	1	143	F
+frag_c36	frag_c49	3	488	F
+frag_c36	frag_c49	1	153	R
+frag_c36	frag_c4	1	141	F
+frag_c36	frag_c50	1	151	R
+frag_c36	frag_c51	1	126	R
+frag_c36	frag_c52	2	291	R
+frag_c36	frag_c53	2	318	R
+frag_c36	frag_c55	1	155	F
+frag_c36	frag_c56	1	155	R
+frag_c36	frag_c58	2	324	R
+frag_c36	frag_c59	1	155	F
+frag_c36	frag_c5	349	54314	R
+frag_c36	frag_c62	1	164	F
+frag_c36	frag_c63	1	128	R
+frag_c36	frag_c66	1	163	F
+frag_c36	frag_c6	3	451	F
+frag_c36	frag_c8	2	324	F
+frag_c36	frag_c8	1	162	R
+frag_c36	frag_c9	2	310	R
+frag_c37	frag_c11	6	906	F
+frag_c37	frag_c11	2	307	R
+frag_c37	frag_c12	1	157	R
+frag_c37	frag_c13	1	162	F
+frag_c37	frag_c14	2	319	F
+frag_c37	frag_c15	1	164	F
+frag_c37	frag_c15	1	142	R
+frag_c37	frag_c16	2	321	R
+frag_c37	frag_c17	1	164	R
+frag_c37	frag_c18	2	316	F
+frag_c37	frag_c18	4	628	R
+frag_c37	frag_c19	1	158	F
+frag_c37	frag_c19	2	313	R
+frag_c37	frag_c1	3	474	F
+frag_c37	frag_c1	4	612	R
+frag_c37	frag_c20	1	156	F
+frag_c37	frag_c20	2	309	R
+frag_c37	frag_c21	1	163	F
+frag_c37	frag_c21	1	143	R
+frag_c37	frag_c22	1	136	R
+frag_c37	frag_c23	2	314	F
+frag_c37	frag_c23	1	164	R
+frag_c37	frag_c24	7	1104	F
+frag_c37	frag_c24	1	163	R
+frag_c37	frag_c25	1	158	R
+frag_c37	frag_c26	1	155	F
+frag_c37	frag_c26	2	321	R
+frag_c37	frag_c28	2	317	F
+frag_c37	frag_c28	1	124	R
+frag_c37	frag_c29	2	327	F
+frag_c37	frag_c29	3	491	R
+frag_c37	frag_c2	4	604	F
+frag_c37	frag_c2	2	290	R
+frag_c37	frag_c31	1	165	F
+frag_c37	frag_c32	2	326	F
+frag_c37	frag_c32	1	149	R
+frag_c37	frag_c33	2	307	F
+frag_c37	frag_c33	2	311	R
+frag_c37	frag_c34	1	132	F
+frag_c37	frag_c34	2	319	R
+frag_c37	frag_c35	1	149	F
+frag_c37	frag_c39	3	359	R
+frag_c37	frag_c3	1	159	F
+frag_c37	frag_c3	2	330	R
+frag_c37	frag_c40	1	158	R
+frag_c37	frag_c42	2	323	F
+frag_c37	frag_c42	1	163	R
+frag_c37	frag_c44	3	460	F
+frag_c37	frag_c44	1	150	R
+frag_c37	frag_c45	3	434	R
+frag_c37	frag_c46	1	163	R
+frag_c37	frag_c48	1	156	F
+frag_c37	frag_c49	1	164	F
+frag_c37	frag_c49	2	268	R
+frag_c37	frag_c50	1	164	F
+frag_c37	frag_c51	3	486	R
+frag_c37	frag_c52	3	469	R
+frag_c37	frag_c53	1	138	F
+frag_c37	frag_c53	1	163	R
+frag_c37	frag_c55	1	145	R
+frag_c37	frag_c56	1	156	F
+frag_c37	frag_c56	1	162	R
+frag_c37	frag_c57	2	328	F
+frag_c37	frag_c57	1	157	R
+frag_c37	frag_c58	1	161	R
+frag_c37	frag_c59	1	135	F
+frag_c37	frag_c60	1	154	R
+frag_c37	frag_c63	2	313	F
+frag_c37	frag_c63	1	155	R
+frag_c37	frag_c6	1	165	F
+frag_c37	frag_c6	3	459	R
+frag_c37	frag_c7	2	305	R
+frag_c37	frag_c8	4	641	F
+frag_c37	frag_c8	3	478	R
+frag_c37	frag_c9	6	891	F
+frag_c37	frag_c9	4	613	R
+frag_c38	frag_c10	1	116	F
+frag_c38	frag_c11	1	149	F
+frag_c38	frag_c12	2	300	F
+frag_c38	frag_c13	2	300	F
+frag_c38	frag_c13	322	49729	R
+frag_c38	frag_c14	1	162	R
+frag_c38	frag_c15	1	161	F
+frag_c38	frag_c15	2	288	R
+frag_c38	frag_c16	1	162	R
+frag_c38	frag_c18	3	444	F
+frag_c38	frag_c19	1	134	F
+frag_c38	frag_c1	2	272	F
+frag_c38	frag_c1	2	325	R
+frag_c38	frag_c21	1	161	F
+frag_c38	frag_c22	1	162	F
+frag_c38	frag_c22	2	326	R
+frag_c38	frag_c23	1	162	F
+frag_c38	frag_c24	2	328	F
+frag_c38	frag_c24	1	164	R
+frag_c38	frag_c25	2	310	F
+frag_c38	frag_c27	2	283	F
+frag_c38	frag_c27	1	150	R
+frag_c38	frag_c28	2	302	F
+frag_c38	frag_c28	1	155	R
+frag_c38	frag_c29	4	553	F
+frag_c38	frag_c29	3	482	R
+frag_c38	frag_c2	2	294	F
+frag_c38	frag_c2	4	634	R
+frag_c38	frag_c33	3	412	R
+frag_c38	frag_c36	2	318	F
+frag_c38	frag_c37	2	271	F
+frag_c38	frag_c37	1	143	R
+frag_c38	frag_c39	2	298	R
+frag_c38	frag_c3	15	2371	F
+frag_c38	frag_c3	1	163	R
+frag_c38	frag_c40	1	164	R
+frag_c38	frag_c41	1	147	R
+frag_c38	frag_c42	1	153	R
+frag_c38	frag_c44	1	165	F
+frag_c38	frag_c44	1	145	R
+frag_c38	frag_c46	1	144	F
+frag_c38	frag_c47	1	160	R
+frag_c38	frag_c48	1	140	F
+frag_c38	frag_c49	1	156	F
+frag_c38	frag_c49	1	145	R
+frag_c38	frag_c4	1	163	F
+frag_c38	frag_c50	1	163	R
+frag_c38	frag_c52	1	163	F
+frag_c38	frag_c52	1	155	R
+frag_c38	frag_c53	2	314	R
+frag_c38	frag_c55	1	157	F
+frag_c38	frag_c59	1	157	F
+frag_c38	frag_c59	2	329	R
+frag_c38	frag_c60	1	156	R
+frag_c38	frag_c63	1	163	R
+frag_c38	frag_c64	1	165	F
+frag_c38	frag_c66	1	149	R
+frag_c38	frag_c68	177	27409	F
+frag_c38	frag_c68	1	164	R
+frag_c38	frag_c6	4	655	F
+frag_c38	frag_c6	3	457	R
+frag_c38	frag_c8	2	324	F
+frag_c38	frag_c9	4	638	R
+frag_c39	frag_c10	2	327	R
+frag_c39	frag_c11	291	44798	F
+frag_c39	frag_c11	4	643	R
+frag_c39	frag_c12	4	602	F
+frag_c39	frag_c12	2	310	R
+frag_c39	frag_c13	1	148	R
+frag_c39	frag_c14	3	449	F
+frag_c39	frag_c14	3	480	R
+frag_c39	frag_c15	4	616	F
+frag_c39	frag_c16	2	294	F
+frag_c39	frag_c17	3	491	F
+frag_c39	frag_c17	1	149	R
+frag_c39	frag_c18	5	781	F
+frag_c39	frag_c18	4	651	R
+frag_c39	frag_c19	3	468	F
+frag_c39	frag_c1	7	1093	F
+frag_c39	frag_c1	7	1115	R
+frag_c39	frag_c20	2	261	F
+frag_c39	frag_c20	3	420	R
+frag_c39	frag_c21	1	164	F
+frag_c39	frag_c22	1	133	F
+frag_c39	frag_c22	1	158	R
+frag_c39	frag_c23	2	314	F
+frag_c39	frag_c24	6	926	F
+frag_c39	frag_c24	10	1585	R
+frag_c39	frag_c25	1	143	F
+frag_c39	frag_c25	1	158	R
+frag_c39	frag_c26	1	151	R
+frag_c39	frag_c27	5	794	F
+frag_c39	frag_c27	2	314	R
+frag_c39	frag_c28	2	314	F
+frag_c39	frag_c28	5	777	R
+frag_c39	frag_c29	2	294	F
+frag_c39	frag_c29	4	565	R
+frag_c39	frag_c2	9	1447	F
+frag_c39	frag_c2	3	468	R
+frag_c39	frag_c30	2	317	F
+frag_c39	frag_c31	1	164	F
+frag_c39	frag_c31	5	703	R
+frag_c39	frag_c32	2	322	F
+frag_c39	frag_c32	1	162	R
+frag_c39	frag_c33	5	794	F
+frag_c39	frag_c33	7	1014	R
+frag_c39	frag_c34	2	324	F
+frag_c39	frag_c34	1	164	R
+frag_c39	frag_c35	1	163	R
+frag_c39	frag_c36	1	115	F
+frag_c39	frag_c36	6	941	R
+frag_c39	frag_c37	1	154	F
+frag_c39	frag_c37	1	146	R
+frag_c39	frag_c38	1	164	F
+frag_c39	frag_c38	1	158	R
+frag_c39	frag_c3	1	164	F
+frag_c39	frag_c40	2	318	R
+frag_c39	frag_c42	2	310	R
+frag_c39	frag_c43	1	162	F
+frag_c39	frag_c44	1	155	F
+frag_c39	frag_c45	5	794	F
+frag_c39	frag_c45	1	151	R
+frag_c39	frag_c46	1	158	F
+frag_c39	frag_c47	2	324	R
+frag_c39	frag_c48	1	164	F
+frag_c39	frag_c48	2	312	R
+frag_c39	frag_c49	2	309	F
+frag_c39	frag_c4	2	318	R
+frag_c39	frag_c50	2	322	F
+frag_c39	frag_c50	1	161	R
+frag_c39	frag_c52	1	164	R
+frag_c39	frag_c53	3	471	R
+frag_c39	frag_c55	1	159	F
+frag_c39	frag_c57	2	327	F
+frag_c39	frag_c57	2	329	R
+frag_c39	frag_c58	2	310	F
+frag_c39	frag_c58	1	163	R
+frag_c39	frag_c59	1	128	F
+frag_c39	frag_c59	3	427	R
+frag_c39	frag_c61	1	132	R
+frag_c39	frag_c63	1	159	R
+frag_c39	frag_c64	1	164	R
+frag_c39	frag_c66	1	161	F
+frag_c39	frag_c67	1	153	R
+frag_c39	frag_c68	2	319	F
+frag_c39	frag_c6	8	1303	F
+frag_c39	frag_c6	6	954	R
+frag_c39	frag_c7	1	148	R
+frag_c39	frag_c8	4	627	F
+frag_c39	frag_c8	1	164	R
+frag_c39	frag_c9	2	328	F
+frag_c39	frag_c9	8	1274	R
+frag_c4	frag_c10	1	164	R
+frag_c4	frag_c11	2	300	F
+frag_c4	frag_c13	1	140	R
+frag_c4	frag_c14	1	94	F
+frag_c4	frag_c14	1	161	R
+frag_c4	frag_c15	1	165	F
+frag_c4	frag_c15	2	320	R
+frag_c4	frag_c16	1	159	F
+frag_c4	frag_c19	1	164	R
+frag_c4	frag_c1	2	317	F
+frag_c4	frag_c1	2	311	R
+frag_c4	frag_c20	1	163	R
+frag_c4	frag_c21	1	148	F
+frag_c4	frag_c23	1	162	R
+frag_c4	frag_c24	1	155	F
+frag_c4	frag_c25	1	156	F
+frag_c4	frag_c25	1	154	R
+frag_c4	frag_c27	1	163	F
+frag_c4	frag_c27	1	164	R
+frag_c4	frag_c28	1	155	F
+frag_c4	frag_c28	385	59823	R
+frag_c4	frag_c29	2	328	F
+frag_c4	frag_c29	1	144	R
+frag_c4	frag_c2	5	790	R
+frag_c4	frag_c32	1	157	F
+frag_c4	frag_c32	1	155	R
+frag_c4	frag_c33	2	310	F
+frag_c4	frag_c33	1	162	R
+frag_c4	frag_c34	1	164	F
+frag_c4	frag_c36	2	288	F
+frag_c4	frag_c37	1	151	F
+frag_c4	frag_c37	3	473	R
+frag_c4	frag_c39	1	146	F
+frag_c4	frag_c39	2	322	R
+frag_c4	frag_c3	2	313	F
+frag_c4	frag_c42	1	165	F
+frag_c4	frag_c43	2	320	R
+frag_c4	frag_c44	1	153	F
+frag_c4	frag_c45	2	313	F
+frag_c4	frag_c45	1	161	R
+frag_c4	frag_c46	1	163	F
+frag_c4	frag_c46	1	136	R
+frag_c4	frag_c47	1	130	F
+frag_c4	frag_c47	2	306	R
+frag_c4	frag_c49	2	325	F
+frag_c4	frag_c50	1	164	F
+frag_c4	frag_c51	1	165	F
+frag_c4	frag_c51	1	160	R
+frag_c4	frag_c52	2	306	F
+frag_c4	frag_c52	1	164	R
+frag_c4	frag_c53	1	133	R
+frag_c4	frag_c56	1	160	R
+frag_c4	frag_c59	2	243	F
+frag_c4	frag_c60	1	155	F
+frag_c4	frag_c63	1	144	F
+frag_c4	frag_c63	1	155	R
+frag_c4	frag_c67	1	152	F
+frag_c4	frag_c6	2	306	F
+frag_c4	frag_c6	1	155	R
+frag_c4	frag_c72	1	165	R
+frag_c4	frag_c8	1	160	F
+frag_c4	frag_c8	2	296	R
+frag_c4	frag_c9	1	147	F
+frag_c4	frag_c9	4	601	R
+frag_c4	frag_rep_c76	11	1723	F
+frag_c40	frag_c10	1	164	R
+frag_c40	frag_c11	1	145	R
+frag_c40	frag_c14	1	155	F
+frag_c40	frag_c14	1	161	R
+frag_c40	frag_c1	1	159	F
+frag_c40	frag_c1	2	326	R
+frag_c40	frag_c20	1	163	F
+frag_c40	frag_c21	3	458	F
+frag_c40	frag_c21	1	142	R
+frag_c40	frag_c23	1	163	R
+frag_c40	frag_c24	2	322	F
+frag_c40	frag_c25	1	163	R
+frag_c40	frag_c27	2	264	R
+frag_c40	frag_c29	1	152	R
+frag_c40	frag_c2	2	313	F
+frag_c40	frag_c2	2	317	R
+frag_c40	frag_c30	1	164	R
+frag_c40	frag_c31	1	161	R
+frag_c40	frag_c32	1	154	F
+frag_c40	frag_c33	1	165	R
+frag_c40	frag_c39	1	163	R
+frag_c40	frag_c3	10	1430	F
+frag_c40	frag_c41	1	162	R
+frag_c40	frag_c43	1	162	R
+frag_c40	frag_c49	1	163	F
+frag_c40	frag_c49	1	153	R
+frag_c40	frag_c4	1	164	F
+frag_c40	frag_c50	2	320	R
+frag_c40	frag_c52	1	137	F
+frag_c40	frag_c55	1	152	F
+frag_c40	frag_c56	1	162	F
+frag_c40	frag_c57	1	155	R
+frag_c40	frag_c59	1	162	F
+frag_c40	frag_c61	1	141	F
+frag_c40	frag_c63	213	33072	R
+frag_c40	frag_c6	2	286	F
+frag_c40	frag_c6	3	415	R
+frag_c40	frag_c72	1	160	R
+frag_c40	frag_c8	1	147	F
+frag_c40	frag_c8	3	482	R
+frag_c40	frag_c9	1	147	F
+frag_c40	frag_c9	2	299	R
+frag_c41	frag_c11	1	149	R
+frag_c41	frag_c12	1	154	R
+frag_c41	frag_c14	1	162	F
+frag_c41	frag_c14	2	266	R
+frag_c41	frag_c15	1	152	R
+frag_c41	frag_c16	2	315	R
+frag_c41	frag_c17	1	157	F
+frag_c41	frag_c17	279	42587	R
+frag_c41	frag_c19	1	163	R
+frag_c41	frag_c1	48	7235	F
+frag_c41	frag_c1	1	161	R
+frag_c41	frag_c21	1	163	F
+frag_c41	frag_c24	1	163	F
+frag_c41	frag_c24	1	166	R
+frag_c41	frag_c27	1	163	F
+frag_c41	frag_c28	1	156	R
+frag_c41	frag_c29	3	475	R
+frag_c41	frag_c2	1	163	F
+frag_c41	frag_c33	1	164	F
+frag_c41	frag_c34	1	162	F
+frag_c41	frag_c36	1	151	F
+frag_c41	frag_c3	2	282	R
+frag_c41	frag_c44	1	157	R
+frag_c41	frag_c48	1	161	R
+frag_c41	frag_c57	1	149	F
+frag_c41	frag_c58	1	161	F
+frag_c41	frag_c6	1	164	F
+frag_c41	frag_c8	1	159	R
+frag_c41	frag_c9	1	161	F
+frag_c41	frag_c9	2	315	R
+frag_c42	frag_c12	2	317	R
+frag_c42	frag_c13	1	161	R
+frag_c42	frag_c14	2	321	F
+frag_c42	frag_c14	3	450	R
+frag_c42	frag_c15	1	164	F
+frag_c42	frag_c16	1	163	F
+frag_c42	frag_c19	1	143	R
+frag_c42	frag_c1	1	160	R
+frag_c42	frag_c20	1	162	F
+frag_c42	frag_c21	1	164	F
+frag_c42	frag_c21	1	145	R
+frag_c42	frag_c24	3	414	F
+frag_c42	frag_c25	1	159	F
+frag_c42	frag_c26	1	162	R
+frag_c42	frag_c27	1	164	F
+frag_c42	frag_c27	1	114	R
+frag_c42	frag_c28	3	447	R
+frag_c42	frag_c2	1	164	F
+frag_c42	frag_c2	2	295	R
+frag_c42	frag_c31	307	47484	F
+frag_c42	frag_c32	1	162	F
+frag_c42	frag_c33	2	264	F
+frag_c42	frag_c33	3	432	R
+frag_c42	frag_c35	1	162	R
+frag_c42	frag_c36	2	313	R
+frag_c42	frag_c37	1	154	F
+frag_c42	frag_c37	1	165	R
+frag_c42	frag_c39	2	316	R
+frag_c42	frag_c3	1	159	R
+frag_c42	frag_c40	1	160	F
+frag_c42	frag_c40	1	138	R
+frag_c42	frag_c43	1	163	R
+frag_c42	frag_c44	1	163	R
+frag_c42	frag_c46	1	133	F
+frag_c42	frag_c46	1	160	R
+frag_c42	frag_c47	2	326	F
+frag_c42	frag_c49	2	297	F
+frag_c42	frag_c49	1	159	R
+frag_c42	frag_c50	1	149	F
+frag_c42	frag_c52	1	150	F
+frag_c42	frag_c52	1	164	R
+frag_c42	frag_c57	1	163	R
+frag_c42	frag_c58	1	157	R
+frag_c42	frag_c59	1	163	F
+frag_c42	frag_c5	1	164	F
+frag_c42	frag_c63	1	150	F
+frag_c42	frag_c66	1	162	R
+frag_c42	frag_c67	194	29585	R
+frag_c42	frag_c6	1	144	F
+frag_c42	frag_c6	1	148	R
+frag_c42	frag_c8	1	145	F
+frag_c42	frag_c9	2	321	F
+frag_c43	frag_c10	2	291	F
+frag_c43	frag_c10	1	151	R
+frag_c43	frag_c13	1	161	R
+frag_c43	frag_c14	1	164	F
+frag_c43	frag_c16	1	153	F
+frag_c43	frag_c16	1	155	R
+frag_c43	frag_c1	3	434	F
+frag_c43	frag_c1	2	248	R
+frag_c43	frag_c20	2	304	F
+frag_c43	frag_c20	1	163	R
+frag_c43	frag_c21	1	164	F
+frag_c43	frag_c23	1	163	F
+frag_c43	frag_c25	1	145	F
+frag_c43	frag_c28	1	165	F
+frag_c43	frag_c28	2	311	R
+frag_c43	frag_c29	2	309	F
+frag_c43	frag_c29	1	164	R
+frag_c43	frag_c2	1	157	R
+frag_c43	frag_c31	1	141	F
+frag_c43	frag_c31	1	163	R
+frag_c43	frag_c35	1	148	F
+frag_c43	frag_c37	2	325	F
+frag_c43	frag_c38	1	164	F
+frag_c43	frag_c39	3	426	F
+frag_c43	frag_c39	1	156	R
+frag_c43	frag_c40	1	152	R
+frag_c43	frag_c44	1	103	F
+frag_c43	frag_c45	1	146	F
+frag_c43	frag_c49	1	163	F
+frag_c43	frag_c49	1	164	R
+frag_c43	frag_c50	1	148	F
+frag_c43	frag_c50	1	155	R
+frag_c43	frag_c52	1	151	F
+frag_c43	frag_c52	1	144	R
+frag_c43	frag_c53	1	143	F
+frag_c43	frag_c55	1	163	R
+frag_c43	frag_c5	2	260	F
+frag_c43	frag_c61	1	165	F
+frag_c43	frag_c8	1	152	F
+frag_c43	frag_c9	5	743	R
+frag_c43	frag_rep_c76	1	118	R
+frag_c44	frag_c10	1	135	F
+frag_c44	frag_c10	2	286	R
+frag_c44	frag_c11	1	156	R
+frag_c44	frag_c12	1	165	R
+frag_c44	frag_c13	1	164	R
+frag_c44	frag_c14	3	475	F
+frag_c44	frag_c14	4	639	R
+frag_c44	frag_c15	2	309	F
+frag_c44	frag_c16	2	322	F
+frag_c44	frag_c18	1	154	R
+frag_c44	frag_c19	2	326	F
+frag_c44	frag_c1	5	781	F
+frag_c44	frag_c1	6	939	R
+frag_c44	frag_c20	1	93	F
+frag_c44	frag_c20	2	328	R
+frag_c44	frag_c21	1	156	R
+frag_c44	frag_c22	1	140	R
+frag_c44	frag_c24	2	315	R
+frag_c44	frag_c25	2	312	R
+frag_c44	frag_c26	1	165	R
+frag_c44	frag_c27	4	654	F
+frag_c44	frag_c28	3	491	F
+frag_c44	frag_c28	3	470	R
+frag_c44	frag_c29	2	319	F
+frag_c44	frag_c29	2	268	R
+frag_c44	frag_c2	1	163	F
+frag_c44	frag_c2	1	158	R
+frag_c44	frag_c31	1	154	F
+frag_c44	frag_c31	1	162	R
+frag_c44	frag_c32	1	117	F
+frag_c44	frag_c33	3	460	F
+frag_c44	frag_c33	3	491	R
+frag_c44	frag_c34	2	313	F
+frag_c44	frag_c36	2	308	R
+frag_c44	frag_c37	1	140	F
+frag_c44	frag_c37	1	161	R
+frag_c44	frag_c38	1	155	F
+frag_c44	frag_c38	1	154	R
+frag_c44	frag_c39	2	296	F
+frag_c44	frag_c39	2	324	R
+frag_c44	frag_c3	1	156	F
+frag_c44	frag_c40	1	145	R
+frag_c44	frag_c42	2	297	F
+frag_c44	frag_c42	1	165	R
+frag_c44	frag_c43	1	156	F
+frag_c44	frag_c45	1	158	F
+frag_c44	frag_c46	1	161	F
+frag_c44	frag_c47	1	163	F
+frag_c44	frag_c49	1	165	F
+frag_c44	frag_c49	1	147	R
+frag_c44	frag_c50	1	162	R
+frag_c44	frag_c51	1	155	F
+frag_c44	frag_c51	1	151	R
+frag_c44	frag_c52	1	155	R
+frag_c44	frag_c53	1	162	R
+frag_c44	frag_c56	1	145	F
+frag_c44	frag_c58	1	150	F
+frag_c44	frag_c58	1	152	R
+frag_c44	frag_c61	1	144	F
+frag_c44	frag_c62	310	47813	F
+frag_c44	frag_c63	1	162	F
+frag_c44	frag_c66	1	155	F
+frag_c44	frag_c66	1	147	R
+frag_c44	frag_c6	4	621	F
+frag_c44	frag_c6	1	154	R
+frag_c44	frag_c8	1	162	F
+frag_c44	frag_c8	2	325	R
+frag_c44	frag_c9	4	603	F
+frag_c44	frag_c9	8	1268	R
+frag_c45	frag_c10	1	159	F
+frag_c45	frag_c11	1	162	F
+frag_c45	frag_c12	1	155	F
+frag_c45	frag_c12	1	164	R
+frag_c45	frag_c13	1	162	R
+frag_c45	frag_c14	1	155	F
+frag_c45	frag_c14	2	309	R
+frag_c45	frag_c15	1	162	F
+frag_c45	frag_c16	1	148	F
+frag_c45	frag_c16	2	323	R
+frag_c45	frag_c18	2	312	R
+frag_c45	frag_c19	4	595	F
+frag_c45	frag_c19	1	154	R
+frag_c45	frag_c1	3	473	R
+frag_c45	frag_c20	3	466	F
+frag_c45	frag_c20	1	165	R
+frag_c45	frag_c21	1	139	R
+frag_c45	frag_c22	1	163	R
+frag_c45	frag_c23	1	156	F
+frag_c45	frag_c23	3	482	R
+frag_c45	frag_c24	4	620	F
+frag_c45	frag_c24	2	322	R
+frag_c45	frag_c27	1	152	F
+frag_c45	frag_c28	1	159	F
+frag_c45	frag_c28	3	443	R
+frag_c45	frag_c29	1	163	F
+frag_c45	frag_c29	3	479	R
+frag_c45	frag_c2	389	60024	R
+frag_c45	frag_c31	1	159	F
+frag_c45	frag_c31	1	157	R
+frag_c45	frag_c33	2	310	F
+frag_c45	frag_c33	1	139	R
+frag_c45	frag_c36	1	136	R
+frag_c45	frag_c38	1	165	F
+frag_c45	frag_c38	1	153	R
+frag_c45	frag_c39	2	304	F
+frag_c45	frag_c39	3	458	R
+frag_c45	frag_c44	2	316	R
+frag_c45	frag_c46	1	132	R
+frag_c45	frag_c47	1	149	R
+frag_c45	frag_c48	1	157	R
+frag_c45	frag_c49	2	279	R
+frag_c45	frag_c52	1	164	R
+frag_c45	frag_c53	1	155	F
+frag_c45	frag_c55	1	165	F
+frag_c45	frag_c58	1	155	R
+frag_c45	frag_c59	1	154	F
+frag_c45	frag_c59	1	138	R
+frag_c45	frag_c66	1	154	R
+frag_c45	frag_c6	1	138	F
+frag_c45	frag_c6	3	477	R
+frag_c45	frag_c7	1	153	R
+frag_c45	frag_c8	3	484	F
+frag_c45	frag_c9	1	163	F
+frag_c46	frag_c13	2	326	R
+frag_c46	frag_c15	1	155	R
+frag_c46	frag_c17	1	156	R
+frag_c46	frag_c18	1	163	R
+frag_c46	frag_c19	1	163	F
+frag_c46	frag_c19	1	163	R
+frag_c46	frag_c1	2	295	F
+frag_c46	frag_c1	2	328	R
+frag_c46	frag_c20	1	160	F
+frag_c46	frag_c24	1	144	F
+frag_c46	frag_c28	2	327	R
+frag_c46	frag_c29	1	165	R
+frag_c46	frag_c2	1	165	R
+frag_c46	frag_c33	1	138	F
+frag_c46	frag_c36	1	155	R
+frag_c46	frag_c38	1	148	R
+frag_c46	frag_c39	1	162	F
+frag_c46	frag_c42	1	150	F
+frag_c46	frag_c50	2	251	F
+frag_c46	frag_c51	1	149	F
+frag_c46	frag_c52	1	162	F
+frag_c46	frag_c56	1	145	F
+frag_c46	frag_c57	1	154	F
+frag_c46	frag_c57	1	87	R
+frag_c46	frag_c60	328	50223	F
+frag_c46	frag_c62	1	164	F
+frag_c46	frag_c63	2	328	R
+frag_c46	frag_c67	1	161	F
+frag_c46	frag_c69	1	146	F
+frag_c46	frag_c6	2	329	F
+frag_c46	frag_c6	1	149	R
+frag_c46	frag_c9	1	162	F
+frag_c46	frag_c9	3	458	R
+frag_c47	frag_c10	1	152	F
+frag_c47	frag_c10	1	164	R
+frag_c47	frag_c11	3	482	F
+frag_c47	frag_c13	1	163	F
+frag_c47	frag_c15	2	327	R
+frag_c47	frag_c16	2	306	F
+frag_c47	frag_c16	1	165	R
+frag_c47	frag_c18	1	150	R
+frag_c47	frag_c19	1	118	F
+frag_c47	frag_c19	1	164	R
+frag_c47	frag_c1	3	479	F
+frag_c47	frag_c1	239	36976	R
+frag_c47	frag_c22	3	440	F
+frag_c47	frag_c24	1	118	F
+frag_c47	frag_c24	1	128	R
+frag_c47	frag_c25	1	148	R
+frag_c47	frag_c28	1	162	F
+frag_c47	frag_c28	3	460	R
+frag_c47	frag_c29	2	326	F
+frag_c47	frag_c2	1	164	F
+frag_c47	frag_c2	1	146	R
+frag_c47	frag_c30	1	165	R
+frag_c47	frag_c32	1	155	F
+frag_c47	frag_c33	1	165	F
+frag_c47	frag_c35	1	163	F
+frag_c47	frag_c36	1	163	R
+frag_c47	frag_c37	1	164	R
+frag_c47	frag_c39	1	164	F
+frag_c47	frag_c3	1	154	R
+frag_c47	frag_c40	1	138	F
+frag_c47	frag_c42	1	137	R
+frag_c47	frag_c43	1	154	R
+frag_c47	frag_c44	1	162	R
+frag_c47	frag_c48	1	166	R
+frag_c47	frag_c49	1	159	F
+frag_c47	frag_c4	3	479	R
+frag_c47	frag_c50	2	328	F
+frag_c47	frag_c50	1	160	R
+frag_c47	frag_c52	1	150	R
+frag_c47	frag_c53	1	165	F
+frag_c47	frag_c66	1	163	R
+frag_c47	frag_c6	1	164	F
+frag_c47	frag_c6	2	294	R
+frag_c47	frag_c9	2	312	F
+frag_c47	frag_c9	2	318	R
+frag_c48	frag_c11	1	157	R
+frag_c48	frag_c12	1	164	R
+frag_c48	frag_c14	2	324	R
+frag_c48	frag_c15	1	137	F
+frag_c48	frag_c16	1	164	R
+frag_c48	frag_c19	1	157	F
+frag_c48	frag_c19	1	154	R
+frag_c48	frag_c1	2	327	F
+frag_c48	frag_c20	3	460	F
+frag_c48	frag_c23	1	162	F
+frag_c48	frag_c24	2	284	R
+frag_c48	frag_c25	1	155	F
+frag_c48	frag_c26	1	165	F
+frag_c48	frag_c28	2	308	F
+frag_c48	frag_c28	1	104	R
+frag_c48	frag_c29	1	165	R
+frag_c48	frag_c2	1	153	R
+frag_c48	frag_c33	1	136	F
+frag_c48	frag_c33	1	164	R
+frag_c48	frag_c35	161	24646	R
+frag_c48	frag_c41	1	163	R
+frag_c48	frag_c44	1	157	F
+frag_c48	frag_c46	1	153	F
+frag_c48	frag_c46	1	154	R
+frag_c48	frag_c47	1	132	F
+frag_c48	frag_c49	1	144	F
+frag_c48	frag_c4	1	140	F
+frag_c48	frag_c4	1	156	R
+frag_c48	frag_c52	1	164	R
+frag_c48	frag_c55	1	98	R
+frag_c48	frag_c56	1	153	F
+frag_c48	frag_c56	2	321	R
+frag_c48	frag_c58	1	164	R
+frag_c48	frag_c59	1	155	R
+frag_c48	frag_c63	2	318	R
+frag_c48	frag_c6	1	164	R
+frag_c48	frag_c8	1	150	R
+frag_c48	frag_c9	43	6539	F
+frag_c49	frag_c10	1	146	F
+frag_c49	frag_c10	1	163	R
+frag_c49	frag_c11	1	163	F
+frag_c49	frag_c11	1	156	R
+frag_c49	frag_c12	1	159	R
+frag_c49	frag_c14	1	164	F
+frag_c49	frag_c14	2	305	R
+frag_c49	frag_c15	2	296	R
+frag_c49	frag_c17	4	645	F
+frag_c49	frag_c17	2	298	R
+frag_c49	frag_c19	1	164	F
+frag_c49	frag_c19	3	463	R
+frag_c49	frag_c1	1	163	F
+frag_c49	frag_c1	2	325	R
+frag_c49	frag_c21	1	162	F
+frag_c49	frag_c22	2	312	F
+frag_c49	frag_c23	1	152	R
+frag_c49	frag_c24	1	154	F
+frag_c49	frag_c24	4	634	R
+frag_c49	frag_c27	2	311	F
+frag_c49	frag_c27	1	157	R
+frag_c49	frag_c28	1	163	F
+frag_c49	frag_c28	1	162	R
+frag_c49	frag_c2	1	159	F
+frag_c49	frag_c2	1	163	R
+frag_c49	frag_c32	1	163	F
+frag_c49	frag_c33	2	302	F
+frag_c49	frag_c33	4	632	R
+frag_c49	frag_c34	2	323	F
+frag_c49	frag_c35	266	40666	F
+frag_c49	frag_c35	1	163	R
+frag_c49	frag_c36	1	156	F
+frag_c49	frag_c37	2	324	F
+frag_c49	frag_c37	2	310	R
+frag_c49	frag_c38	3	470	F
+frag_c49	frag_c39	1	157	F
+frag_c49	frag_c39	1	163	R
+frag_c49	frag_c3	1	164	F
+frag_c49	frag_c3	1	156	R
+frag_c49	frag_c43	1	163	R
+frag_c49	frag_c45	1	148	F
+frag_c49	frag_c47	1	154	R
+frag_c49	frag_c50	2	286	F
+frag_c49	frag_c53	1	155	F
+frag_c49	frag_c53	1	158	R
+frag_c49	frag_c56	1	151	F
+frag_c49	frag_c56	2	313	R
+frag_c49	frag_c57	1	156	F
+frag_c49	frag_c58	2	312	F
+frag_c49	frag_c58	1	164	R
+frag_c49	frag_c59	1	155	R
+frag_c49	frag_c5	1	156	F
+frag_c49	frag_c5	2	315	R
+frag_c49	frag_c60	1	128	R
+frag_c49	frag_c61	288	44889	R
+frag_c49	frag_c66	1	164	R
+frag_c49	frag_c6	3	490	F
+frag_c49	frag_c6	2	290	R
+frag_c49	frag_c8	2	270	F
+frag_c49	frag_c8	3	490	R
+frag_c49	frag_c9	1	155	F
+frag_c5	frag_c10	1	141	F
+frag_c5	frag_c10	1	155	R
+frag_c5	frag_c11	1	162	R
+frag_c5	frag_c12	1	152	R
+frag_c5	frag_c15	1	161	F
+frag_c5	frag_c16	1	152	F
+frag_c5	frag_c17	1	120	R
+frag_c5	frag_c18	2	275	R
+frag_c5	frag_c1	1	164	F
+frag_c5	frag_c1	1	155	R
+frag_c5	frag_c20	1	129	F
+frag_c5	frag_c21	1	143	F
+frag_c5	frag_c22	1	154	F
+frag_c5	frag_c23	1	150	F
+frag_c5	frag_c23	1	164	R
+frag_c5	frag_c25	1	146	F
+frag_c5	frag_c27	2	304	R
+frag_c5	frag_c28	3	463	F
+frag_c5	frag_c29	2	315	F
+frag_c5	frag_c2	1	144	R
+frag_c5	frag_c30	1	158	R
+frag_c5	frag_c34	1	165	F
+frag_c5	frag_c36	340	53116	R
+frag_c5	frag_c37	1	145	R
+frag_c5	frag_c38	1	159	R
+frag_c5	frag_c39	1	150	R
+frag_c5	frag_c41	1	162	R
+frag_c5	frag_c42	3	492	F
+frag_c5	frag_c44	1	157	F
+frag_c5	frag_c44	1	163	R
+frag_c5	frag_c46	1	161	R
+frag_c5	frag_c4	1	154	F
+frag_c5	frag_c4	2	315	R
+frag_c5	frag_c50	1	162	R
+frag_c5	frag_c55	1	153	F
+frag_c5	frag_c58	1	163	R
+frag_c5	frag_c8	1	149	R
+frag_c50	frag_c10	2	315	F
+frag_c50	frag_c10	2	314	R
+frag_c50	frag_c11	1	167	F
+frag_c50	frag_c11	2	301	R
+frag_c50	frag_c12	1	165	R
+frag_c50	frag_c14	1	154	F
+frag_c50	frag_c14	1	154	R
+frag_c50	frag_c15	3	486	R
+frag_c50	frag_c16	1	165	F
+frag_c50	frag_c17	2	328	F
+frag_c50	frag_c18	2	327	R
+frag_c50	frag_c1	2	316	F
+frag_c50	frag_c20	2	291	F
+frag_c50	frag_c20	1	145	R
+frag_c50	frag_c21	1	163	F
+frag_c50	frag_c23	1	162	R
+frag_c50	frag_c24	1	148	R
+frag_c50	frag_c25	2	248	F
+frag_c50	frag_c25	2	326	R
+frag_c50	frag_c26	369	57271	F
+frag_c50	frag_c27	1	137	F
+frag_c50	frag_c28	1	151	F
+frag_c50	frag_c28	2	321	R
+frag_c50	frag_c29	1	129	F
+frag_c50	frag_c29	3	474	R
+frag_c50	frag_c2	2	293	F
+frag_c50	frag_c2	1	165	R
+frag_c50	frag_c31	1	60	F
+frag_c50	frag_c32	1	164	F
+frag_c50	frag_c32	2	310	R
+frag_c50	frag_c33	1	165	F
+frag_c50	frag_c33	2	291	R
+frag_c50	frag_c34	1	164	R
+frag_c50	frag_c37	2	320	F
+frag_c50	frag_c38	1	154	F
+frag_c50	frag_c39	3	442	R
+frag_c50	frag_c41	1	158	F
+frag_c50	frag_c49	1	157	R
+frag_c50	frag_c51	2	326	F
+frag_c50	frag_c52	1	123	R
+frag_c50	frag_c53	1	160	F
+frag_c50	frag_c53	2	317	R
+frag_c50	frag_c58	2	320	F
+frag_c50	frag_c59	1	164	R
+frag_c50	frag_c63	1	157	F
+frag_c50	frag_c6	3	465	F
+frag_c50	frag_c6	1	164	R
+frag_c50	frag_c8	1	164	F
+frag_c50	frag_c8	5	783	R
+frag_c50	frag_c9	1	165	F
+frag_c50	frag_c9	4	630	R
+frag_c51	frag_c10	2	303	R
+frag_c51	frag_c14	1	163	F
+frag_c51	frag_c15	1	156	F
+frag_c51	frag_c15	1	157	R
+frag_c51	frag_c16	1	163	F
+frag_c51	frag_c16	1	165	R
+frag_c51	frag_c17	1	164	F
+frag_c51	frag_c18	1	164	F
+frag_c51	frag_c18	2	321	R
+frag_c51	frag_c1	2	296	F
+frag_c51	frag_c1	1	134	R
+frag_c51	frag_c20	1	154	F
+frag_c51	frag_c21	1	162	F
+frag_c51	frag_c22	1	164	R
+frag_c51	frag_c23	2	323	F
+frag_c51	frag_c24	2	329	F
+frag_c51	frag_c24	2	320	R
+frag_c51	frag_c25	1	156	R
+frag_c51	frag_c26	1	164	F
+frag_c51	frag_c28	3	429	R
+frag_c51	frag_c29	3	469	F
+frag_c51	frag_c29	1	162	R
+frag_c51	frag_c2	3	458	F
+frag_c51	frag_c2	1	160	R
+frag_c51	frag_c30	1	164	F
+frag_c51	frag_c31	1	160	F
+frag_c51	frag_c32	1	145	R
+frag_c51	frag_c33	1	147	F
+frag_c51	frag_c34	1	162	F
+frag_c51	frag_c37	1	146	F
+frag_c51	frag_c38	1	163	F
+frag_c51	frag_c38	1	132	R
+frag_c51	frag_c39	1	150	F
+frag_c51	frag_c39	1	146	R
+frag_c51	frag_c42	1	147	F
+frag_c51	frag_c42	1	155	R
+frag_c51	frag_c43	2	287	F
+frag_c51	frag_c44	1	163	F
+frag_c51	frag_c46	1	154	R
+frag_c51	frag_c49	2	327	F
+frag_c51	frag_c49	3	485	R
+frag_c51	frag_c4	1	160	R
+frag_c51	frag_c50	1	162	R
+frag_c51	frag_c57	1	165	R
+frag_c51	frag_c5	1	141	F
+frag_c51	frag_c63	1	150	R
+frag_c51	frag_c67	174	26747	F
+frag_c51	frag_c6	1	143	F
+frag_c51	frag_c6	1	153	R
+frag_c51	frag_c70	1	163	R
+frag_c51	frag_c7	5	798	F
+frag_c51	frag_c7	1	137	R
+frag_c51	frag_c9	1	128	F
+frag_c51	frag_c9	4	560	R
+frag_c52	frag_c10	1	146	F
+frag_c52	frag_c10	2	309	R
+frag_c52	frag_c11	1	162	F
+frag_c52	frag_c11	1	128	R
+frag_c52	frag_c12	1	157	R
+frag_c52	frag_c14	4	596	F
+frag_c52	frag_c14	1	142	R
+frag_c52	frag_c15	2	305	F
+frag_c52	frag_c15	3	437	R
+frag_c52	frag_c18	3	467	R
+frag_c52	frag_c19	2	312	R
+frag_c52	frag_c1	1	129	F
+frag_c52	frag_c1	4	645	R
+frag_c52	frag_c20	2	312	F
+frag_c52	frag_c20	2	310	R
+frag_c52	frag_c23	1	164	R
+frag_c52	frag_c24	3	473	F
+frag_c52	frag_c24	2	328	R
+frag_c52	frag_c26	1	165	F
+frag_c52	frag_c26	1	145	R
+frag_c52	frag_c27	2	315	R
+frag_c52	frag_c28	2	290	F
+frag_c52	frag_c28	2	299	R
+frag_c52	frag_c29	2	316	F
+frag_c52	frag_c29	2	319	R
+frag_c52	frag_c2	1	154	F
+frag_c52	frag_c2	1	160	R
+frag_c52	frag_c33	2	289	F
+frag_c52	frag_c33	6	943	R
+frag_c52	frag_c34	2	305	F
+frag_c52	frag_c34	2	324	R
+frag_c52	frag_c36	1	164	F
+frag_c52	frag_c37	1	157	R
+frag_c52	frag_c38	3	438	F
+frag_c52	frag_c38	1	160	R
+frag_c52	frag_c39	2	325	F
+frag_c52	frag_c39	2	326	R
+frag_c52	frag_c40	1	150	R
+frag_c52	frag_c42	1	152	F
+frag_c52	frag_c42	2	286	R
+frag_c52	frag_c43	1	156	F
+frag_c52	frag_c44	1	163	R
+frag_c52	frag_c47	1	164	F
+frag_c52	frag_c48	1	163	F
+frag_c52	frag_c49	1	95	F
+frag_c52	frag_c4	1	163	R
+frag_c52	frag_c50	1	128	R
+frag_c52	frag_c51	1	145	R
+frag_c52	frag_c53	1	151	F
+frag_c52	frag_c58	2	318	F
+frag_c52	frag_c59	2	307	R
+frag_c52	frag_c5	2	322	F
+frag_c52	frag_c63	34	5212	R
+frag_c52	frag_c6	2	299	F
+frag_c52	frag_c6	4	633	R
+frag_c52	frag_c7	1	156	F
+frag_c52	frag_c9	2	274	F
+frag_c52	frag_c9	3	469	R
+frag_c53	frag_c10	319	49367	R
+frag_c53	frag_c12	1	163	R
+frag_c53	frag_c14	1	157	F
+frag_c53	frag_c14	4	618	R
+frag_c53	frag_c15	1	133	F
+frag_c53	frag_c15	1	161	R
+frag_c53	frag_c17	1	163	F
+frag_c53	frag_c18	2	155	F
+frag_c53	frag_c18	1	156	R
+frag_c53	frag_c19	2	302	F
+frag_c53	frag_c19	1	138	R
+frag_c53	frag_c1	1	165	F
+frag_c53	frag_c1	3	471	R
+frag_c53	frag_c20	2	308	F
+frag_c53	frag_c20	1	136	R
+frag_c53	frag_c23	1	159	R
+frag_c53	frag_c24	1	157	F
+frag_c53	frag_c24	2	263	R
+frag_c53	frag_c25	1	163	F
+frag_c53	frag_c26	1	164	R
+frag_c53	frag_c28	4	633	R
+frag_c53	frag_c29	1	134	F
+frag_c53	frag_c29	3	489	R
+frag_c53	frag_c2	2	310	F
+frag_c53	frag_c2	2	285	R
+frag_c53	frag_c31	3	483	R
+frag_c53	frag_c32	1	152	F
+frag_c53	frag_c32	1	150	R
+frag_c53	frag_c33	1	164	F
+frag_c53	frag_c36	1	165	R
+frag_c53	frag_c37	1	164	F
+frag_c53	frag_c37	2	323	R
+frag_c53	frag_c39	1	164	R
+frag_c53	frag_c3	1	165	F
+frag_c53	frag_c41	1	153	F
+frag_c53	frag_c42	1	157	F
+frag_c53	frag_c42	1	134	R
+frag_c53	frag_c44	1	158	F
+frag_c53	frag_c45	1	163	F
+frag_c53	frag_c45	1	141	R
+frag_c53	frag_c50	2	319	F
+frag_c53	frag_c50	1	153	R
+frag_c53	frag_c52	1	135	F
+frag_c53	frag_c55	1	141	R
+frag_c53	frag_c58	1	159	R
+frag_c53	frag_c63	2	297	F
+frag_c53	frag_c63	1	146	R
+frag_c53	frag_c66	2	318	R
+frag_c53	frag_c6	4	652	F
+frag_c53	frag_c8	1	163	F
+frag_c53	frag_c9	2	315	F
+frag_c53	frag_c9	1	164	R
+frag_c54	frag_c19	1	155	R
+frag_c54	frag_c20	1	157	R
+frag_c54	frag_c21	2	315	R
+frag_c54	frag_c23	1	147	R
+frag_c54	frag_c24	1	164	F
+frag_c54	frag_c25	1	163	F
+frag_c54	frag_c25	1	165	R
+frag_c54	frag_c30	317	49268	F
+frag_c54	frag_c32	1	139	F
+frag_c54	frag_c33	1	162	R
+frag_c54	frag_c43	1	153	R
+frag_c54	frag_c44	1	160	F
+frag_c54	frag_c4	1	161	F
+frag_c54	frag_c62	1	162	R
+frag_c54	frag_c6	2	307	R
+frag_c54	frag_c8	1	150	F
+frag_c54	frag_c9	1	160	F
+frag_c54	frag_c9	1	164	R
+frag_c55	frag_c10	1	144	F
+frag_c55	frag_c11	1	159	F
+frag_c55	frag_c12	2	311	R
+frag_c55	frag_c14	1	153	F
+frag_c55	frag_c18	1	155	F
+frag_c55	frag_c1	4	634	F
+frag_c55	frag_c1	1	165	R
+frag_c55	frag_c20	1	158	F
+frag_c55	frag_c24	3	460	F
+frag_c55	frag_c24	1	137	R
+frag_c55	frag_c25	2	329	F
+frag_c55	frag_c25	1	154	R
+frag_c55	frag_c28	1	164	R
+frag_c55	frag_c29	1	163	F
+frag_c55	frag_c2	3	473	F
+frag_c55	frag_c2	1	104	R
+frag_c55	frag_c31	1	163	F
+frag_c55	frag_c33	2	311	R
+frag_c55	frag_c36	1	163	R
+frag_c55	frag_c37	1	151	F
+frag_c55	frag_c37	1	163	R
+frag_c55	frag_c38	2	329	R
+frag_c55	frag_c3	1	165	R
+frag_c55	frag_c45	1	165	F
+frag_c55	frag_c45	1	154	R
+frag_c55	frag_c49	2	315	F
+frag_c55	frag_c50	1	161	F
+frag_c55	frag_c51	1	163	F
+frag_c55	frag_c56	1	164	R
+frag_c55	frag_c57	1	163	R
+frag_c55	frag_c60	1	165	R
+frag_c55	frag_c61	322	50167	F
+frag_c55	frag_c63	1	156	F
+frag_c55	frag_c6	2	317	F
+frag_c55	frag_c6	2	274	R
+frag_c55	frag_c9	3	468	F
+frag_c55	frag_c9	83	12685	R
+frag_c56	frag_c10	1	153	R
+frag_c56	frag_c11	1	163	F
+frag_c56	frag_c11	1	103	R
+frag_c56	frag_c12	1	122	F
+frag_c56	frag_c14	2	328	F
+frag_c56	frag_c14	7	1054	R
+frag_c56	frag_c15	3	482	F
+frag_c56	frag_c15	1	164	R
+frag_c56	frag_c17	1	156	R
+frag_c56	frag_c18	1	92	R
+frag_c56	frag_c19	1	163	F
+frag_c56	frag_c19	1	162	R
+frag_c56	frag_c1	3	445	F
+frag_c56	frag_c1	2	326	R
+frag_c56	frag_c22	1	156	F
+frag_c56	frag_c24	2	316	F
+frag_c56	frag_c24	1	159	R
+frag_c56	frag_c25	2	258	F
+frag_c56	frag_c25	2	285	R
+frag_c56	frag_c27	1	151	R
+frag_c56	frag_c2	3	474	F
+frag_c56	frag_c2	1	163	R
+frag_c56	frag_c32	2	290	R
+frag_c56	frag_c33	1	164	F
+frag_c56	frag_c35	1	165	R
+frag_c56	frag_c37	1	165	F
+frag_c56	frag_c39	4	583	R
+frag_c56	frag_c3	151	23584	F
+frag_c56	frag_c3	1	143	R
+frag_c56	frag_c42	1	159	F
+frag_c56	frag_c44	3	467	F
+frag_c56	frag_c44	1	146	R
+frag_c56	frag_c45	1	156	F
+frag_c56	frag_c49	1	164	R
+frag_c56	frag_c50	2	288	F
+frag_c56	frag_c50	1	164	R
+frag_c56	frag_c53	1	158	F
+frag_c56	frag_c54	1	165	F
+frag_c56	frag_c57	1	165	R
+frag_c56	frag_c58	1	158	R
+frag_c56	frag_c60	1	155	F
+frag_c56	frag_c66	1	148	F
+frag_c56	frag_c6	1	164	F
+frag_c56	frag_c8	1	162	R
+frag_c56	frag_c9	1	164	R
+frag_c57	frag_c11	1	152	R
+frag_c57	frag_c14	1	147	F
+frag_c57	frag_c15	1	153	R
+frag_c57	frag_c16	1	148	R
+frag_c57	frag_c18	1	163	F
+frag_c57	frag_c18	1	164	R
+frag_c57	frag_c19	2	318	F
+frag_c57	frag_c19	1	153	R
+frag_c57	frag_c1	2	314	R
+frag_c57	frag_c20	1	155	F
+frag_c57	frag_c22	3	451	F
+frag_c57	frag_c22	1	140	R
+frag_c57	frag_c23	1	154	F
+frag_c57	frag_c24	4	627	R
+frag_c57	frag_c25	1	158	R
+frag_c57	frag_c27	3	460	F
+frag_c57	frag_c28	1	158	F
+frag_c57	frag_c29	1	160	F
+frag_c57	frag_c29	2	315	R
+frag_c57	frag_c2	1	163	R
+frag_c57	frag_c32	1	163	F
+frag_c57	frag_c33	1	153	F
+frag_c57	frag_c33	1	148	R
+frag_c57	frag_c34	2	311	F
+frag_c57	frag_c34	1	159	R
+frag_c57	frag_c36	1	146	R
+frag_c57	frag_c37	1	165	F
+frag_c57	frag_c37	1	152	R
+frag_c57	frag_c3	2	315	F
+frag_c57	frag_c3	1	158	R
+frag_c57	frag_c40	1	164	R
+frag_c57	frag_c41	1	154	F
+frag_c57	frag_c43	1	120	F
+frag_c57	frag_c43	1	158	R
+frag_c57	frag_c44	1	143	F
+frag_c57	frag_c45	1	160	R
+frag_c57	frag_c46	1	146	F
+frag_c57	frag_c4	1	152	R
+frag_c57	frag_c52	1	144	R
+frag_c57	frag_c53	1	164	R
+frag_c57	frag_c59	1	163	F
+frag_c57	frag_c59	1	159	R
+frag_c57	frag_c5	1	161	F
+frag_c57	frag_c5	1	154	R
+frag_c57	frag_c61	1	158	F
+frag_c57	frag_c65	1	154	F
+frag_c57	frag_c66	1	156	R
+frag_c57	frag_c6	2	310	F
+frag_c57	frag_c9	2	316	F
+frag_c58	frag_c11	1	139	R
+frag_c58	frag_c12	1	147	F
+frag_c58	frag_c12	1	142	R
+frag_c58	frag_c13	1	144	R
+frag_c58	frag_c14	1	160	F
+frag_c58	frag_c15	2	317	F
+frag_c58	frag_c15	1	165	R
+frag_c58	frag_c18	1	163	F
+frag_c58	frag_c19	1	130	F
+frag_c58	frag_c19	2	318	R
+frag_c58	frag_c1	3	479	F
+frag_c58	frag_c1	44	6804	R
+frag_c58	frag_c21	1	161	R
+frag_c58	frag_c22	1	112	R
+frag_c58	frag_c24	1	139	F
+frag_c58	frag_c25	1	155	F
+frag_c58	frag_c28	2	308	R
+frag_c58	frag_c29	3	472	F
+frag_c58	frag_c29	2	324	R
+frag_c58	frag_c2	1	164	R
+frag_c58	frag_c33	1	155	F
+frag_c58	frag_c34	2	306	F
+frag_c58	frag_c34	1	142	R
+frag_c58	frag_c36	2	325	F
+frag_c58	frag_c36	3	471	R
+frag_c58	frag_c37	1	146	F
+frag_c58	frag_c38	1	156	F
+frag_c58	frag_c39	1	160	R
+frag_c58	frag_c42	1	150	F
+frag_c58	frag_c44	1	146	F
+frag_c58	frag_c44	1	165	R
+frag_c58	frag_c47	1	142	F
+frag_c58	frag_c49	1	164	F
+frag_c58	frag_c50	1	111	R
+frag_c58	frag_c51	1	164	F
+frag_c58	frag_c51	1	164	R
+frag_c58	frag_c53	1	163	R
+frag_c58	frag_c57	1	162	F
+frag_c58	frag_c57	1	147	R
+frag_c58	frag_c63	2	317	F
+frag_c58	frag_c63	1	162	R
+frag_c58	frag_c64	189	29058	F
+frag_c58	frag_c66	1	164	F
+frag_c58	frag_c6	1	129	R
+frag_c58	frag_c9	2	321	F
+frag_c58	frag_c9	1	143	R
+frag_c59	frag_c11	2	327	F
+frag_c59	frag_c12	1	153	F
+frag_c59	frag_c14	2	300	F
+frag_c59	frag_c15	1	163	F
+frag_c59	frag_c19	1	164	R
+frag_c59	frag_c1	2	305	F
+frag_c59	frag_c1	1	156	R
+frag_c59	frag_c20	2	310	F
+frag_c59	frag_c21	1	160	F
+frag_c59	frag_c21	1	157	R
+frag_c59	frag_c22	1	131	F
+frag_c59	frag_c23	1	163	F
+frag_c59	frag_c24	2	329	F
+frag_c59	frag_c24	1	157	R
+frag_c59	frag_c25	1	162	F
+frag_c59	frag_c28	1	156	F
+frag_c59	frag_c28	1	161	R
+frag_c59	frag_c29	1	163	F
+frag_c59	frag_c29	2	290	R
+frag_c59	frag_c2	3	490	F
+frag_c59	frag_c2	2	323	R
+frag_c59	frag_c32	1	153	F
+frag_c59	frag_c33	1	162	F
+frag_c59	frag_c34	1	161	F
+frag_c59	frag_c36	2	326	R
+frag_c59	frag_c37	1	161	F
+frag_c59	frag_c38	1	164	F
+frag_c59	frag_c39	2	302	R
+frag_c59	frag_c45	1	164	R
+frag_c59	frag_c47	2	330	F
+frag_c59	frag_c48	2	323	F
+frag_c59	frag_c48	1	153	R
+frag_c59	frag_c49	1	124	F
+frag_c59	frag_c4	1	165	F
+frag_c59	frag_c4	1	166	R
+frag_c59	frag_c52	3	475	R
+frag_c59	frag_c54	1	163	F
+frag_c59	frag_c66	1	163	F
+frag_c59	frag_c66	1	164	R
+frag_c59	frag_c6	2	294	F
+frag_c59	frag_c6	2	292	R
+frag_c59	frag_c70	1	165	F
+frag_c59	frag_c8	2	307	F
+frag_c59	frag_c9	3	474	F
+frag_c59	frag_c9	1	92	R
+frag_c59	frag_rep_c77	8	1102	F
+frag_c6	frag_c10	1	161	F
+frag_c6	frag_c10	2	276	R
+frag_c6	frag_c11	133	20392	F
+frag_c6	frag_c11	4	622	R
+frag_c6	frag_c12	1	164	F
+frag_c6	frag_c12	1	165	R
+frag_c6	frag_c14	7	1087	F
+frag_c6	frag_c14	7	1070	R
+frag_c6	frag_c15	4	615	F
+frag_c6	frag_c15	5	768	R
+frag_c6	frag_c16	1	148	F
+frag_c6	frag_c16	4	600	R
+frag_c6	frag_c17	2	307	F
+frag_c6	frag_c17	2	322	R
+frag_c6	frag_c18	2	290	R
+frag_c6	frag_c19	2	316	F
+frag_c6	frag_c19	1	161	R
+frag_c6	frag_c1	10	1534	F
+frag_c6	frag_c1	8	1261	R
+frag_c6	frag_c20	2	315	F
+frag_c6	frag_c20	7	1044	R
+frag_c6	frag_c21	3	478	F
+frag_c6	frag_c21	3	467	R
+frag_c6	frag_c22	1	111	F
+frag_c6	frag_c22	5	787	R
+frag_c6	frag_c23	1	128	F
+frag_c6	frag_c23	2	309	R
+frag_c6	frag_c24	10	1533	F
+frag_c6	frag_c24	11	1713	R
+frag_c6	frag_c25	1	149	F
+frag_c6	frag_c25	4	621	R
+frag_c6	frag_c26	2	327	F
+frag_c6	frag_c26	1	164	R
+frag_c6	frag_c27	5	777	F
+frag_c6	frag_c27	6	855	R
+frag_c6	frag_c28	3	476	F
+frag_c6	frag_c28	4	607	R
+frag_c6	frag_c29	7	1044	F
+frag_c6	frag_c29	10	1540	R
+frag_c6	frag_c2	5	743	F
+frag_c6	frag_c2	11	1681	R
+frag_c6	frag_c30	2	318	R
+frag_c6	frag_c31	3	387	F
+frag_c6	frag_c31	1	157	R
+frag_c6	frag_c32	2	322	F
+frag_c6	frag_c32	2	308	R
+frag_c6	frag_c33	4	531	F
+frag_c6	frag_c33	3	342	R
+frag_c6	frag_c34	2	305	F
+frag_c6	frag_c34	2	323	R
+frag_c6	frag_c35	1	162	F
+frag_c6	frag_c35	2	320	R
+frag_c6	frag_c36	4	598	F
+frag_c6	frag_c36	1	154	R
+frag_c6	frag_c37	6	892	F
+frag_c6	frag_c37	2	272	R
+frag_c6	frag_c38	2	278	F
+frag_c6	frag_c38	2	307	R
+frag_c6	frag_c39	12	1903	F
+frag_c6	frag_c39	6	939	R
+frag_c6	frag_c3	2	314	F
+frag_c6	frag_c3	3	454	R
+frag_c6	frag_c40	2	294	F
+frag_c6	frag_c40	1	155	R
+frag_c6	frag_c41	1	156	F
+frag_c6	frag_c41	2	310	R
+frag_c6	frag_c44	2	306	F
+frag_c6	frag_c44	3	474	R
+frag_c6	frag_c45	1	139	F
+frag_c6	frag_c45	1	164	R
+frag_c6	frag_c46	1	151	F
+frag_c6	frag_c47	2	325	F
+frag_c6	frag_c47	1	161	R
+frag_c6	frag_c49	2	321	F
+frag_c6	frag_c49	1	148	R
+frag_c6	frag_c4	1	164	R
+frag_c6	frag_c50	1	146	F
+frag_c6	frag_c50	1	164	R
+frag_c6	frag_c51	3	481	R
+frag_c6	frag_c52	5	792	F
+frag_c6	frag_c52	5	560	R
+frag_c6	frag_c53	2	309	F
+frag_c6	frag_c53	2	299	R
+frag_c6	frag_c54	1	157	F
+frag_c6	frag_c56	2	315	F
+frag_c6	frag_c56	1	163	R
+frag_c6	frag_c57	2	325	F
+frag_c6	frag_c57	2	296	R
+frag_c6	frag_c58	2	317	F
+frag_c6	frag_c58	1	156	R
+frag_c6	frag_c59	2	254	F
+frag_c6	frag_c59	2	310	R
+frag_c6	frag_c5	3	488	F
+frag_c6	frag_c5	4	604	R
+frag_c6	frag_c60	217	33360	R
+frag_c6	frag_c61	1	164	R
+frag_c6	frag_c63	1	163	R
+frag_c6	frag_c66	2	324	F
+frag_c6	frag_c68	1	163	R
+frag_c6	frag_c71	1	160	R
+frag_c6	frag_c7	6	909	F
+frag_c6	frag_c7	2	326	R
+frag_c6	frag_c8	6	959	F
+frag_c6	frag_c8	4	611	R
+frag_c6	frag_c9	8	1211	F
+frag_c6	frag_c9	9	1405	R
+frag_c60	frag_c12	2	328	F
+frag_c60	frag_c13	1	128	F
+frag_c60	frag_c16	1	161	F
+frag_c60	frag_c19	1	157	R
+frag_c60	frag_c1	1	164	R
+frag_c60	frag_c20	1	156	R
+frag_c60	frag_c28	1	162	R
+frag_c60	frag_c29	1	151	R
+frag_c60	frag_c2	1	165	R
+frag_c60	frag_c30	1	161	R
+frag_c60	frag_c46	322	50054	F
+frag_c60	frag_c49	1	133	F
+frag_c60	frag_c50	1	163	R
+frag_c60	frag_c63	1	161	F
+frag_c60	frag_c6	2	328	F
+frag_c60	frag_c6	237	36427	R
+frag_c60	frag_c9	1	162	R
+frag_c61	frag_c11	1	163	R
+frag_c61	frag_c12	1	147	R
+frag_c61	frag_c14	2	318	F
+frag_c61	frag_c15	1	157	F
+frag_c61	frag_c19	1	158	F
+frag_c61	frag_c24	2	318	F
+frag_c61	frag_c25	1	147	F
+frag_c61	frag_c31	1	165	F
+frag_c61	frag_c39	1	131	F
+frag_c61	frag_c42	1	155	R
+frag_c61	frag_c49	303	46783	R
+frag_c61	frag_c55	347	54324	F
+frag_c61	frag_c55	1	118	R
+frag_c61	frag_c6	2	325	F
+frag_c61	frag_c8	1	163	R
+frag_c62	frag_c10	1	154	R
+frag_c62	frag_c12	1	161	F
+frag_c62	frag_c14	1	163	F
+frag_c62	frag_c16	1	137	F
+frag_c62	frag_c1	1	162	F
+frag_c62	frag_c21	1	155	F
+frag_c62	frag_c27	1	158	R
+frag_c62	frag_c2	4	649	F
+frag_c62	frag_c2	1	156	R
+frag_c62	frag_c32	1	164	R
+frag_c62	frag_c36	1	135	R
+frag_c62	frag_c38	1	163	R
+frag_c62	frag_c44	309	46986	F
+frag_c62	frag_c46	1	152	F
+frag_c62	frag_c49	1	153	F
+frag_c62	frag_c4	1	163	R
+frag_c62	frag_c53	1	163	R
+frag_c62	frag_c59	1	163	R
+frag_c62	frag_c9	1	162	F
+frag_c63	frag_c10	2	302	F
+frag_c63	frag_c10	2	322	R
+frag_c63	frag_c11	2	328	F
+frag_c63	frag_c12	1	157	F
+frag_c63	frag_c14	1	165	F
+frag_c63	frag_c14	2	293	R
+frag_c63	frag_c15	1	155	F
+frag_c63	frag_c15	1	164	R
+frag_c63	frag_c16	1	153	R
+frag_c63	frag_c18	1	156	R
+frag_c63	frag_c1	2	293	R
+frag_c63	frag_c20	2	320	F
+frag_c63	frag_c20	1	149	R
+frag_c63	frag_c22	1	154	F
+frag_c63	frag_c24	3	478	R
+frag_c63	frag_c25	1	143	R
+frag_c63	frag_c27	3	443	F
+frag_c63	frag_c27	3	481	R
+frag_c63	frag_c28	4	633	F
+frag_c63	frag_c28	1	164	R
+frag_c63	frag_c29	1	152	F
+frag_c63	frag_c29	1	162	R
+frag_c63	frag_c2	1	160	F
+frag_c63	frag_c2	1	124	R
+frag_c63	frag_c34	2	308	F
+frag_c63	frag_c36	1	148	R
+frag_c63	frag_c37	1	89	F
+frag_c63	frag_c37	2	297	R
+frag_c63	frag_c38	1	156	F
+frag_c63	frag_c3	1	134	F
+frag_c63	frag_c3	1	163	R
+frag_c63	frag_c40	1	96	F
+frag_c63	frag_c40	183	28097	R
+frag_c63	frag_c44	2	321	F
+frag_c63	frag_c44	2	318	R
+frag_c63	frag_c45	1	116	R
+frag_c63	frag_c4	1	165	R
+frag_c63	frag_c50	1	155	R
+frag_c63	frag_c52	34	5091	R
+frag_c63	frag_c53	1	141	F
+frag_c63	frag_c54	1	163	R
+frag_c63	frag_c58	1	162	F
+frag_c63	frag_c5	2	318	F
+frag_c63	frag_c6	2	286	F
+frag_c63	frag_c70	1	165	R
+frag_c63	frag_c8	2	327	F
+frag_c63	frag_c9	1	162	R
+frag_c64	frag_c16	1	155	F
+frag_c64	frag_c1	1	153	R
+frag_c64	frag_c21	2	326	R
+frag_c64	frag_c37	1	163	F
+frag_c64	frag_c3	111	16697	R
+frag_c64	frag_c53	1	146	R
+frag_c64	frag_c58	228	35225	F
+frag_c65	frag_c11	1	155	R
+frag_c65	frag_c14	2	320	F
+frag_c65	frag_c28	1	153	F
+frag_c65	frag_c39	1	165	F
+frag_c65	frag_c49	1	164	R
+frag_c65	frag_c4	1	155	F
+frag_c65	frag_c7	1	147	R
+frag_c65	frag_c9	1	160	R
+frag_c66	frag_c11	1	150	R
+frag_c66	frag_c14	1	155	F
+frag_c66	frag_c17	1	147	F
+frag_c66	frag_c19	1	158	F
+frag_c66	frag_c1	1	164	F
+frag_c66	frag_c20	1	161	R
+frag_c66	frag_c21	1	126	F
+frag_c66	frag_c21	1	151	R
+frag_c66	frag_c24	1	158	F
+frag_c66	frag_c28	1	155	F
+frag_c66	frag_c28	1	161	R
+frag_c66	frag_c29	2	327	R
+frag_c66	frag_c32	1	153	R
+frag_c66	frag_c33	1	163	R
+frag_c66	frag_c3	1	162	F
+frag_c66	frag_c45	1	160	F
+frag_c66	frag_c50	1	140	F
+frag_c66	frag_c63	1	160	R
+frag_c66	frag_c6	1	148	R
+frag_c66	frag_c8	1	163	F
+frag_c67	frag_c10	1	153	R
+frag_c67	frag_c14	7	1057	R
+frag_c67	frag_c25	1	149	F
+frag_c67	frag_c26	1	155	R
+frag_c67	frag_c28	1	156	R
+frag_c67	frag_c34	1	153	F
+frag_c67	frag_c34	1	157	R
+frag_c67	frag_c35	1	161	R
+frag_c67	frag_c37	1	164	F
+frag_c67	frag_c41	1	156	F
+frag_c67	frag_c42	217	33306	R
+frag_c67	frag_c44	1	162	F
+frag_c67	frag_c45	1	163	R
+frag_c67	frag_c51	185	28582	F
+frag_c67	frag_c63	1	158	R
+frag_c67	frag_c71	1	165	R
+frag_c67	frag_c9	1	158	F
+frag_c67	frag_rep_c74	4	601	F
+frag_c68	frag_c20	1	164	R
+frag_c68	frag_c24	1	139	R
+frag_c68	frag_c28	1	163	R
+frag_c68	frag_c29	1	157	F
+frag_c68	frag_c31	1	151	R
+frag_c68	frag_c36	1	159	F
+frag_c68	frag_c37	1	161	R
+frag_c68	frag_c38	187	29045	F
+frag_c68	frag_c45	1	162	R
+frag_c68	frag_c47	1	153	F
+frag_c68	frag_c7	4	602	R
+frag_c68	frag_c8	1	121	F
+frag_c69	frag_c11	1	141	R
+frag_c69	frag_c28	1	163	F
+frag_c69	frag_c33	1	113	R
+frag_c69	frag_c59	1	164	F
+frag_c69	frag_c59	1	154	R
+frag_c69	frag_c61	1	153	R
+frag_c7	frag_c12	6	898	F
+frag_c7	frag_c13	2	312	F
+frag_c7	frag_c14	1	140	F
+frag_c7	frag_c15	1	155	F
+frag_c7	frag_c15	1	156	R
+frag_c7	frag_c16	1	162	F
+frag_c7	frag_c16	1	160	R
+frag_c7	frag_c18	1	155	F
+frag_c7	frag_c1	1	164	R
+frag_c7	frag_c20	1	155	F
+frag_c7	frag_c24	1	162	F
+frag_c7	frag_c24	221	33988	R
+frag_c7	frag_c25	1	164	R
+frag_c7	frag_c27	1	161	F
+frag_c7	frag_c28	1	155	F
+frag_c7	frag_c28	1	148	R
+frag_c7	frag_c29	5	789	R
+frag_c7	frag_c2	1	155	F
+frag_c7	frag_c33	1	154	F
+frag_c7	frag_c33	1	98	R
+frag_c7	frag_c37	1	135	F
+frag_c7	frag_c38	1	158	F
+frag_c7	frag_c38	1	158	R
+frag_c7	frag_c39	1	143	R
+frag_c7	frag_c43	1	161	R
+frag_c7	frag_c44	1	143	R
+frag_c7	frag_c45	1	150	R
+frag_c7	frag_c46	1	165	R
+frag_c7	frag_c49	1	103	F
+frag_c7	frag_c4	1	162	R
+frag_c7	frag_c51	1	156	F
+frag_c7	frag_c57	1	144	R
+frag_c7	frag_c58	1	140	F
+frag_c7	frag_c66	1	164	R
+frag_c7	frag_c67	1	164	R
+frag_c7	frag_c68	4	619	R
+frag_c7	frag_c6	3	440	F
+frag_c7	frag_c9	1	160	R
+frag_c70	frag_c13	1	164	F
+frag_c70	frag_c21	1	158	F
+frag_c70	frag_c2	1	163	R
+frag_c70	frag_c71	213	32859	R
+frag_c71	frag_c18	1	164	F
+frag_c71	frag_c70	230	35403	R
+frag_c71	frag_c9	1	141	R
+frag_c72	frag_c14	69	10698	F
+frag_c72	frag_c14	1	146	R
+frag_c72	frag_c51	1	164	F
+frag_c72	frag_c71	3	418	F
+frag_c72	frag_rep_c74	5	783	F
+frag_c8	frag_c10	1	164	F
+frag_c8	frag_c10	2	328	R
+frag_c8	frag_c14	5	777	F
+frag_c8	frag_c14	1	164	R
+frag_c8	frag_c15	4	622	R
+frag_c8	frag_c16	2	318	F
+frag_c8	frag_c16	3	455	R
+frag_c8	frag_c18	2	324	F
+frag_c8	frag_c18	4	622	R
+frag_c8	frag_c19	1	147	F
+frag_c8	frag_c1	7	1099	F
+frag_c8	frag_c1	6	967	R
+frag_c8	frag_c20	3	485	F
+frag_c8	frag_c20	4	609	R
+frag_c8	frag_c21	1	160	R
+frag_c8	frag_c22	1	137	F
+frag_c8	frag_c23	3	470	R
+frag_c8	frag_c24	3	481	F
+frag_c8	frag_c24	5	790	R
+frag_c8	frag_c25	2	323	F
+frag_c8	frag_c25	2	302	R
+frag_c8	frag_c27	4	605	F
+frag_c8	frag_c27	1	163	R
+frag_c8	frag_c28	3	412	F
+frag_c8	frag_c28	5	792	R
+frag_c8	frag_c29	4	656	F
+frag_c8	frag_c29	7	1122	R
+frag_c8	frag_c2	5	805	R
+frag_c8	frag_c30	2	313	R
+frag_c8	frag_c31	1	162	R
+frag_c8	frag_c32	1	154	F
+frag_c8	frag_c33	2	326	F
+frag_c8	frag_c33	4	617	R
+frag_c8	frag_c34	1	155	F
+frag_c8	frag_c34	1	155	R
+frag_c8	frag_c36	1	160	F
+frag_c8	frag_c36	3	466	R
+frag_c8	frag_c37	2	307	F
+frag_c8	frag_c37	4	603	R
+frag_c8	frag_c39	3	493	F
+frag_c8	frag_c39	4	603	R
+frag_c8	frag_c40	1	147	F
+frag_c8	frag_c40	1	164	R
+frag_c8	frag_c41	4	615	F
+frag_c8	frag_c41	1	164	R
+frag_c8	frag_c42	2	326	F
+frag_c8	frag_c45	2	315	F
+frag_c8	frag_c46	1	160	F
+frag_c8	frag_c46	1	164	R
+frag_c8	frag_c47	3	465	F
+frag_c8	frag_c48	1	158	R
+frag_c8	frag_c49	2	318	F
+frag_c8	frag_c49	1	152	R
+frag_c8	frag_c4	1	163	F
+frag_c8	frag_c4	1	154	R
+frag_c8	frag_c50	1	154	F
+frag_c8	frag_c50	1	150	R
+frag_c8	frag_c52	2	298	R
+frag_c8	frag_c53	3	472	F
+frag_c8	frag_c53	1	163	R
+frag_c8	frag_c55	1	165	F
+frag_c8	frag_c56	1	155	R
+frag_c8	frag_c58	3	444	R
+frag_c8	frag_c59	1	141	F
+frag_c8	frag_c59	4	635	R
+frag_c8	frag_c62	1	136	R
+frag_c8	frag_c63	1	142	F
+frag_c8	frag_c63	1	154	R
+frag_c8	frag_c6	2	325	F
+frag_c8	frag_c6	4	508	R
+frag_c8	frag_c72	1	163	F
+frag_c8	frag_c7	2	326	F
+frag_c8	frag_c9	8	1231	F
+frag_c8	frag_c9	376	58137	R
+frag_c9	frag_c10	1	163	R
+frag_c9	frag_c11	1	153	F
+frag_c9	frag_c11	1	157	R
+frag_c9	frag_c12	6	952	F
+frag_c9	frag_c12	4	586	R
+frag_c9	frag_c13	4	652	R
+frag_c9	frag_c14	7	1103	F
+frag_c9	frag_c14	4	598	R
+frag_c9	frag_c15	1	164	F
+frag_c9	frag_c15	6	955	R
+frag_c9	frag_c16	3	484	F
+frag_c9	frag_c16	4	596	R
+frag_c9	frag_c17	3	405	F
+frag_c9	frag_c17	2	302	R
+frag_c9	frag_c18	4	594	F
+frag_c9	frag_c18	4	624	R
+frag_c9	frag_c19	4	644	F
+frag_c9	frag_c19	7	1143	R
+frag_c9	frag_c1	15	2348	F
+frag_c9	frag_c1	11	1704	R
+frag_c9	frag_c20	1	164	F
+frag_c9	frag_c20	7	1125	R
+frag_c9	frag_c21	2	292	F
+frag_c9	frag_c21	4	566	R
+frag_c9	frag_c22	1	149	F
+frag_c9	frag_c23	5	816	F
+frag_c9	frag_c24	7	1061	F
+frag_c9	frag_c24	5	777	R
+frag_c9	frag_c25	2	317	F
+frag_c9	frag_c25	1	160	R
+frag_c9	frag_c27	2	225	F
+frag_c9	frag_c27	1	109	R
+frag_c9	frag_c28	10	1526	F
+frag_c9	frag_c28	1	161	R
+frag_c9	frag_c29	16	2286	F
+frag_c9	frag_c29	17	2665	R
+frag_c9	frag_c2	10	1532	F
+frag_c9	frag_c2	7	1125	R
+frag_c9	frag_c30	2	291	F
+frag_c9	frag_c30	1	163	R
+frag_c9	frag_c31	1	152	F
+frag_c9	frag_c31	3	484	R
+frag_c9	frag_c32	1	165	F
+frag_c9	frag_c32	2	319	R
+frag_c9	frag_c33	3	485	F
+frag_c9	frag_c33	8	1253	R
+frag_c9	frag_c34	2	319	F
+frag_c9	frag_c34	2	210	R
+frag_c9	frag_c36	1	156	F
+frag_c9	frag_c36	1	162	R
+frag_c9	frag_c37	5	786	F
+frag_c9	frag_c37	1	155	R
+frag_c9	frag_c38	1	146	F
+frag_c9	frag_c38	4	654	R
+frag_c9	frag_c39	7	1132	F
+frag_c9	frag_c39	4	591	R
+frag_c9	frag_c3	1	163	F
+frag_c9	frag_c40	5	758	F
+frag_c9	frag_c40	1	157	R
+frag_c9	frag_c41	2	328	R
+frag_c9	frag_c42	3	463	F
+frag_c9	frag_c42	2	323	R
+frag_c9	frag_c43	1	163	F
+frag_c9	frag_c43	4	616	R
+frag_c9	frag_c44	3	486	F
+frag_c9	frag_c44	2	293	R
+frag_c9	frag_c45	3	456	F
+frag_c9	frag_c45	2	317	R
+frag_c9	frag_c46	1	149	R
+frag_c9	frag_c47	2	317	F
+frag_c9	frag_c47	1	144	R
+frag_c9	frag_c48	41	6360	F
+frag_c9	frag_c48	1	154	R
+frag_c9	frag_c49	2	325	F
+frag_c9	frag_c49	3	485	R
+frag_c9	frag_c4	3	471	R
+frag_c9	frag_c50	1	163	F
+frag_c9	frag_c50	1	159	R
+frag_c9	frag_c51	2	319	R
+frag_c9	frag_c52	2	223	F
+frag_c9	frag_c52	3	482	R
+frag_c9	frag_c53	4	634	R
+frag_c9	frag_c54	1	165	F
+frag_c9	frag_c54	1	163	R
+frag_c9	frag_c55	72	10836	R
+frag_c9	frag_c56	1	156	F
+frag_c9	frag_c56	1	160	R
+frag_c9	frag_c57	3	450	F
+frag_c9	frag_c57	2	322	R
+frag_c9	frag_c58	1	163	F
+frag_c9	frag_c59	3	403	F
+frag_c9	frag_c5	4	606	F
+frag_c9	frag_c5	1	149	R
+frag_c9	frag_c60	1	149	F
+frag_c9	frag_c61	1	162	F
+frag_c9	frag_c63	1	155	F
+frag_c9	frag_c63	1	147	R
+frag_c9	frag_c65	3	482	R
+frag_c9	frag_c66	2	328	F
+frag_c9	frag_c66	1	157	R
+frag_c9	frag_c67	1	143	F
+frag_c9	frag_c6	11	1702	F
+frag_c9	frag_c6	11	1655	R
+frag_c9	frag_c70	1	134	F
+frag_c9	frag_c70	1	164	R
+frag_c9	frag_c71	1	147	F
+frag_c9	frag_c7	2	325	F
+frag_c9	frag_c7	3	387	R
+frag_c9	frag_c8	7	1030	F
+frag_c9	frag_c8	354	54500	R
+frag_c9	frag_rep_c73	2	305	F
+frag_c9	frag_rep_c75	4	617	F
+frag_rep_c74	frag_c39	3	426	R
+frag_rep_c74	frag_c7	2	283	R
+frag_rep_c75	frag_c28	1	109	F
+frag_rep_c75	frag_c9	6	932	F
+frag_rep_c76	frag_c19	21	2941	R
+frag_rep_c76	frag_c4	11	1697	F
+frag_rep_c77	frag_c2	5	795	R
+frag_rep_c77	frag_c59	11	1686	F
+frag_rep_c78	frag_c33	1	134	R
+frag_rep_c79	frag_c15	1	161	R

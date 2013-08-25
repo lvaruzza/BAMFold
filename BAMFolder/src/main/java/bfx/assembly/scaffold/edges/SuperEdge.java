@@ -5,13 +5,26 @@ public class SuperEdge {
 	private int sumMQ;
 	private String left;
 	private String right;
+	private boolean reverse;
 	
 	public SuperEdge(GraphEdge edge) {
 		count=1;
 		left=edge.getLeftNode();
 		right=edge.getRightNode();
 		sumMQ=edge.getMQ();
+		reverse=edge.isReverse();
 	}
+
+	
+	public boolean isReverse() {
+		return reverse;
+	}
+
+
+	public void setReverse(boolean reverse) {
+		this.reverse = reverse;
+	}
+
 
 	public void sumEdge(GraphEdge edge) {
 		count++;
