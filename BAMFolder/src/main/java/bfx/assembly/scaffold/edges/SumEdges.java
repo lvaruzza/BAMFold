@@ -17,7 +17,7 @@ public class SumEdges extends EdgeConsumer implements Iterable<SuperEdge> {
 	}
 	
 	@Override
-	public void callback(GraphEdge edge) {
+	public void callback(AlignEdge edge) {
 		String left=edge.getLeftNode();
 		String right=edge.getRightNode();
 		String dir=edge.isReverse() ? "R" : "F";

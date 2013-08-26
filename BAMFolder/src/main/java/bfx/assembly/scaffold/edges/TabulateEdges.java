@@ -15,7 +15,7 @@ public class TabulateEdges extends EdgeConsumer {
 	}
 	
 	@Override
-	public void callback(GraphEdge edge) {
+	public void callback(AlignEdge edge) {
 		table.printRow(edge.getLeftNode(),
 					   edge.getRightNode(),
 					   edge.getLeftStart(),

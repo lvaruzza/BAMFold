@@ -7,7 +7,7 @@ public class SuperEdge {
 	private String right;
 	private boolean reverse;
 	
-	public SuperEdge(GraphEdge edge) {
+	public SuperEdge(AlignEdge edge) {
 		count=1;
 		left=edge.getLeftNode();
 		right=edge.getRightNode();
@@ -26,7 +26,7 @@ public class SuperEdge {
 	}
 
 
-	public void sumEdge(GraphEdge edge) {
+	public void sumEdge(AlignEdge edge) {
 		count++;
 		sumMQ+=edge.getMQ();
 	}
