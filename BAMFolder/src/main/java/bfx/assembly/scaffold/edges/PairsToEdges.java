@@ -41,11 +41,13 @@ public class PairsToEdges extends AlignConsumer {
 					int MQ = left.getMappingQuality() + right.getMappingQuality();
 					
 					if(tech.validOrientation(leftOrientation, rightOrientation)) {
-						consumer.callback(new GraphEdge(
+						consumer.callback(new AlignEdge(
 								left.getReferenceName(),
 								right.getReferenceName(),
 								left.getAlignmentStart(),
+								left.getAlignmentEnd(),
 								right.getAlignmentStart(),
+								right.getAlignmentEnd(),
 								MQ,
 								leftOrientation
 								));
@@ -63,6 +65,7 @@ public class PairsToEdges extends AlignConsumer {
 
 	@Override
 	public void start() {
+		consumer.setSequences(seqs);
 		consumer.start();
 	}
 

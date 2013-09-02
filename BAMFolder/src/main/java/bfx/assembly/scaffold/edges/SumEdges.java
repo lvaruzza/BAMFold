@@ -17,18 +17,19 @@ public class SumEdges extends EdgeConsumer implements Iterable<SuperEdge> {
 	}
 	
 	@Override
-	public void callback(GraphEdge edge) {
+	public void callback(AlignEdge edge) {
 		String left=edge.getLeftNode();
 		String right=edge.getRightNode();
+		String dir=edge.isReverse() ? "R" : "F";
 		
 		if (!edges.containsKey(left))
 			edges.put(left, new TreeMap<String,SuperEdge>());
 		Map<String,SuperEdge> inner=edges.get(left);
 		
-		if (!inner.containsKey(right)) {
-			inner.put(right, new SuperEdge(edge));
+		if (!inner.containsKey(right + dir)) {
+			inner.put(right + dir, new SuperEdge(edge));
 		} else {
-			inner.get(right).sumEdge(edge);
+			inner.get(right + dir).sumEdge(edge);
 		}
 	}
 
@@ -86,7 +87,8 @@ public class SumEdges extends EdgeConsumer implements Iterable<SuperEdge> {
 			table.printRow(se.getLeft(),
 					se.getRight(),
 					se.getCount(),
-					se.getSumMQ());
+					se.getSumMQ(),
+					se.isReverse() ? "R" : "F");
 		}
 		
 	}
