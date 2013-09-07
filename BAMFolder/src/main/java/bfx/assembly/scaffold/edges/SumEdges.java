@@ -10,10 +10,10 @@ import bfx.assembly.scaffold.technology.IonTorrentTechnology;
 import bfx.assembly.util.Table;
 
 public class SumEdges extends EdgeConsumer implements Iterable<SuperEdge> {
-	private Map<String,Map<String,SuperEdge>> edges;
+	private Map<String,Map<String,SuperEdgeBuilder>> edges;
 	
 	public void start() {
-		edges = new TreeMap<String,Map<String,SuperEdge>>();
+		edges = new TreeMap<String,Map<String,SuperEdgeBuilder>>();
 	}
 	
 	@Override
@@ -23,21 +23,21 @@ public class SumEdges extends EdgeConsumer implements Iterable<SuperEdge> {
 		String dir=edge.isReverse() ? "R" : "F";
 		
 		if (!edges.containsKey(left))
-			edges.put(left, new TreeMap<String,SuperEdge>());
-		Map<String,SuperEdge> inner=edges.get(left);
+			edges.put(left, new TreeMap<String,SuperEdgeBuilder>());
+		Map<String,SuperEdgeBuilder> inner=edges.get(left);
 		
 		if (!inner.containsKey(right + dir)) {
-			inner.put(right + dir, new SuperEdge(edge,seqs));
+			inner.put(right + dir, new SuperEdgeBuilder(edge,seqs));
 		} else {
 			inner.get(right + dir).sumEdge(edge);
 		}
 	}
 
 	public static class SuperEdgeIterator implements Iterator<SuperEdge>{
-		private Iterator<SuperEdge> inner;
-		private Iterator<Map<String,SuperEdge>> outer;
+		private Iterator<SuperEdgeBuilder> inner;
+		private Iterator<Map<String,SuperEdgeBuilder>> outer;
 		
-		public SuperEdgeIterator(Map<String, Map<String, SuperEdge>> edges) {
+		public SuperEdgeIterator(Map<String, Map<String, SuperEdgeBuilder>> edges) {
 			outer = edges.values().iterator();
 			if (outer.hasNext()) {
 				inner = outer.next().values().iterator();
@@ -60,7 +60,7 @@ public class SumEdges extends EdgeConsumer implements Iterable<SuperEdge> {
 
 		@Override
 		public SuperEdge next() {
-			return inner.next();
+			return inner.next().build();
 		}
 
 		@Override
@@ -88,6 +88,9 @@ public class SumEdges extends EdgeConsumer implements Iterable<SuperEdge> {
 					se.getRight(),
 					se.getCount(),
 					se.getSumMQ(),
+					se.getDistanceMedian(),
+					se.getDistanceIQD(),
+					se.getDistanceIQD()/se.getDistanceMedian(),
 					se.isReverse() ? "R" : "F");
 		}
 		
