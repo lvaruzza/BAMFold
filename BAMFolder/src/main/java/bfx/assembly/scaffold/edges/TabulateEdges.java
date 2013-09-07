@@ -21,7 +21,9 @@ public class TabulateEdges extends EdgeConsumer {
 					   edge.getRightNode(),
 					   seqs.get(edge.getRightNode()),
 					   edge.getLeftStart(),
+					   edge.getLeftEnd(),
 					   edge.getRightStart(),
+					   edge.getRightEnd(),
 					   edge.getMQ(),
 					   edge.isReverse() ? "R" : "F");
 	}

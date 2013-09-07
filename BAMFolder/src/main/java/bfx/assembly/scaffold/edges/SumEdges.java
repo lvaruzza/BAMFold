@@ -27,7 +27,7 @@ public class SumEdges extends EdgeConsumer implements Iterable<SuperEdge> {
 		Map<String,SuperEdge> inner=edges.get(left);
 		
 		if (!inner.containsKey(right + dir)) {
-			inner.put(right + dir, new SuperEdge(edge));
+			inner.put(right + dir, new SuperEdge(edge,seqs));
 		} else {
 			inner.get(right + dir).sumEdge(edge);
 		}
