@@ -6,8 +6,8 @@ import java.util.Map;
 import java.util.TreeMap;
 
 import bfx.assembly.scaffold.bam.BAMReader;
-import bfx.assembly.scaffold.technology.IonTorrentTechnology;
 import bfx.assembly.util.Table;
+import bfx.technology.IonTorrent;
 
 public class SumEdges extends EdgeConsumer implements Iterable<SuperEdge> {
 	private Map<String,Map<String,SuperEdgeBuilder>> edges;
@@ -78,7 +78,7 @@ public class SumEdges extends EdgeConsumer implements Iterable<SuperEdge> {
 	public static void main(String[ ] args)  throws IOException {
 		SumEdges sumedges = new SumEdges();
 		BAMReader reader = new BAMReader("data/mates.names.bam");
-		PairsToEdges merger = new PairsToEdges(new IonTorrentTechnology(),10);		
+		PairsToEdges merger = new PairsToEdges(new IonTorrent(),10);		
 		merger.setConsumer(sumedges);
 		reader.read(merger);
 		Table table=new Table("data/super_edges.txt");

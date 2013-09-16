@@ -6,8 +6,8 @@ import org.slf4j.LoggerFactory;
 import net.sf.samtools.SAMRecord;
 import bfx.assembly.scaffold.bam.AlignConsumer;
 import bfx.assembly.scaffold.bam.BAMReader;
-import bfx.assembly.scaffold.technology.IonTorrentTechnology;
-import bfx.assembly.scaffold.technology.Technology;
+import bfx.technology.IonTorrent;
+import bfx.technology.Technology;
 
 public class PairsToEdges extends AlignConsumer {
 	private static Logger log = LoggerFactory.getLogger(BAMReader.class);
