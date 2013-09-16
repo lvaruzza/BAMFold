@@ -1,12 +1,12 @@
 package bfx.assembly.scaffold.edges;
 
+import net.sf.samtools.SAMRecord;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import net.sf.samtools.SAMRecord;
 import bfx.assembly.scaffold.bam.AlignConsumer;
 import bfx.assembly.scaffold.bam.BAMReader;
-import bfx.technology.IonTorrent;
 import bfx.technology.Technology;
 
 public class PairsToEdges extends AlignConsumer {

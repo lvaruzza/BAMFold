@@ -3,9 +3,9 @@ package bfx.technology;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class SOLIDTechnology extends Technology {
+public class SOLiD extends Technology {
 
-	private static Pattern nameRegexp = Pattern.compile("(.*?)_(F3|R3|F5|F5-BC)	");
+	private static Pattern nameRegexp = Pattern.compile("(.*?)_(F3|R3|F5|F5-BC)");
 	
 	@Override
 	public boolean samePair(String read1, String read2) {

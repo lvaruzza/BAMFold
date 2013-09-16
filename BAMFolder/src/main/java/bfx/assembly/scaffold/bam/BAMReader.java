@@ -60,7 +60,6 @@ public class BAMReader {
 			}
 		}
 		reader.close();
-		consumer.finish();
 		log.info("Finished Reading BAM");
 		double q1 = insertStats.getPercentile(25);
 		double q3 = insertStats.getPercentile(75);
@@ -68,7 +67,10 @@ public class BAMReader {
 		inferedInsertIQD = q3-q1;
 		log.info(String.format("insertStats: N=%,d median=%.1f IQD=%.1f",insertStats.getN(), 
 				inferedInsertMedian,inferedInsertIQD));
+		log.info(String.format("insertStats: mean=%.1f SD=%.1f",
+				insertStats.getMean(),insertStats.getStandardDeviation()));
 		log.info(String.format("Edges: %,d",edges));
+		consumer.finish();
 		
 	}
 
