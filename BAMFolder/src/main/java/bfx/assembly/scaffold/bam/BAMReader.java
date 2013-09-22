@@ -49,14 +49,8 @@ public class BAMReader {
 		for (SAMRecord aln:reader) {
 			if(!aln.getDuplicateReadFlag() && 
 			   !aln.getReadUnmappedFlag()) {
-				//out.println(it);
-				if (aln.getMateReferenceName().equals(aln.getReferenceName())) {
-					//out.println(aln);
-					calculateInsertSize(aln);
-				} else {
-					consumer.callback(aln);
-					edges++;
-				}
+				consumer.callback(aln);
+				edges++;
 			}
 		}
 		reader.close();

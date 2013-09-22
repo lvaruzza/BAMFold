@@ -39,8 +39,6 @@ public class PairsToEdges extends AlignConsumer {
 					boolean leftOrientation = !left.getReadNegativeStrandFlag();
 					boolean rightOrientation = !right.getReadNegativeStrandFlag();
 					int MQ = left.getMappingQuality() + right.getMappingQuality();
-					
-					if(tech.validOrientation(leftOrientation, rightOrientation)) {
 						consumer.callback(new AlignEdge(
 								left.getReferenceName(),
 								right.getReferenceName(),
@@ -49,11 +47,9 @@ public class PairsToEdges extends AlignConsumer {
 								right.getAlignmentStart(),
 								right.getAlignmentEnd(),
 								MQ,
-								leftOrientation
+								leftOrientation,
+								rightOrientation
 								));
-					} else {
-						improperPair++;
-					}
 				}
 			} else {
 				left = aln;

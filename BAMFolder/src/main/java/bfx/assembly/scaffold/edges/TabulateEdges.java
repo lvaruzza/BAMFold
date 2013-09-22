@@ -25,7 +25,8 @@ public class TabulateEdges extends EdgeConsumer {
 					   edge.getRightStart(),
 					   edge.getRightEnd(),
 					   edge.getMQ(),
-					   edge.isReverse() ? "R" : "F");
+					   edge.isLeftReverse() ? "R" : "F",
+					  edge.isRightReverse() ? "R" : "F");
 	}
 
 	/**
