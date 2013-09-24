@@ -1,19 +1,21 @@
 package bfx.assembly.scaffold.graphstream;
 
 import java.io.IOException;
-
-import net.sf.samtools.SAMRecord;
+import java.util.Iterator;
 
 import org.graphstream.graph.Edge;
 import org.graphstream.graph.Graph;
 import org.graphstream.graph.Node;
 import org.graphstream.graph.implementations.MultiGraph;
 
-import bfx.assembly.scaffold.bam.AlignConsumer;
-import bfx.assembly.scaffold.bam.BAMReader;
+import bfx.assembly.scaffold.bam.BAMReaderMappedReads;
+import bfx.assembly.scaffold.edges.AlignEdge;
+import bfx.assembly.scaffold.edges.EdgeConsumer;
+import bfx.assembly.scaffold.edges.PairsToEdges;
+import bfx.technology.IonTorrent;
 
 
-public class GSGraphBuilder extends AlignConsumer {
+public class GSGraphBuilder extends EdgeConsumer {
 	private Graph graph;
 	private long edgeCount = 0;
 	private long invalidOrientationPair=0;
@@ -21,9 +23,9 @@ public class GSGraphBuilder extends AlignConsumer {
 	public GSGraphBuilder() {
 		graph = new MultiGraph("graph");
 		//index = graph.createIndex("nodeIdx", Vertex.class);
-		graph.setStrict(false);
-		graph.setAutoCreate(true);
-		graph.display();
+		//graph.setStrict(false);
+		//graph.setAutoCreate(true);
+		//graph.display();
 	}
 	
 	/*private Edge addEdgeCount(Vertex a,Vertex b,String label) {
@@ -52,31 +54,30 @@ public class GSGraphBuilder extends AlignConsumer {
 	}
 	
 	@Override
-	public void callback(SAMRecord aln) {
-		Node left = graph.getNode(aln.getReferenceName());
-		Node right = graph.getNode(aln.getMateReferenceName());
-		
+	public void callback(AlignEdge aln) {
+		Node left = graph.getNode(aln.getLeftNode());		
 		if (left == null) {
-			left = graph.addNode(aln.getReferenceName());
-			left.setAttribute("length", seqs.get(aln.getReferenceName()));
-			left.setAttribute("ui.label", aln.getReferenceName());
+			left = graph.addNode(aln.getLeftNode());
+			left.setAttribute("length", seqs.get(aln.getLeftNode()));
+			left.setAttribute("ui.label", aln.getLeftNode());
 		}
 		
+		Node right = graph.getNode(aln.getRightNode());
 		if (right == null) {
-			right = graph.addNode(aln.getMateReferenceName());
-			left.setAttribute("length", seqs.get(aln.getMateReferenceName()));
-			left.setAttribute("ui.label", aln.getMateReferenceName());
+			right = graph.addNode(aln.getRightNode());
+			left.setAttribute("length", seqs.get(aln.getRightNode()));
+			left.setAttribute("ui.label", aln.getRightNode());
 		}
-		boolean leftIsReverse =  aln.getReadNegativeStrandFlag();  //((flags & 0x10) == 1);
-		boolean rightIsReverse = aln.getMateNegativeStrandFlag(); //((flags & 0x20) == 1);
+		boolean leftIsReverse =  aln.isLeftReverse();
+		boolean rightIsReverse = aln.isRightReverse(); //((flags & 0x20) == 1);
 		
 		// Only process edges with --> --> or <-- <-- orientations 
 		// TODO: Make this configurable in future
 		if ((leftIsReverse ^ rightIsReverse) == false) {
 			if (leftIsReverse && rightIsReverse ) {
-				addEdgeMulti(left,right,"R",aln.getAlignmentStart(),aln.getMappingQuality());
+				addEdgeMulti(left,right,"R",aln.getRightStart(),aln.getMQ());
 			} else {
-				addEdgeMulti(left,right,"F",aln.getAlignmentStart(),aln.getMappingQuality());
+				addEdgeMulti(left,right,"F",aln.getLeftStart(),aln.getMQ());
 			} 
 		} else {
 			invalidOrientationPair++;
@@ -106,11 +107,17 @@ public class GSGraphBuilder extends AlignConsumer {
 	}
 	
 	public static void main(String[] args) throws IOException {
-		BAMReader reader = new BAMReader("data/mates.bam");
+		BAMReaderMappedReads reader = new BAMReaderMappedReads("data/mates.bam");
+		PairsToEdges p2e = new PairsToEdges(new IonTorrent(),20);
 		GSGraphBuilder builder = new GSGraphBuilder();
-		reader.read(builder);
+		p2e.setConsumer(builder);
+		reader.read(p2e);
 		
 		Graph graph = builder.getGraph();
-		
+		Iterator<Node> nodes = graph.getNodeIterator();
+		while(nodes.hasNext()) {
+			Node node = nodes.next();
+			System.out.println(String.format("%s %d",node,node.getInDegree()));
+		}
 	}
 }

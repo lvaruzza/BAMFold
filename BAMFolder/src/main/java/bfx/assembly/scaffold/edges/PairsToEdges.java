@@ -6,11 +6,11 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import bfx.assembly.scaffold.bam.AlignConsumer;
-import bfx.assembly.scaffold.bam.BAMReader;
+import bfx.assembly.scaffold.bam.BAMReaderMappedReads;
 import bfx.technology.Technology;
 
 public class PairsToEdges extends AlignConsumer {
-	private static Logger log = LoggerFactory.getLogger(BAMReader.class);
+	private static Logger log = LoggerFactory.getLogger(BAMReaderMappedReads.class);
 	
 	private Technology tech;
 	private EdgeConsumer consumer;

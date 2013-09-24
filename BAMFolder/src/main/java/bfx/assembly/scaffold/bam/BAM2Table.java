@@ -54,7 +54,7 @@ public class BAM2Table extends AlignConsumer {
 	 * @throws IOException 
 	 */
 	public static void main(String[] args) throws IOException {
-		BAMReader reader = new BAMReader("data/mates.bam");
+		BAMReaderMappedReads reader = new BAMReaderMappedReads("data/mates.bam");
 		BAM2Table builder = new BAM2Table("data/mates.tbl.txt");
 		reader.read(builder);
 	}
