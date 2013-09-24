@@ -18,6 +18,9 @@ public class BAMReaderMappedReads {
 	private static Logger log = LoggerFactory.getLogger(BAMReaderMappedReads.class);
 
 	private File input;
+	private long filtered = 0;
+	private long consumed = 0;
+	
 	public BAMReaderMappedReads(String filename) {
 		input = new File(filename);
 	}
@@ -41,10 +44,16 @@ public class BAMReaderMappedReads {
 			if(!aln.getDuplicateReadFlag() && 
 			   !aln.getReadUnmappedFlag()) {
 				consumer.callback(aln);
+				consumed++;
+			} else {
+				filtered++;
 			}
 		}
 		reader.close();
 		log.info("Finished Reading BAM");
+		double f = 100.0/(filtered+consumed);
+		log.info(String.format("Consumed alignments: %d (%.2f)",consumed,consumed*f));
+		log.info(String.format("Filtered alignments: %d (%.2f)",filtered,filtered*f));
 		consumer.finish();		
 	}
 

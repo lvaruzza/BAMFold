@@ -12,6 +12,7 @@ import bfx.assembly.scaffold.bam.BAMReaderMappedReads;
 import bfx.assembly.scaffold.edges.AlignEdge;
 import bfx.assembly.scaffold.edges.EdgeConsumer;
 import bfx.assembly.scaffold.edges.PairsToEdges;
+import bfx.assembly.scaffold.edges.SplitEdges;
 import bfx.technology.IonTorrent;
 
 
@@ -110,7 +111,10 @@ public class GSGraphBuilder extends EdgeConsumer {
 		BAMReaderMappedReads reader = new BAMReaderMappedReads("data/mates.bam");
 		PairsToEdges p2e = new PairsToEdges(new IonTorrent(),20);
 		GSGraphBuilder builder = new GSGraphBuilder();
-		p2e.setConsumer(builder);
+		InsertStatCalc inscalc = new InsertStatCalc();
+		
+		SplitEdges spliter = new SplitEdges(inscalc,builder);
+		p2e.setConsumer(spliter);
 		reader.read(p2e);
 		
 		Graph graph = builder.getGraph();
