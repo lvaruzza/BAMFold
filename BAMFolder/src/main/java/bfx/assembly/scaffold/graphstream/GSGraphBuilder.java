@@ -43,16 +43,6 @@ public class GSGraphBuilder extends EdgeConsumer {
 		return edge;
 	}*/
 
-	private Edge addEdgeMulti(Node a,Node b,String label,int start, int mq) {
-		if (mq > 0) {
-			Edge edge=graph.addEdge(Long.toString(edgeCount), a.getId() ,b.getId());
-			edge.setAttribute("start", start);
-			edge.setAttribute("MQ", mq);
-			edgeCount++;
-			return edge;
-		}
-		return null;
-	}
 	
 	@Override
 	public void callback(AlignEdge aln) {
@@ -69,20 +59,10 @@ public class GSGraphBuilder extends EdgeConsumer {
 			left.setAttribute("length", seqs.get(aln.getRightNode()));
 			left.setAttribute("ui.label", aln.getRightNode());
 		}
-		boolean leftIsReverse =  aln.isLeftReverse();
-		boolean rightIsReverse = aln.isRightReverse(); //((flags & 0x20) == 1);
 		
-		// Only process edges with --> --> or <-- <-- orientations 
-		// TODO: Make this configurable in future
-		if ((leftIsReverse ^ rightIsReverse) == false) {
-			if (leftIsReverse && rightIsReverse ) {
-				addEdgeMulti(left,right,"R",aln.getRightStart(),aln.getMQ());
-			} else {
-				addEdgeMulti(left,right,"F",aln.getLeftStart(),aln.getMQ());
-			} 
-		} else {
-			invalidOrientationPair++;
-		}
+		Edge edge=graph.addEdge(Long.toString(edgeCount), aln.getLeftNode(),aln.getRightNode());
+		edge.setAttribute("MQ", aln.getMQ());
+		
 	}
 
 	public Graph getGraph() {
@@ -108,7 +88,7 @@ public class GSGraphBuilder extends EdgeConsumer {
 	}
 	
 	public static void main(String[] args) throws IOException {
-		BAMReaderMappedReads reader = new BAMReaderMappedReads("data/mates.bam");
+		BAMReaderMappedReads reader = new BAMReaderMappedReads("data/mates.names.bam");
 		PairsToEdges p2e = new PairsToEdges(new IonTorrent(),20);
 		GSGraphBuilder builder = new GSGraphBuilder();
 		InsertStatCalc inscalc = new InsertStatCalc();
